@@ -1,92 +1,98 @@
 {
-  "generated_at": "2026-10-11T05:33:14Z",
+  "generated_at": "2026-10-11T12:47:15Z",
   "candidate_count": 234,
   "verified_count": 186,
   "turkish_count": 100,
   "app_ready_count": 88,
   "published_plugin_count": 235,
-  "rejected_plugin_count": 63,
+  "rejected_plugin_count": 64,
   "plugin_fallback_count": 28,
   "catalog_repo_count": 88,
   "global_count": 86,
   "changes": [
     {
       "type": "plugin_count",
-      "repository": "Wiojelt/TurkSinema",
-      "old": 70,
-      "new": 71
+      "repository": "Kayracs3/Kayra",
+      "old": 22,
+      "new": 23
     },
     {
       "type": "plugins_updated",
-      "repository": "Wiojelt/TurkSinema",
-      "old": "2026-10-10T22:43:07Z",
-      "new": "2026-10-11T00:02:26Z"
-    },
-    {
-      "type": "plugin_count",
-      "repository": "Wiojelt/WioDrama",
-      "old": 2,
-      "new": 4
+      "repository": "Kayracs3/Kayra",
+      "old": "2026-10-10T19:51:52Z",
+      "new": "2026-10-11T12:19:36Z"
     },
     {
       "type": "plugins_updated",
-      "repository": "Wiojelt/WioDrama",
-      "old": "2026-09-25T21:03:55Z",
-      "new": "2026-10-11T00:58:27Z"
+      "repository": "MakotoTokioki/Kekik-cloudstream",
+      "old": "2026-10-09T20:46:59Z",
+      "new": "2026-10-11T06:33:48Z"
     },
     {
-      "type": "plugin_count",
+      "type": "plugins_updated",
+      "repository": "Wiojelt/TurkSpor",
+      "old": "2026-10-10T22:41:26Z",
+      "new": "2026-10-11T12:07:58Z"
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "Wiojelt/WioAnime",
+      "old": "2026-10-09T14:17:15Z",
+      "new": "2026-10-11T09:50:52Z"
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "Wiojelt/WioKids",
+      "old": "2026-10-05T22:44:30Z",
+      "new": "2026-10-11T10:00:39Z"
+    },
+    {
+      "type": "plugins_updated",
       "repository": "Wiojelt/WioSpor",
-      "old": 1,
-      "new": 27
+      "old": "2026-10-11T01:07:25Z",
+      "new": "2026-10-11T12:08:00Z"
     },
     {
       "type": "plugins_updated",
-      "repository": "Wiojelt/WioSpor",
-      "old": "2026-10-10T22:41:28Z",
-      "new": "2026-10-11T01:07:25Z"
-    },
-    {
-      "type": "plugin_count",
-      "repository": "Wiojelt/test",
-      "old": 5,
-      "new": 6
-    },
-    {
-      "type": "plugins_updated",
-      "repository": "Wiojelt/test",
-      "old": "2026-10-10T00:52:01Z",
-      "new": "2026-10-11T00:54:44Z"
-    },
-    {
-      "type": "plugin_count",
-      "repository": "arcilingir/TurkSinema",
-      "old": 70,
-      "new": 71
-    },
-    {
-      "type": "plugins_updated",
-      "repository": "arcilingir/TurkSinema",
-      "old": "2026-10-10T22:43:07Z",
-      "new": "2026-10-11T00:02:26Z"
+      "repository": "arcilingir/TurkSpor",
+      "old": "2026-10-10T22:41:26Z",
+      "new": "2026-10-11T12:07:58Z"
     },
     {
       "type": "plugins_updated",
       "repository": "arcilingir/WioSpor",
-      "old": "2026-10-08T13:43:10Z",
-      "new": "2026-10-11T01:07:25Z"
+      "old": "2026-10-11T01:07:25Z",
+      "new": "2026-10-11T12:06:43Z"
     },
     {
       "type": "plugin_count",
-      "repository": "pisovo-5031/TurkSinema",
-      "old": 70,
-      "new": 71
+      "repository": "berr49300/cloudstream-film-repo",
+      "old": 3,
+      "new": 2
     },
     {
       "type": "plugins_updated",
-      "repository": "pisovo-5031/TurkSinema",
-      "old": "2026-10-10T22:43:07Z",
-      "new": "2026-10-11T00:02:26Z"
+      "repository": "berr49300/cloudstream-film-repo",
+      "old": "2026-10-10T22:24:08Z",
+      "new": "2026-10-11T10:30:02Z"
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "burak-ayd/cloudstream-repo",
+      "old": "2026-10-09T20:46:59Z",
+      "new": "2026-10-11T06:33:48Z"
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "feroxx/Kekik-cloudstream",
+      "old": "2026-10-09T20:46:59Z",
+      "new": "2026-10-11T06:33:48Z"
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "pisovo-5031/TurkSpor",
+      "old": "2026-10-10T22:41:26Z",
+      "new": "2026-10-11T12:07:58Z"
     }
   ]
 }
