@@ -11,8 +11,8 @@ CloudStream repo discovery and validation bot
 
 Bu tablo bot tarafından otomatik güncellenir. Kısa kod/adresler kaynak repoların README dosyalarından tespit edilir.
 
-**Son tarama:** <code>2026-10-11T12:47:15Z</code>  
-**EmirTV birleşik depo:** <code>https://py.md/emirtv</code> · <code>!emirtv</code> · **235 eklenti**
+**Son tarama:** <code>2026-10-11T21:57:52Z</code>  
+**EmirTV birleşik depo:** <code>https://py.md/emirtv</code> · <code>!emirtv</code> · **240 eklenti**
 
 | Repo | Durum | Eklenti | Kısa kod / adres | Uzun repo.json |
 |---|---|---:|---|---|
