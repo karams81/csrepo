@@ -1,74 +1,13 @@
 {
-  "generated_at": "2026-10-11T21:57:52Z",
+  "generated_at": "2026-10-12T05:46:00Z",
   "candidate_count": 235,
   "verified_count": 186,
   "turkish_count": 100,
   "app_ready_count": 88,
-  "published_plugin_count": 240,
-  "rejected_plugin_count": 63,
-  "plugin_fallback_count": 26,
+  "published_plugin_count": 238,
+  "rejected_plugin_count": 65,
+  "plugin_fallback_count": 30,
   "catalog_repo_count": 88,
   "global_count": 86,
-  "changes": [
-    {
-      "type": "plugin_count",
-      "repository": "Kayracs3/Kayra",
-      "old": 23,
-      "new": 24
-    },
-    {
-      "type": "plugins_updated",
-      "repository": "Kayracs3/Kayra",
-      "old": "2026-10-11T12:19:36Z",
-      "new": "2026-10-11T17:52:48Z"
-    },
-    {
-      "type": "plugins_updated",
-      "repository": "Wiojelt/TurkSinema",
-      "old": "2026-10-11T00:02:26Z",
-      "new": "2026-10-11T20:21:06Z"
-    },
-    {
-      "type": "plugins_updated",
-      "repository": "Wiojelt/WioSpor",
-      "old": "2026-10-11T12:08:00Z",
-      "new": "2026-10-11T13:59:02Z"
-    },
-    {
-      "type": "plugins_updated",
-      "repository": "arcilingir/TurkSinema",
-      "old": "2026-10-11T00:02:26Z",
-      "new": "2026-10-11T20:21:06Z"
-    },
-    {
-      "type": "plugins_updated",
-      "repository": "arcilingir/WioSpor",
-      "old": "2026-10-11T12:06:43Z",
-      "new": "2026-10-11T13:59:02Z"
-    },
-    {
-      "type": "plugin_count",
-      "repository": "berr49300/cloudstream-film-repo",
-      "old": 2,
-      "new": 4
-    },
-    {
-      "type": "plugins_updated",
-      "repository": "berr49300/cloudstream-film-repo",
-      "old": "2026-10-11T10:30:02Z",
-      "new": "2026-10-11T20:00:04Z"
-    },
-    {
-      "type": "plugin_count",
-      "repository": "dr-octagon/BronzeCloud",
-      "old": 52,
-      "new": 55
-    },
-    {
-      "type": "plugins_updated",
-      "repository": "pisovo-5031/TurkSinema",
-      "old": "2026-10-11T00:02:26Z",
-      "new": "2026-10-11T20:21:06Z"
-    }
-  ]
+  "changes": []
 }
