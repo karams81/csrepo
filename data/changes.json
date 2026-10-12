@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T05:46:00Z",
+  "generated_at": "2026-10-12T15:17:31Z",
   "candidate_count": 235,
   "verified_count": 186,
   "turkish_count": 100,
@@ -9,5 +9,30 @@
   "plugin_fallback_count": 30,
   "catalog_repo_count": 88,
   "global_count": 86,
-  "changes": []
+  "changes": [
+    {
+      "type": "plugins_updated",
+      "repository": "Wiojelt/TurkSinema",
+      "old": "2026-10-11T20:21:06Z",
+      "new": "2026-10-12T12:28:24Z"
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "arcilingir/TurkSinema",
+      "old": "2026-10-11T20:21:06Z",
+      "new": "2026-10-12T12:28:24Z"
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "berr49300/cloudstream-film-repo",
+      "old": "2026-10-11T20:00:04Z",
+      "new": "2026-10-12T11:11:43Z"
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "pisovo-5031/TurkSinema",
+      "old": "2026-10-11T20:21:06Z",
+      "new": "2026-10-12T12:28:24Z"
+    }
+  ]
 }
