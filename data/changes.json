@@ -1,38 +1,80 @@
 {
-  "generated_at": "2026-10-12T15:17:31Z",
+  "generated_at": "2026-10-13T00:39:40Z",
   "candidate_count": 235,
   "verified_count": 186,
   "turkish_count": 100,
   "app_ready_count": 88,
-  "published_plugin_count": 238,
-  "rejected_plugin_count": 65,
+  "published_plugin_count": 242,
+  "rejected_plugin_count": 61,
   "plugin_fallback_count": 30,
   "catalog_repo_count": 88,
   "global_count": 86,
   "changes": [
     {
       "type": "plugins_updated",
-      "repository": "Wiojelt/TurkSinema",
-      "old": "2026-10-11T20:21:06Z",
-      "new": "2026-10-12T12:28:24Z"
+      "repository": "Wiojelt/TurkSpor",
+      "old": "2026-10-11T12:07:58Z",
+      "new": "2026-10-12T22:07:30Z"
     },
     {
       "type": "plugins_updated",
-      "repository": "arcilingir/TurkSinema",
-      "old": "2026-10-11T20:21:06Z",
-      "new": "2026-10-12T12:28:24Z"
+      "repository": "Wiojelt/WioAnime",
+      "old": "2026-10-11T09:50:52Z",
+      "new": "2026-10-12T22:58:58Z"
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "Wiojelt/WioSpor",
+      "old": "2026-10-11T13:59:02Z",
+      "new": "2026-10-12T23:37:02Z"
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "Wiojelt/WiojeltSpor",
+      "old": "2026-10-10T22:08:00Z",
+      "new": "2026-10-12T21:30:45Z"
+    },
+    {
+      "type": "plugin_count",
+      "repository": "Wiojelt/test",
+      "old": 6,
+      "new": 3
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "Wiojelt/test",
+      "old": "2026-10-11T00:54:44Z",
+      "new": "2026-10-12T23:29:09Z"
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "arcilingir/TurkSpor",
+      "old": "2026-10-11T12:07:58Z",
+      "new": "2026-10-12T22:07:30Z"
+    },
+    {
+      "type": "plugin_count",
+      "repository": "berr49300/cloudstream-film-repo",
+      "old": 4,
+      "new": 5
     },
     {
       "type": "plugins_updated",
       "repository": "berr49300/cloudstream-film-repo",
-      "old": "2026-10-11T20:00:04Z",
-      "new": "2026-10-12T11:11:43Z"
+      "old": "2026-10-12T11:11:43Z",
+      "new": "2026-10-12T15:38:39Z"
+    },
+    {
+      "type": "plugin_count",
+      "repository": "dr-octagon/BronzeCloud",
+      "old": 55,
+      "new": 56
     },
     {
       "type": "plugins_updated",
-      "repository": "pisovo-5031/TurkSinema",
-      "old": "2026-10-11T20:21:06Z",
-      "new": "2026-10-12T12:28:24Z"
+      "repository": "pisovo-5031/TurkSpor",
+      "old": "2026-10-11T12:07:58Z",
+      "new": "2026-10-12T22:07:30Z"
     }
   ]
 }
