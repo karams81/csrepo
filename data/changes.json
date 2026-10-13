@@ -1,80 +1,62 @@
 {
-  "generated_at": "2026-10-13T00:39:40Z",
-  "candidate_count": 235,
+  "generated_at": "2026-10-13T14:17:10Z",
+  "candidate_count": 237,
   "verified_count": 186,
   "turkish_count": 100,
   "app_ready_count": 88,
-  "published_plugin_count": 242,
-  "rejected_plugin_count": 61,
-  "plugin_fallback_count": 30,
+  "published_plugin_count": 236,
+  "rejected_plugin_count": 67,
+  "plugin_fallback_count": 25,
   "catalog_repo_count": 88,
   "global_count": 86,
   "changes": [
     {
       "type": "plugins_updated",
+      "repository": "MakotoTokioki/Kekik-cloudstream",
+      "old": "2026-10-11T06:33:48Z",
+      "new": "2026-10-13T08:13:55Z"
+    },
+    {
+      "type": "plugins_updated",
       "repository": "Wiojelt/TurkSpor",
-      "old": "2026-10-11T12:07:58Z",
-      "new": "2026-10-12T22:07:30Z"
-    },
-    {
-      "type": "plugins_updated",
-      "repository": "Wiojelt/WioAnime",
-      "old": "2026-10-11T09:50:52Z",
-      "new": "2026-10-12T22:58:58Z"
-    },
-    {
-      "type": "plugins_updated",
-      "repository": "Wiojelt/WioSpor",
-      "old": "2026-10-11T13:59:02Z",
-      "new": "2026-10-12T23:37:02Z"
-    },
-    {
-      "type": "plugins_updated",
-      "repository": "Wiojelt/WiojeltSpor",
-      "old": "2026-10-10T22:08:00Z",
-      "new": "2026-10-12T21:30:45Z"
-    },
-    {
-      "type": "plugin_count",
-      "repository": "Wiojelt/test",
-      "old": 6,
-      "new": 3
-    },
-    {
-      "type": "plugins_updated",
-      "repository": "Wiojelt/test",
-      "old": "2026-10-11T00:54:44Z",
-      "new": "2026-10-12T23:29:09Z"
+      "old": "2026-10-12T22:07:30Z",
+      "new": "2026-10-13T11:07:13Z"
     },
     {
       "type": "plugins_updated",
       "repository": "arcilingir/TurkSpor",
-      "old": "2026-10-11T12:07:58Z",
-      "new": "2026-10-12T22:07:30Z"
-    },
-    {
-      "type": "plugin_count",
-      "repository": "berr49300/cloudstream-film-repo",
-      "old": 4,
-      "new": 5
+      "old": "2026-10-12T22:07:30Z",
+      "new": "2026-10-13T11:07:13Z"
     },
     {
       "type": "plugins_updated",
       "repository": "berr49300/cloudstream-film-repo",
-      "old": "2026-10-12T11:11:43Z",
-      "new": "2026-10-12T15:38:39Z"
+      "old": "2026-10-12T15:38:39Z",
+      "new": "2026-10-13T13:56:47Z"
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "burak-ayd/cloudstream-repo",
+      "old": "2026-10-11T06:33:48Z",
+      "new": "2026-10-13T08:13:55Z"
     },
     {
       "type": "plugin_count",
       "repository": "dr-octagon/BronzeCloud",
-      "old": 55,
-      "new": 56
+      "old": 56,
+      "new": 57
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "feroxx/Kekik-cloudstream",
+      "old": "2026-10-11T06:33:48Z",
+      "new": "2026-10-13T08:13:55Z"
     },
     {
       "type": "plugins_updated",
       "repository": "pisovo-5031/TurkSpor",
-      "old": "2026-10-11T12:07:58Z",
-      "new": "2026-10-12T22:07:30Z"
+      "old": "2026-10-12T22:07:30Z",
+      "new": "2026-10-13T11:07:13Z"
     }
   ]
 }
