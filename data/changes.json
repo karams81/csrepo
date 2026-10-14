@@ -1,13 +1,68 @@
 {
-  "generated_at": "2026-10-14T04:40:48Z",
+  "generated_at": "2026-10-14T11:50:26Z",
   "candidate_count": 237,
   "verified_count": 186,
   "turkish_count": 100,
   "app_ready_count": 88,
-  "published_plugin_count": 240,
-  "rejected_plugin_count": 64,
-  "plugin_fallback_count": 24,
+  "published_plugin_count": 242,
+  "rejected_plugin_count": 62,
+  "plugin_fallback_count": 27,
   "catalog_repo_count": 88,
   "global_count": 86,
-  "changes": []
+  "changes": [
+    {
+      "type": "plugin_count",
+      "repository": "Emre-Kahveci/CloudStreamHub",
+      "old": 23,
+      "new": 25
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "Emre-Kahveci/CloudStreamHub",
+      "old": "2026-10-03T18:24:21Z",
+      "new": "2026-10-14T10:27:32Z"
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "MakotoTokioki/Kekik-cloudstream",
+      "old": "2026-10-13T08:13:55Z",
+      "new": "2026-10-14T10:17:49Z"
+    },
+    {
+      "type": "plugin_count",
+      "repository": "Sertel392/gencler",
+      "old": 74,
+      "new": 73
+    },
+    {
+      "type": "plugin_count",
+      "repository": "adilem/MyTV",
+      "old": 74,
+      "new": 73
+    },
+    {
+      "type": "plugin_count",
+      "repository": "arcilingir/CloudStreamHub",
+      "old": 23,
+      "new": 25
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "arcilingir/CloudStreamHub",
+      "old": "2026-10-03T18:24:21Z",
+      "new": "2026-10-14T10:27:32Z"
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "burak-ayd/cloudstream-repo",
+      "old": "2026-10-13T08:13:55Z",
+      "new": "2026-10-14T10:17:49Z"
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "feroxx/Kekik-cloudstream",
+      "old": "2026-10-13T08:13:55Z",
+      "new": "2026-10-14T10:17:49Z"
+    }
+  ]
 }
