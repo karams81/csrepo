@@ -296,26 +296,6 @@
     "name": "AsyaFilmIzle"
   },
   {
-    "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepofull/builds/AsyaWatch.cs3",
-    "status": 1,
-    "version": 38,
-    "name": "AsyaWatch",
-    "internalName": "AsyaWatch",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "description": "Kore, Çin ve Japon dizilerini tek tıkla HD ve Türkçe altyazılı izle. En güncel Asya dizileri, unutulmaz Asya filmleri ve web dramalar seni bekliyor.",
-    "fileSize": 61456,
-    "repositoryUrl": "https://github.com/hrtestingx/hrcsrepofull",
-    "language": "tr",
-    "tvTypes": [
-      "AsianDrama"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=asyawatch.com",
-    "apiVersion": 1,
-    "fileHash": "sha256-75c09c7a2087ab0e1abcf2d2b55da86900b146b2273f1670cc73c6a8a2be8ffe"
-  },
-  {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/e4a46d39d5fb813816af58e6484c83d595b73f02/AtomSpor.cs3",
     "status": 1,
     "version": 2,
@@ -474,9 +454,9 @@
     "fileHash": "sha256-a57408a2254d21cabdfa52c8c08b051d7b2745e1cc54397a3f936741addf1a58"
   },
   {
-    "url": "https://raw.githubusercontent.com/dr-octagon/Cloudstream-BronzeCloud/builds/BOAT_v47.cs3",
+    "url": "https://raw.githubusercontent.com/dr-octagon/Cloudstream-BronzeCloud/builds/BOAT_v48.cs3",
     "status": 1,
-    "version": 47,
+    "version": 48,
     "name": "BOAT",
     "internalName": "BOAT",
     "authors": [
@@ -496,7 +476,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/dr-octagon/Cloudstream-BronzeCloud/builds/logos/boat_v2.png",
     "apiVersion": 1,
-    "fileHash": "sha256-2c42724704194f7426a2f86969ccec4d863dd60ec0d95f2a96cc69925718e80d"
+    "fileHash": "sha256-878ea7ac73292587c9a84a8a9605e79593da7a5d83cc1e76f43faad09687f3f4"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
@@ -587,9 +567,9 @@
     "fileHash": "sha256-38ffa9ee29bd4aff4126240827b545207d8cf62ba51e666d6b93b69e7d6682e6"
   },
   {
-    "url": "https://raw.githubusercontent.com/dr-octagon/Cloudstream-BronzeCloud/builds/CineStream_v546.cs3",
+    "url": "https://raw.githubusercontent.com/dr-octagon/Cloudstream-BronzeCloud/builds/CineStream_v547.cs3",
     "status": 1,
-    "version": 546,
+    "version": 547,
     "name": "CineStream",
     "internalName": "CineStream",
     "authors": [
@@ -611,7 +591,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/dr-octagon/Cloudstream-BronzeCloud/builds/logos/cinestream.png",
     "apiVersion": 1,
-    "fileHash": "sha256-b9f289042fcd3a993b7af56e2b7f5baf68caa7ed12e03cdf92dc25715d844021"
+    "fileHash": "sha256-33643fdaf50e6b4b680efb06f41775a1ed313b0b20600fc7bc8f6664b0b781bc"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/CizgiDiziNet.cs3?v=2efc903e18bc",
@@ -2001,26 +1981,6 @@
     "fileHash": "sha256-7b43c88e7221faed634263a732767334d1ae866b5c0d96a5c663b89f71c60d02"
   },
   {
-    "iconUrl": "https://filmkutusu.com/favicon.ico",
-    "fileHash": "sha256-d1c4259d00ea88d1763cfdf782e0905da91b0091038b26ac7d3b5432b6521a95",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Kayracs3/Kayra",
-    "fileSize": 32138,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "Kayracs3"
-    ],
-    "tvTypes": [
-      "Movie"
-    ],
-    "version": 1,
-    "internalName": "FilmKutusu",
-    "description": "FilmKutusu film arşivi, arama ve film bilgileri",
-    "url": "https://raw.githubusercontent.com/Kayracs3/Kayra/builds/FilmKutusu.cs3",
-    "name": "FilmKutusu"
-  },
-  {
     "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/FilmMakinesi.cs3?v=cfb9a5c37535",
     "status": 3,
     "version": 8,
@@ -2589,6 +2549,26 @@
     "iconUrl": "https://raw.githubusercontent.com/hrtestingx/hrcsrepo/builds/icons/live.png",
     "apiVersion": 1,
     "fileHash": "sha256-71449e47be30dbcb5de3e358865ca396cf4d2c2104d7caac5981a65b7af97012"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepo/builds/HRSeries.cs3",
+    "status": 1,
+    "version": 3,
+    "name": "HR Series",
+    "internalName": "HRSeries",
+    "authors": [
+      "hrtestingx"
+    ],
+    "description": "HR Series - Toplu Dizi Kaynakları",
+    "fileSize": 463399,
+    "repositoryUrl": "https://github.com/hrtestingx/hrcsrepo",
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/hrtestingx/hrcsrepo/builds/icons/hrseries.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-2af073a3f4472f53f435be1f0fc81342146d37c63fa93d1f0730d2b9eaef5237"
   },
   {
     "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepo/builds/HRShortDrama.cs3",
@@ -3713,7 +3693,7 @@
     ],
     "iconUrl": "https://rectv.org.tr/wp-content/uploads/2024/11/rectv-modified.webp",
     "apiVersion": 1,
-    "fileHash": "sha256-596d1dcc7c17b68f49e082876d5193c05294621fc6692d92c46b318133f906a0"
+    "fileHash": "sha256-7ab7c9a05cc5680b494274f9efc8a60c88851df043a83be023f74b31769fece3"
   },
   {
     "iconUrl": "https://rectv.org.tr/wp-content/uploads/2024/11/rectv-modified.webp",
@@ -3782,27 +3762,6 @@
     "iconUrl": "https://seicode.net/favicon.png",
     "apiVersion": 1,
     "fileHash": "sha256-f1ebdac5ecf627f57bcf2ff07b331ea04d131f24e5f5dcde070b26c4a8420ad3"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepofull/builds/SelcukFlix.cs3",
-    "status": 1,
-    "version": 47,
-    "name": "SelcukFlix",
-    "internalName": "SelcukFlix",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "description": "Selcukflix'te her türden en yeni ve en popüler dizi ve filmleri izlemenin keyfini çıkarın. Aksiyondan romantiğe, bilim kurgudan dramaya, geniş kütüphanemizde herkes için bir şey var.",
-    "fileSize": 64411,
-    "repositoryUrl": "https://github.com/hrtestingx/hrcsrepofull",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=selcukflix.com",
-    "apiVersion": 1,
-    "fileHash": "sha256-7787b122e534c6f8e89011de6049a8011de492e095195ba363def27b30609e3a"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/e4a46d39d5fb813816af58e6484c83d595b73f02/SelcukSports.cs3",
