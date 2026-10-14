@@ -1,68 +1,80 @@
 {
-  "generated_at": "2026-10-14T11:50:26Z",
+  "generated_at": "2026-10-14T17:21:26Z",
   "candidate_count": 237,
   "verified_count": 186,
   "turkish_count": 100,
   "app_ready_count": 88,
-  "published_plugin_count": 242,
-  "rejected_plugin_count": 62,
-  "plugin_fallback_count": 27,
+  "published_plugin_count": 236,
+  "rejected_plugin_count": 68,
+  "plugin_fallback_count": 29,
   "catalog_repo_count": 88,
   "global_count": 86,
   "changes": [
     {
+      "type": "plugins_updated",
+      "repository": "Wiojelt/TurkSinema",
+      "old": "2026-10-12T12:28:24Z",
+      "new": "2026-10-14T15:32:51Z"
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "Wiojelt/TurkSpor",
+      "old": "2026-10-13T11:07:13Z",
+      "new": "2026-10-14T16:53:51Z"
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "Wiojelt/WioAnime",
+      "old": "2026-10-12T23:01:41Z",
+      "new": "2026-10-14T16:53:32Z"
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "Wiojelt/WioKids",
+      "old": "2026-10-11T10:00:39Z",
+      "new": "2026-10-14T14:47:35Z"
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "Wiojelt/WioSinema",
+      "old": "2026-10-13T11:06:32Z",
+      "new": "2026-10-14T16:53:18Z"
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "arcilingir/TurkSinema",
+      "old": "2026-10-12T12:28:24Z",
+      "new": "2026-10-14T15:32:51Z"
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "arcilingir/TurkSpor",
+      "old": "2026-10-13T11:07:13Z",
+      "new": "2026-10-14T16:53:51Z"
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "berkdemir18/BerkStream-Hub",
+      "old": "2026-10-05T18:09:33Z",
+      "new": "2026-10-14T16:58:16Z"
+    },
+    {
       "type": "plugin_count",
-      "repository": "Emre-Kahveci/CloudStreamHub",
-      "old": 23,
-      "new": 25
+      "repository": "dr-octagon/BronzeCloud",
+      "old": 59,
+      "new": 61
     },
     {
       "type": "plugins_updated",
-      "repository": "Emre-Kahveci/CloudStreamHub",
-      "old": "2026-10-03T18:24:21Z",
-      "new": "2026-10-14T10:27:32Z"
+      "repository": "pisovo-5031/TurkSinema",
+      "old": "2026-10-12T12:28:24Z",
+      "new": "2026-10-14T15:32:51Z"
     },
     {
       "type": "plugins_updated",
-      "repository": "MakotoTokioki/Kekik-cloudstream",
-      "old": "2026-10-13T08:13:55Z",
-      "new": "2026-10-14T10:17:49Z"
-    },
-    {
-      "type": "plugin_count",
-      "repository": "Sertel392/gencler",
-      "old": 74,
-      "new": 73
-    },
-    {
-      "type": "plugin_count",
-      "repository": "adilem/MyTV",
-      "old": 74,
-      "new": 73
-    },
-    {
-      "type": "plugin_count",
-      "repository": "arcilingir/CloudStreamHub",
-      "old": 23,
-      "new": 25
-    },
-    {
-      "type": "plugins_updated",
-      "repository": "arcilingir/CloudStreamHub",
-      "old": "2026-10-03T18:24:21Z",
-      "new": "2026-10-14T10:27:32Z"
-    },
-    {
-      "type": "plugins_updated",
-      "repository": "burak-ayd/cloudstream-repo",
-      "old": "2026-10-13T08:13:55Z",
-      "new": "2026-10-14T10:17:49Z"
-    },
-    {
-      "type": "plugins_updated",
-      "repository": "feroxx/Kekik-cloudstream",
-      "old": "2026-10-13T08:13:55Z",
-      "new": "2026-10-14T10:17:49Z"
+      "repository": "pisovo-5031/TurkSpor",
+      "old": "2026-10-13T11:07:13Z",
+      "new": "2026-10-14T16:53:51Z"
     }
   ]
 }
