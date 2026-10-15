@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-10-15T18:30:33Z",
+  "generated_at": "2026-10-15T21:28:37Z",
   "candidate_count": 237,
   "verified_count": 185,
   "turkish_count": 100,
   "app_ready_count": 88,
-  "published_plugin_count": 240,
-  "rejected_plugin_count": 76,
-  "plugin_fallback_count": 25,
+  "published_plugin_count": 242,
+  "rejected_plugin_count": 74,
+  "plugin_fallback_count": 24,
   "catalog_repo_count": 88,
   "global_count": 85,
   "changes": [
     {
       "type": "plugins_updated",
       "repository": "Kayracs3/Kayra",
-      "old": "2026-10-15T16:30:13Z",
-      "new": "2026-10-15T18:20:43Z"
+      "old": "2026-10-15T18:20:43Z",
+      "new": "2026-10-15T18:46:43Z"
     },
     {
       "type": "plugins_updated",
       "repository": "Wiojelt/WioSinema",
-      "old": "2026-10-14T18:26:09Z",
-      "new": "2026-10-15T18:04:49Z"
+      "old": "2026-10-15T18:04:49Z",
+      "new": "2026-10-15T20:17:21Z"
     }
   ]
 }
