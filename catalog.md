@@ -45,7 +45,6 @@ Otomatik doğrulanan ve aktif Türkçe CloudStream eklenti depoları:
 - [Turkish Providers Repository | @Ramsan](cloudstreamrepo://raw.githubusercontent.com/arcilingir/keyiflerolsun_Kekik-cloudstream/master/repo.json) — RepoScore 74.1/100 — 65 eklenti
 - [Oygy8b5F Cloudstream Repo](cloudstreamrepo://raw.githubusercontent.com/Ripplay/cloudstream-repo/main/repo.json) — RepoScore 73.8/100 — 13 eklenti — ana kaynak
 - [TurkSpor](cloudstreamrepo://raw.githubusercontent.com/pisovo-5031/TurkSpor/main/repo.json) — RepoScore 73.7/100 — 47 eklenti
-- [frukon](cloudstreamrepo://raw.githubusercontent.com/faruktunc/frukon/builds/repo.json) — RepoScore 73.0/100 — 5 eklenti
 - [WioSinema](cloudstreamrepo://raw.githubusercontent.com/pisovo-5031/WioSinema/builds/repo.json) — RepoScore 72.4/100 — 37 eklenti
 - [EmRe-35 Cloudstream Eklentileri](cloudstreamrepo://raw.githubusercontent.com/EmRe-35/cloudstream-eklentim/main/repo.json) — RepoScore 72.4/100 — 2 eklenti
 - [Turkish Providers Repository | @KekikAkademi](cloudstreamrepo://raw.githubusercontent.com/21nek/nektv/main/repo.json) — RepoScore 72.1/100 — 43 eklenti
@@ -53,6 +52,7 @@ Otomatik doğrulanan ve aktif Türkçe CloudStream eklenti depoları:
 - [TurkSinema](cloudstreamrepo://raw.githubusercontent.com/arcilingir/TurkSinema/main/repo.json) — RepoScore 69.7/100 — 71 eklenti — fork
 - [Turkish Providers Repository | @KekikAkademi](cloudstreamrepo://raw.githubusercontent.com/ggottes/cs_dramadizilerim/builds/repo.json) — RepoScore 69.0/100 — 41 eklenti
 - [TurkSpor](cloudstreamrepo://raw.githubusercontent.com/arcilingir/TurkSpor/main/repo.json) — RepoScore 68.7/100 — 47 eklenti — fork
+- [frukon](cloudstreamrepo://raw.githubusercontent.com/faruktunc/frukon/builds/repo.json) — RepoScore 68.0/100 — 5 eklenti
 - [cloudstream-repo](cloudstreamrepo://raw.githubusercontent.com/qera18/cloudstream-repo/builds/repo.json) — RepoScore 67.2/100 — 1 eklenti
 - [Turkish Providers Repository | @feroxxcs3](cloudstreamrepo://raw.githubusercontent.com/MakotoTokioki/Kekik-cloudstream/builds/repo.json) — RepoScore 67.1/100 — 37 eklenti — fork
 - [Sessiz !!!](cloudstreamrepo://raw.githubusercontent.com/adilem/MyTV/master/repo.json) — RepoScore 66.4/100 — 73 eklenti — fork
