@@ -1,7 +1,7 @@
 {
   "name": "EmirTV — Depoları Seç",
   "description": "Hepsi Bir Arada deposunu veya istediğiniz Türkçe CloudStream depolarını tek tek seçebilirsiniz.",
-  "generated_at": "2026-10-15T11:29:39Z",
+  "generated_at": "2026-10-15T17:00:54Z",
   "sections": [
     {
       "id": "all",
@@ -14,7 +14,7 @@
           "description": "Aktif Türkçe CloudStream eklentilerinin otomatik doğrulanan ve tekilleştirilen birleşik deposu.",
           "repo_url": "https://raw.githubusercontent.com/kodlama155-ctrl/csrepo/main/repo.json",
           "install_url": "cloudstreamrepo://raw.githubusercontent.com/kodlama155-ctrl/csrepo/main/repo.json",
-          "plugin_count": 255,
+          "plugin_count": 242,
           "source_repository_count": 88,
           "status": "active",
           "recommended": true
@@ -50,7 +50,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 71,
-              "freshness_days": 0.1,
+              "freshness_days": 0.3,
               "github_stars": 31,
               "github_forks": 3,
               "fork": false,
@@ -95,7 +95,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 47,
-              "freshness_days": 0.1,
+              "freshness_days": 0.3,
               "github_stars": 28,
               "github_forks": 1,
               "fork": false,
@@ -140,7 +140,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 37,
-              "freshness_days": 0.3,
+              "freshness_days": 0.1,
               "github_stars": 46,
               "github_forks": 14,
               "fork": true,
@@ -183,7 +183,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 37,
-              "freshness_days": 0.7,
+              "freshness_days": 0.9,
               "github_stars": 15,
               "github_forks": 0,
               "fork": false,
@@ -228,7 +228,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 27,
-              "freshness_days": 0.3,
+              "freshness_days": 0.5,
               "github_stars": 24,
               "github_forks": 1,
               "fork": false,
@@ -273,7 +273,7 @@
             "metrics": {
               "declared_down_count": 2,
               "plugin_count": 67,
-              "freshness_days": 0.3,
+              "freshness_days": 0.2,
               "github_stars": 2,
               "github_forks": 1,
               "fork": false,
@@ -318,7 +318,7 @@
             "metrics": {
               "declared_down_count": 2,
               "plugin_count": 52,
-              "freshness_days": 0.1,
+              "freshness_days": 0.3,
               "github_stars": 2,
               "github_forks": 0,
               "fork": false,
@@ -361,7 +361,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 25,
-              "freshness_days": 0.0,
+              "freshness_days": 0.2,
               "github_stars": 7,
               "github_forks": 2,
               "fork": false,
@@ -370,7 +370,7 @@
           },
           "github_stars": 7,
           "github_forks": 2,
-          "last_plugins_update": "2026-10-15T07:34:01Z",
+          "last_plugins_update": "2026-10-15T12:07:49Z",
           "short_addresses": [],
           "fork": false,
           "parent": null,
@@ -404,7 +404,7 @@
             "metrics": {
               "declared_down_count": 8,
               "plugin_count": 72,
-              "freshness_days": 10.9,
+              "freshness_days": 11.1,
               "github_stars": 13,
               "github_forks": 2,
               "fork": false,
@@ -450,7 +450,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 37,
-              "freshness_days": 0.3,
+              "freshness_days": 0.1,
               "github_stars": 3,
               "github_forks": 0,
               "fork": false,
@@ -493,7 +493,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 11,
-              "freshness_days": 1.1,
+              "freshness_days": 1.3,
               "github_stars": 12,
               "github_forks": 1,
               "fork": false,
@@ -538,7 +538,7 @@
             "metrics": {
               "declared_down_count": 1,
               "plugin_count": 41,
-              "freshness_days": 0.3,
+              "freshness_days": 0.1,
               "github_stars": 0,
               "github_forks": 0,
               "fork": false,
@@ -581,7 +581,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 1,
-              "freshness_days": 0.2,
+              "freshness_days": 0.1,
               "github_stars": 14,
               "github_forks": 1,
               "fork": false,
@@ -626,7 +626,7 @@
             "metrics": {
               "declared_down_count": 2,
               "plugin_count": 52,
-              "freshness_days": 19.6,
+              "freshness_days": 19.8,
               "github_stars": 0,
               "github_forks": 1,
               "fork": false,
@@ -669,7 +669,7 @@
             "metrics": {
               "declared_down_count": 3,
               "plugin_count": 97,
-              "freshness_days": 12.8,
+              "freshness_days": 13.1,
               "github_stars": 0,
               "github_forks": 0,
               "fork": false,
@@ -712,7 +712,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 16,
-              "freshness_days": 0.0,
+              "freshness_days": 0.1,
               "github_stars": 2,
               "github_forks": 0,
               "fork": false,
@@ -721,7 +721,7 @@
           },
           "github_stars": 2,
           "github_forks": 0,
-          "last_plugins_update": "2026-10-15T10:57:43Z",
+          "last_plugins_update": "2026-10-15T14:02:23Z",
           "short_addresses": [],
           "fork": false,
           "parent": null,
@@ -755,7 +755,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 7,
-              "freshness_days": 0.1,
+              "freshness_days": 0.3,
               "github_stars": 8,
               "github_forks": 0,
               "fork": false,
@@ -771,6 +771,49 @@
           "self_contained": true,
           "trusted_seed": false,
           "turkish_score": 111,
+          "status": "active"
+        },
+        {
+          "id": "Kayracs3/Kayra",
+          "type": "repository",
+          "name": "Turkish Providers Repository | @KekikAkademi @Kayracs3",
+          "description": "Türkçe içerikli eklenti havuzu",
+          "icon_url": null,
+          "repository": "Kayracs3/Kayra",
+          "repository_url": "https://github.com/Kayracs3/Kayra",
+          "repo_url": "https://raw.githubusercontent.com/Kayracs3/Kayra/master/repo.json",
+          "install_url": "cloudstreamrepo://raw.githubusercontent.com/Kayracs3/Kayra/master/repo.json",
+          "plugin_count": 26,
+          "repo_score": 80.0,
+          "repo_score_details": {
+            "score": 80.0,
+            "components": {
+              "declared_health": 30.0,
+              "freshness": 25.0,
+              "originality": 15.0,
+              "github_popularity": 0.0,
+              "coverage": 5.2,
+              "turkish_focus": 4.8
+            },
+            "metrics": {
+              "declared_down_count": 0,
+              "plugin_count": 26,
+              "freshness_days": 0.0,
+              "github_stars": 0,
+              "github_forks": 0,
+              "fork": false,
+              "self_contained": true
+            }
+          },
+          "github_stars": 0,
+          "github_forks": 0,
+          "last_plugins_update": "2026-10-15T16:30:13Z",
+          "short_addresses": [],
+          "fork": false,
+          "parent": null,
+          "self_contained": true,
+          "trusted_seed": false,
+          "turkish_score": 195,
           "status": "active"
         },
         {
@@ -798,7 +841,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 7,
-              "freshness_days": 4.9,
+              "freshness_days": 5.1,
               "github_stars": 4,
               "github_forks": 0,
               "fork": false,
@@ -814,49 +857,6 @@
           "self_contained": true,
           "trusted_seed": true,
           "turkish_score": 287,
-          "status": "active"
-        },
-        {
-          "id": "Kayracs3/Kayra",
-          "type": "repository",
-          "name": "Turkish Providers Repository | @KekikAkademi @Kayracs3",
-          "description": "Türkçe içerikli eklenti havuzu",
-          "icon_url": null,
-          "repository": "Kayracs3/Kayra",
-          "repository_url": "https://github.com/Kayracs3/Kayra",
-          "repo_url": "https://raw.githubusercontent.com/Kayracs3/Kayra/master/repo.json",
-          "install_url": "cloudstreamrepo://raw.githubusercontent.com/Kayracs3/Kayra/master/repo.json",
-          "plugin_count": 24,
-          "repo_score": 79.8,
-          "repo_score_details": {
-            "score": 79.8,
-            "components": {
-              "declared_health": 30.0,
-              "freshness": 25.0,
-              "originality": 15.0,
-              "github_popularity": 0.0,
-              "coverage": 4.8,
-              "turkish_focus": 5.0
-            },
-            "metrics": {
-              "declared_down_count": 0,
-              "plugin_count": 24,
-              "freshness_days": 0.7,
-              "github_stars": 0,
-              "github_forks": 0,
-              "fork": false,
-              "self_contained": true
-            }
-          },
-          "github_stars": 0,
-          "github_forks": 0,
-          "last_plugins_update": "2026-10-14T18:16:38Z",
-          "short_addresses": [],
-          "fork": false,
-          "parent": null,
-          "self_contained": true,
-          "trusted_seed": false,
-          "turkish_score": 194,
           "status": "active"
         },
         {
@@ -884,7 +884,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 5,
-              "freshness_days": 0.5,
+              "freshness_days": 0.2,
               "github_stars": 4,
               "github_forks": 0,
               "fork": false,
@@ -927,7 +927,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 10,
-              "freshness_days": 0.7,
+              "freshness_days": 0.9,
               "github_stars": 2,
               "github_forks": 0,
               "fork": false,
@@ -970,7 +970,7 @@
             "metrics": {
               "declared_down_count": 2,
               "plugin_count": 13,
-              "freshness_days": 0.3,
+              "freshness_days": 0.5,
               "github_stars": 17,
               "github_forks": 0,
               "fork": false,
@@ -1015,7 +1015,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 84,
-              "freshness_days": 0.3,
+              "freshness_days": 0.1,
               "github_stars": 0,
               "github_forks": 0,
               "fork": true,
@@ -1058,7 +1058,7 @@
             "metrics": {
               "declared_down_count": 16,
               "plugin_count": 54,
-              "freshness_days": 1.6,
+              "freshness_days": 1.8,
               "github_stars": 4,
               "github_forks": 0,
               "fork": false,
@@ -1104,7 +1104,7 @@
             "metrics": {
               "declared_down_count": 1,
               "plugin_count": 11,
-              "freshness_days": 0.5,
+              "freshness_days": 0.7,
               "github_stars": 4,
               "github_forks": 0,
               "fork": false,
@@ -1147,7 +1147,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 7,
-              "freshness_days": 2.4,
+              "freshness_days": 2.7,
               "github_stars": 1,
               "github_forks": 0,
               "fork": false,
@@ -1193,7 +1193,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 2,
-              "freshness_days": 0.3,
+              "freshness_days": 0.1,
               "github_stars": 2,
               "github_forks": 0,
               "fork": false,
@@ -1236,7 +1236,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 11,
-              "freshness_days": 3.8,
+              "freshness_days": 4.0,
               "github_stars": 3,
               "github_forks": 0,
               "fork": false,
@@ -1279,7 +1279,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 5,
-              "freshness_days": 1.8,
+              "freshness_days": 2.0,
               "github_stars": 1,
               "github_forks": 0,
               "fork": false,
@@ -1322,7 +1322,7 @@
             "metrics": {
               "declared_down_count": 2,
               "plugin_count": 61,
-              "freshness_days": 45.4,
+              "freshness_days": 45.6,
               "github_stars": 1,
               "github_forks": 0,
               "fork": false,
@@ -1365,7 +1365,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 1,
-              "freshness_days": 0.8,
+              "freshness_days": 1.0,
               "github_stars": 1,
               "github_forks": 0,
               "fork": false,
@@ -1408,7 +1408,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 61,
-              "freshness_days": 0.1,
+              "freshness_days": 0.0,
               "github_stars": 1,
               "github_forks": 0,
               "fork": false,
@@ -1451,7 +1451,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 12,
-              "freshness_days": 35.9,
+              "freshness_days": 36.1,
               "github_stars": 13,
               "github_forks": 2,
               "fork": false,
@@ -1537,7 +1537,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 37,
-              "freshness_days": 0.3,
+              "freshness_days": 0.1,
               "github_stars": 3,
               "github_forks": 0,
               "fork": false,
@@ -1580,7 +1580,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 71,
-              "freshness_days": 0.7,
+              "freshness_days": 0.9,
               "github_stars": 0,
               "github_forks": 0,
               "fork": false,
@@ -1625,7 +1625,7 @@
             "metrics": {
               "declared_down_count": 1,
               "plugin_count": 41,
-              "freshness_days": 13.9,
+              "freshness_days": 14.2,
               "github_stars": 0,
               "github_forks": 0,
               "fork": true,
@@ -1668,7 +1668,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 3,
-              "freshness_days": 7.6,
+              "freshness_days": 7.9,
               "github_stars": 4,
               "github_forks": 0,
               "fork": false,
@@ -1711,7 +1711,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 65,
-              "freshness_days": 5.7,
+              "freshness_days": 6.0,
               "github_stars": 0,
               "github_forks": 0,
               "fork": false,
@@ -1754,7 +1754,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 13,
-              "freshness_days": 51.6,
+              "freshness_days": 51.8,
               "github_stars": 6,
               "github_forks": 0,
               "fork": false,
@@ -1797,7 +1797,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 47,
-              "freshness_days": 0.5,
+              "freshness_days": 0.7,
               "github_stars": 0,
               "github_forks": 0,
               "fork": false,
@@ -1842,7 +1842,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 5,
-              "freshness_days": 29.8,
+              "freshness_days": 30.0,
               "github_stars": 0,
               "github_forks": 0,
               "fork": false,
@@ -1885,7 +1885,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 37,
-              "freshness_days": 1.8,
+              "freshness_days": 2.0,
               "github_stars": 0,
               "github_forks": 0,
               "fork": false,
@@ -1930,7 +1930,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 2,
-              "freshness_days": 16.8,
+              "freshness_days": 17.1,
               "github_stars": 0,
               "github_forks": 0,
               "fork": false,
@@ -1973,7 +1973,7 @@
             "metrics": {
               "declared_down_count": 1,
               "plugin_count": 43,
-              "freshness_days": 0.3,
+              "freshness_days": 0.1,
               "github_stars": 0,
               "github_forks": 0,
               "fork": false,
@@ -1989,49 +1989,6 @@
           "self_contained": false,
           "trusted_seed": false,
           "turkish_score": 241,
-          "status": "active"
-        },
-        {
-          "id": "ggottes/cs_dramadizilerim",
-          "type": "repository",
-          "name": "Turkish Providers Repository | @KekikAkademi",
-          "description": "Türkçe içerikli eklenti havuzu",
-          "icon_url": null,
-          "repository": "ggottes/cs_dramadizilerim",
-          "repository_url": "https://github.com/ggottes/cs_dramadizilerim",
-          "repo_url": "https://raw.githubusercontent.com/ggottes/cs_dramadizilerim/builds/repo.json",
-          "install_url": "cloudstreamrepo://raw.githubusercontent.com/ggottes/cs_dramadizilerim/builds/repo.json",
-          "plugin_count": 41,
-          "repo_score": 72.0,
-          "repo_score_details": {
-            "score": 72.0,
-            "components": {
-              "declared_health": 30.0,
-              "freshness": 25.0,
-              "originality": 5.0,
-              "github_popularity": 0.0,
-              "coverage": 8.2,
-              "turkish_focus": 3.8
-            },
-            "metrics": {
-              "declared_down_count": 0,
-              "plugin_count": 41,
-              "freshness_days": 6.8,
-              "github_stars": 0,
-              "github_forks": 0,
-              "fork": false,
-              "self_contained": false
-            }
-          },
-          "github_stars": 0,
-          "github_forks": 0,
-          "last_plugins_update": "2025-03-12T16:53:04Z",
-          "short_addresses": [],
-          "fork": false,
-          "parent": null,
-          "self_contained": false,
-          "trusted_seed": false,
-          "turkish_score": 236,
           "status": "active"
         },
         {
@@ -2059,7 +2016,7 @@
             "metrics": {
               "declared_down_count": 15,
               "plugin_count": 36,
-              "freshness_days": 0.3,
+              "freshness_days": 0.1,
               "github_stars": 1,
               "github_forks": 0,
               "fork": false,
@@ -2104,7 +2061,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 71,
-              "freshness_days": 0.6,
+              "freshness_days": 0.9,
               "github_stars": 0,
               "github_forks": 0,
               "fork": true,
@@ -2122,6 +2079,49 @@
           "self_contained": false,
           "trusted_seed": false,
           "turkish_score": 245,
+          "status": "active"
+        },
+        {
+          "id": "ggottes/cs_dramadizilerim",
+          "type": "repository",
+          "name": "Turkish Providers Repository | @KekikAkademi",
+          "description": "Türkçe içerikli eklenti havuzu",
+          "icon_url": null,
+          "repository": "ggottes/cs_dramadizilerim",
+          "repository_url": "https://github.com/ggottes/cs_dramadizilerim",
+          "repo_url": "https://raw.githubusercontent.com/ggottes/cs_dramadizilerim/builds/repo.json",
+          "install_url": "cloudstreamrepo://raw.githubusercontent.com/ggottes/cs_dramadizilerim/builds/repo.json",
+          "plugin_count": 41,
+          "repo_score": 69.0,
+          "repo_score_details": {
+            "score": 69.0,
+            "components": {
+              "declared_health": 30.0,
+              "freshness": 22.0,
+              "originality": 5.0,
+              "github_popularity": 0.0,
+              "coverage": 8.2,
+              "turkish_focus": 3.8
+            },
+            "metrics": {
+              "declared_down_count": 0,
+              "plugin_count": 41,
+              "freshness_days": 7.0,
+              "github_stars": 0,
+              "github_forks": 0,
+              "fork": false,
+              "self_contained": false
+            }
+          },
+          "github_stars": 0,
+          "github_forks": 0,
+          "last_plugins_update": "2025-03-12T16:53:04Z",
+          "short_addresses": [],
+          "fork": false,
+          "parent": null,
+          "self_contained": false,
+          "trusted_seed": false,
+          "turkish_score": 236,
           "status": "active"
         },
         {
@@ -2149,7 +2149,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 47,
-              "freshness_days": 0.5,
+              "freshness_days": 0.7,
               "github_stars": 0,
               "github_forks": 0,
               "fork": true,
@@ -2194,7 +2194,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 1,
-              "freshness_days": 36.2,
+              "freshness_days": 36.4,
               "github_stars": 0,
               "github_forks": 0,
               "fork": false,
@@ -2237,7 +2237,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 37,
-              "freshness_days": 1.0,
+              "freshness_days": 1.3,
               "github_stars": 0,
               "github_forks": 0,
               "fork": true,
@@ -2280,7 +2280,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 73,
-              "freshness_days": 22.6,
+              "freshness_days": 22.8,
               "github_stars": 0,
               "github_forks": 0,
               "fork": true,
@@ -2323,7 +2323,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 27,
-              "freshness_days": 0.5,
+              "freshness_days": 0.7,
               "github_stars": 0,
               "github_forks": 0,
               "fork": true,
@@ -2377,7 +2377,7 @@
           },
           "github_stars": 0,
           "github_forks": 0,
-          "last_plugins_update": "2026-10-15T07:34:01Z",
+          "last_plugins_update": "2026-10-15T12:07:49Z",
           "short_addresses": [],
           "fork": true,
           "parent": "Emre-Kahveci/CloudStreamHub",
@@ -2411,7 +2411,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 1,
-              "freshness_days": 39.5,
+              "freshness_days": 39.7,
               "github_stars": 1,
               "github_forks": 0,
               "fork": false,
@@ -2456,7 +2456,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 73,
-              "freshness_days": 30.6,
+              "freshness_days": 30.8,
               "github_stars": 1,
               "github_forks": 0,
               "fork": true,
@@ -2499,7 +2499,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 2,
-              "freshness_days": 22.1,
+              "freshness_days": 22.3,
               "github_stars": 0,
               "github_forks": 0,
               "fork": false,
@@ -2544,7 +2544,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 1,
-              "freshness_days": 10.8,
+              "freshness_days": 11.0,
               "github_stars": 0,
               "github_forks": 0,
               "fork": false,
@@ -2587,7 +2587,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 2,
-              "freshness_days": 122.1,
+              "freshness_days": 122.3,
               "github_stars": 3,
               "github_forks": 0,
               "fork": false,
@@ -2632,7 +2632,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 18,
-              "freshness_days": 424.0,
+              "freshness_days": 424.2,
               "github_stars": 2,
               "github_forks": 4,
               "fork": false,
@@ -2675,7 +2675,7 @@
             "metrics": {
               "declared_down_count": 1,
               "plugin_count": 43,
-              "freshness_days": 30.7,
+              "freshness_days": 31.0,
               "github_stars": 0,
               "github_forks": 0,
               "fork": true,
@@ -2718,7 +2718,7 @@
             "metrics": {
               "declared_down_count": 2,
               "plugin_count": 67,
-              "freshness_days": 102.1,
+              "freshness_days": 102.4,
               "github_stars": 0,
               "github_forks": 3,
               "fork": true,
@@ -2761,7 +2761,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 21,
-              "freshness_days": 716.9,
+              "freshness_days": 717.1,
               "github_stars": 1,
               "github_forks": 0,
               "fork": false,
@@ -2804,7 +2804,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 26,
-              "freshness_days": 367.7,
+              "freshness_days": 367.9,
               "github_stars": 0,
               "github_forks": 0,
               "fork": false,
@@ -2847,7 +2847,7 @@
             "metrics": {
               "declared_down_count": 2,
               "plugin_count": 67,
-              "freshness_days": 131.1,
+              "freshness_days": 131.3,
               "github_stars": 0,
               "github_forks": 0,
               "fork": true,
@@ -2890,7 +2890,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 1,
-              "freshness_days": 548.6,
+              "freshness_days": 548.8,
               "github_stars": 4,
               "github_forks": 0,
               "fork": false,
@@ -2933,7 +2933,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 7,
-              "freshness_days": 469.0,
+              "freshness_days": 469.2,
               "github_stars": 2,
               "github_forks": 0,
               "fork": false,
@@ -2976,7 +2976,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 12,
-              "freshness_days": 195.5,
+              "freshness_days": 195.8,
               "github_stars": 3,
               "github_forks": 3,
               "fork": false,
@@ -3019,7 +3019,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 1,
-              "freshness_days": 656.8,
+              "freshness_days": 657.0,
               "github_stars": 1,
               "github_forks": 0,
               "fork": false,
@@ -3062,7 +3062,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 10,
-              "freshness_days": 980.7,
+              "freshness_days": 981.0,
               "github_stars": 0,
               "github_forks": 0,
               "fork": false,
@@ -3105,7 +3105,7 @@
             "metrics": {
               "declared_down_count": 1,
               "plugin_count": 43,
-              "freshness_days": 324.0,
+              "freshness_days": 324.2,
               "github_stars": 1,
               "github_forks": 0,
               "fork": true,
@@ -3148,7 +3148,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 4,
-              "freshness_days": 499.2,
+              "freshness_days": 499.4,
               "github_stars": 1,
               "github_forks": 0,
               "fork": true,
@@ -3191,7 +3191,7 @@
             "metrics": {
               "declared_down_count": 1,
               "plugin_count": 43,
-              "freshness_days": 324.0,
+              "freshness_days": 324.2,
               "github_stars": 0,
               "github_forks": 0,
               "fork": true,
@@ -3234,7 +3234,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 41,
-              "freshness_days": 562.0,
+              "freshness_days": 562.2,
               "github_stars": 0,
               "github_forks": 0,
               "fork": false,
@@ -3277,7 +3277,7 @@
             "metrics": {
               "declared_down_count": 1,
               "plugin_count": 1,
-              "freshness_days": 2.6,
+              "freshness_days": 2.8,
               "github_stars": 3,
               "github_forks": 0,
               "fork": false,
@@ -3320,7 +3320,7 @@
             "metrics": {
               "declared_down_count": 1,
               "plugin_count": 17,
-              "freshness_days": 424.2,
+              "freshness_days": 424.4,
               "github_stars": 1,
               "github_forks": 1,
               "fork": false,
@@ -3363,7 +3363,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 41,
-              "freshness_days": 581.8,
+              "freshness_days": 582.0,
               "github_stars": 1,
               "github_forks": 0,
               "fork": true,
@@ -3406,7 +3406,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 41,
-              "freshness_days": 581.4,
+              "freshness_days": 581.6,
               "github_stars": 0,
               "github_forks": 0,
               "fork": true,
@@ -3449,7 +3449,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 41,
-              "freshness_days": 581.8,
+              "freshness_days": 582.0,
               "github_stars": 0,
               "github_forks": 0,
               "fork": true,
@@ -3492,7 +3492,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 12,
-              "freshness_days": 195.5,
+              "freshness_days": 195.8,
               "github_stars": 0,
               "github_forks": 0,
               "fork": true,
@@ -3535,7 +3535,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 12,
-              "freshness_days": 195.5,
+              "freshness_days": 195.8,
               "github_stars": 0,
               "github_forks": 0,
               "fork": true,
@@ -3578,7 +3578,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 12,
-              "freshness_days": 195.5,
+              "freshness_days": 195.8,
               "github_stars": 0,
               "github_forks": 0,
               "fork": true,
@@ -3621,7 +3621,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 18,
-              "freshness_days": 424.0,
+              "freshness_days": 424.2,
               "github_stars": 0,
               "github_forks": 0,
               "fork": true,
@@ -3664,7 +3664,7 @@
             "metrics": {
               "declared_down_count": 1,
               "plugin_count": 17,
-              "freshness_days": 498.8,
+              "freshness_days": 499.0,
               "github_stars": 0,
               "github_forks": 0,
               "fork": true,
@@ -3707,7 +3707,7 @@
             "metrics": {
               "declared_down_count": 0,
               "plugin_count": 1,
-              "freshness_days": 417.4,
+              "freshness_days": 417.7,
               "github_stars": 0,
               "github_forks": 1,
               "fork": true,
@@ -3750,7 +3750,7 @@
             "metrics": {
               "declared_down_count": 21,
               "plugin_count": 21,
-              "freshness_days": 504.8,
+              "freshness_days": 505.0,
               "github_stars": 1,
               "github_forks": 1,
               "fork": false,
@@ -3793,7 +3793,7 @@
             "metrics": {
               "declared_down_count": 21,
               "plugin_count": 21,
-              "freshness_days": 504.8,
+              "freshness_days": 505.0,
               "github_stars": 2,
               "github_forks": 3,
               "fork": false,
@@ -3836,7 +3836,7 @@
             "metrics": {
               "declared_down_count": 21,
               "plugin_count": 21,
-              "freshness_days": 504.8,
+              "freshness_days": 505.0,
               "github_stars": 1,
               "github_forks": 0,
               "fork": true,
