@@ -1,9 +1,6 @@
 {
-  "name": "EmirTV",
-  "description": "Otomatik doğrulanan ve tekilleştirilen Türkçe CloudStream eklenti deposu.",
-  "iconUrl": "https://raw.githubusercontent.com/kodlama155-ctrl/csrepo/main/assets/emirtv-icon.png",
+  "name": "Kapatıldı",
+  "description": "Bu depo adresi kapatılmıştır.",
   "manifestVersion": 1,
-  "pluginLists": [
-    "https://raw.githubusercontent.com/kodlama155-ctrl/csrepo/main/plugins.json"
-  ]
+  "pluginLists": []
 }

@@ -180,8 +180,7 @@ def build_main_readme(repos: list[dict], bundle: dict, generated_at: str):
         "",
         "Bu tablo bot tarafından otomatik güncellenir. Kısa kod/adresler kaynak repoların README dosyalarından tespit edilir.",
         "",
-        f"**Son tarama:** <code>{generated_at}</code>  ",
-        f"**EmirTV birleşik depo:** <code>https://py.md/emirtv</code> · <code>!emirtv</code> · **{bundle.get('plugin_count', 0)} eklenti**",
+        f"**Son tarama:** <code>{generated_at}</code>",
         "",
         "| Repo | Durum | Eklenti | Kısa kod / adres | Uzun repo.json |",
         "|---|---|---:|---|---|",
@@ -1494,14 +1493,24 @@ def build_cloudstream_bundle(app_ready: list[dict], seed_repos: set[str]):
         str(x.get("name") or x.get("internal_name") or "").lower(),
     ))
 
+    PRIVATE_MANIFEST = "repo-x92.json"
+    PRIVATE_PLUGINS = "plugins-x92.json"
+
     repo_manifest = {
         "name": "EmirTV",
         "description": "Otomatik doğrulanan ve tekilleştirilen Türkçe CloudStream eklenti deposu.",
         "iconUrl": "https://raw.githubusercontent.com/kodlama155-ctrl/csrepo/main/assets/emirtv-icon.png",
         "manifestVersion": 1,
         "pluginLists": [
-            "https://raw.githubusercontent.com/kodlama155-ctrl/csrepo/main/plugins.json"
+            f"https://raw.githubusercontent.com/kodlama155-ctrl/csrepo/main/{PRIVATE_PLUGINS}"
         ],
+    }
+
+    legacy_manifest = {
+        "name": "Kapatıldı",
+        "description": "Bu depo adresi taşınmıştır.",
+        "manifestVersion": 1,
+        "pluginLists": [],
     }
 
     health = {
@@ -1524,8 +1533,12 @@ def build_cloudstream_bundle(app_ready: list[dict], seed_repos: set[str]):
         "plugins": health_rows,
     }
 
-    save_json(ROOT / "plugins.json", published)
-    save_json(ROOT / "repo.json", repo_manifest)
+    # Save to private secret files
+    save_json(ROOT / PRIVATE_PLUGINS, published)
+    save_json(ROOT / PRIVATE_MANIFEST, repo_manifest)
+    # Neutralize legacy public files
+    save_json(ROOT / "plugins.json", [])
+    save_json(ROOT / "repo.json", legacy_manifest)
     save_json(DATA / "plugin-health.json", health)
     return len(published), health["rejected_plugin_count"], fallback_count
 
@@ -1609,9 +1622,9 @@ def build_repo_catalog(app_ready: list[dict], published_plugin_count: int, seed_
     }
     save_json(DATA / "catalog.json", catalog)
 
-    # Simple official-style repository database: first our bundle, then original repos.
-    repo_urls = [bundle_url]
-    seen = {bundle_url}
+    # Simple official-style repository database: original repos.
+    repo_urls = []
+    seen = set()
     for item in repos:
         url = item["repo_url"]
         if url not in seen:
@@ -1620,15 +1633,11 @@ def build_repo_catalog(app_ready: list[dict], published_plugin_count: int, seed_
     save_json(ROOT / "repos-db.json", repo_urls)
 
     lines = [
-        "# EmirTV — Depoları Seç",
+        "# Türkçe CloudStream Depo Kataloğu",
         "",
-        "İsterseniz tüm Türkçe eklentileri tek depoda, isterseniz kaynak depoları ayrı ayrı ekleyebilirsiniz.",
+        "Otomatik doğrulanan ve aktif Türkçe CloudStream eklenti depoları:",
         "",
-        "## Hepsi Bir Arada",
-        "",
-        f"- [EmirTV — Hepsi Bir Arada]({bundle['install_url']}) — {published_plugin_count} tekilleştirilmiş eklenti",
-        "",
-        "## Tek Tek Depolar",
+        "## Doğrulanmış Kaynak Depolar",
         "",
     ]
     for item in repos:

@@ -1,12 +1,8 @@
-# EmirTV — Depoları Seç
+# Türkçe CloudStream Depo Kataloğu
 
-İsterseniz tüm Türkçe eklentileri tek depoda, isterseniz kaynak depoları ayrı ayrı ekleyebilirsiniz.
+Otomatik doğrulanan ve aktif Türkçe CloudStream eklenti depoları:
 
-## Hepsi Bir Arada
-
-- [EmirTV — Hepsi Bir Arada](cloudstreamrepo://raw.githubusercontent.com/kodlama155-ctrl/csrepo/main/repo.json) — 242 tekilleştirilmiş eklenti
-
-## Tek Tek Depolar
+## Doğrulanmış Kaynak Depolar
 
 - [TurkSinema](cloudstreamrepo://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/repo.json) — RepoScore 94.0/100 — 71 eklenti — ana kaynak
 - [TurkSpor](cloudstreamrepo://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/repo.json) — RepoScore 91.9/100 — 47 eklenti — ana kaynak

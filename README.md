@@ -1,18 +1,12 @@
 # csrepo
 CloudStream repo discovery and validation bot
 
-## Kısa Repo Adresleri
-
-- https://py.md/emirtv
-- !emirtv
-
 <!-- AUTO_REPOS_START -->
 ## 📦 Güncel Önemli Türkçe CloudStream Repoları
 
 Bu tablo bot tarafından otomatik güncellenir. Kısa kod/adresler kaynak repoların README dosyalarından tespit edilir.
 
-**Son tarama:** <code>2026-10-15T17:00:54Z</code>  
-**EmirTV birleşik depo:** <code>https://py.md/emirtv</code> · <code>!emirtv</code> · **242 eklenti**
+**Son tarama:** <code>2026-10-15T17:00:54Z</code>
 
 | Repo | Durum | Eklenti | Kısa kod / adres | Uzun repo.json |
 |---|---|---:|---|---|
