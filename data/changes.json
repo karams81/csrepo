@@ -1,13 +1,80 @@
 {
-  "generated_at": "2026-10-16T04:18:35Z",
+  "generated_at": "2026-10-16T11:22:43Z",
   "candidate_count": 237,
   "verified_count": 185,
   "turkish_count": 100,
   "app_ready_count": 88,
-  "published_plugin_count": 244,
-  "rejected_plugin_count": 72,
-  "plugin_fallback_count": 26,
+  "published_plugin_count": 250,
+  "rejected_plugin_count": 66,
+  "plugin_fallback_count": 25,
   "catalog_repo_count": 88,
   "global_count": 85,
-  "changes": []
+  "changes": [
+    {
+      "type": "plugins_updated",
+      "repository": "MakotoTokioki/Kekik-cloudstream",
+      "old": "2026-10-14T10:17:49Z",
+      "new": "2026-10-16T10:53:03Z"
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "Wiojelt/TurkSpor",
+      "old": "2026-10-14T23:08:26Z",
+      "new": "2026-10-16T11:07:49Z"
+    },
+    {
+      "type": "plugin_count",
+      "repository": "Wiojelt/WioDrama",
+      "old": 5,
+      "new": 7
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "Wiojelt/WioDrama",
+      "old": "2026-10-14T22:34:16Z",
+      "new": "2026-10-16T09:36:39Z"
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "Wiojelt/WioSpor",
+      "old": "2026-10-15T01:49:50Z",
+      "new": "2026-10-16T10:53:11Z"
+    },
+    {
+      "type": "plugin_count",
+      "repository": "Wiojelt/test",
+      "old": 16,
+      "new": 15
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "Wiojelt/test",
+      "old": "2026-10-15T14:02:23Z",
+      "new": "2026-10-16T10:48:18Z"
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "arcilingir/TurkSpor",
+      "old": "2026-10-14T23:08:26Z",
+      "new": "2026-10-16T11:07:49Z"
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "burak-ayd/cloudstream-repo",
+      "old": "2026-10-14T10:17:49Z",
+      "new": "2026-10-16T10:53:03Z"
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "feroxx/Kekik-cloudstream",
+      "old": "2026-10-14T10:17:49Z",
+      "new": "2026-10-16T10:53:03Z"
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "pisovo-5031/TurkSpor",
+      "old": "2026-10-14T23:08:26Z",
+      "new": "2026-10-16T11:07:49Z"
+    }
+  ]
 }

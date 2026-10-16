@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-10-16T04:18:35Z",
+  "generated_at": "2026-10-16T11:22:43Z",
   "candidate_plugin_count": 316,
-  "healthy_plugin_count": 244,
-  "rejected_plugin_count": 72,
-  "fallback_used_count": 26,
+  "healthy_plugin_count": 250,
+  "rejected_plugin_count": 66,
+  "fallback_used_count": 25,
   "rejection_attempt_counts": {
     "blacklisted": 24,
     "corrupted-cs3-missing-dex": 1,
-    "hash-mismatch": 10,
-    "http-404": 71,
+    "hash-mismatch": 1,
+    "http-404": 72,
+    "provider-dead:-com.turkishw.pro:dns-error; 3com.turkishw.pro:dns-error; 8com.turkishw.pro:dns-error; bcom.turkishw.pro:dns-error; 4com.turkishw.pro:dns-error; 6com.turkishw.pro:dns-error; 5com.turkishw.pro:dns-error; 9com.turkishw.pro:dns-error; 1com.turkishw.pro:dns-error; com.turkishw.pro:dns-error; 2com.turkishw.pro:dns-error; 7com.turkishw.pro:dns-error; 0com.turkishw.pro:dns-error": 1,
     "provider-dead:adminlogin.online:dns-error": 1,
     "provider-dead:animecix.tv:error-page:attention required! | cloudflare": 17,
     "provider-dead:animex.tr:dns-error": 1,
+    "provider-dead:anizium.co:error-page:attention required! | cloudflare; api.anizium.co:error-page:attention required! | cloudflare": 2,
     "provider-dead:anm.cx:error-page:attention required! | cloudflare; tau-video.xyz:error-page:attention required! | cloudflare": 2,
-    "provider-dead:api.anizium.co:error-page:attention required! | cloudflare; anizium.co:error-page:attention required! | cloudflare": 2,
-    "provider-dead:api.openani.me:error-page:attention required! | cloudflare; openani.me:error-page:attention required! | cloudflare": 3,
+    "provider-dead:api.gain.tv:http-500; gain.la.drm.cloud:http-404": 1,
     "provider-dead:asyafanatiklerim.com:unreachable": 1,
     "provider-dead:asyafilmizlesene.org:dns-error": 2,
     "provider-dead:asyawatch.com:error-page:access denied": 1,
-    "provider-dead:backend.xprime.tv:dns-error; xprime.tv:dns-error": 4,
-    "provider-dead:bcom.turkishw.pro:dns-error; 7com.turkishw.pro:dns-error; 4com.turkishw.pro:dns-error; com.turkishw.pro:dns-error; 1com.turkishw.pro:dns-error; 5com.turkishw.pro:dns-error; 3com.turkishw.pro:dns-error; 0com.turkishw.pro:dns-error; 9com.turkishw.pro:dns-error; 8com.turkishw.pro:dns-error; 2com.turkishw.pro:dns-error; 6com.turkishw.pro:dns-error; -com.turkishw.pro:dns-error": 1,
-    "provider-dead:byteoversea.com:dns-error; 5ln.zirvedesin244.cfd:error-page:attention required! | cloudflare; avrupabettv983.com:unreachable; andro.evrenesoglu101.click:http-404": 1,
+    "provider-dead:bcom.berkstream.vendor.nikyokki.tv:dns-error; gcom.berkstream.vendor.nikyokki.tv:dns-error; com.berkstream.vendor.nikyokki.tv:dns-error": 1,
     "provider-dead:cizgipass100.online:unreachable": 1,
-    "provider-dead:closeload.filmmakinesi.sh:http-451; filmmakinesi.sh:http-451": 4,
-    "provider-dead:com.berkstream.vendor.nikyokki.tv:dns-error; bcom.berkstream.vendor.nikyokki.tv:dns-error; gcom.berkstream.vendor.nikyokki.tv:dns-error": 1,
-    "provider-dead:contentx.me:dns-error; dizipal1588.com:error-page:attention required! | cloudflare": 1,
+    "provider-dead:closeload.filmmakinesi.de:unreachable; filmmakinesi.de:http-451; rapid.filmmakinesi.de:unreachable": 1,
+    "provider-dead:closeload.filmmakinesi.de:unreachable; filmmakinesi.sh:http-451; rapid.filmmakinesi.de:unreachable": 3,
+    "provider-dead:closeload.filmmakinesi.de:unreachable; filmmakinesi.to:http-451; rapid.filmmakinesi.de:unreachable": 1,
+    "provider-dead:closeload.filmmakinesi.de:unreachable; filmmakinesi.tv:http-451; rapid.filmmakinesi.de:unreachable": 2,
     "provider-dead:crex1.vercel.app:http-404": 3,
-    "provider-dead:de2---vn-t9g4tsan-5qcl.yeshi.eu.org:error-page:attention required! | cloudflare; api.openani.me:error-page:attention required! | cloudflare; openani.me:error-page:attention required! | cloudflare": 1,
+    "provider-dead:de2---vn-t9g4tsan-5qcl.yeshi.eu.org:error-page:attention required! | cloudflare; openani.me:error-page:attention required! | cloudflare; api.openani.me:error-page:attention required! | cloudflare": 3,
     "provider-dead:div.to:unreachable; play.:dns-error": 1,
     "provider-dead:dizifilmizle.org:dns-error": 3,
     "provider-dead:dizifun4.com:dns-error": 1,
@@ -34,15 +34,16 @@
     "provider-dead:dizigecesi.com:error-page:attention required! | cloudflare": 4,
     "provider-dead:dizilla.club:error-page:access denied": 4,
     "provider-dead:dizilla.now:error-page:access denied": 8,
+    "provider-dead:dizilla.now:error-page:access denied; dizilla.com:unreachable; dizilla.to:error-page:access denied": 5,
     "provider-dead:dizilla.now:error-page:access denied; dizilla.to:error-page:access denied": 7,
-    "provider-dead:dizilla.now:error-page:access denied; dizilla.to:error-page:access denied; dizilla.com:unreachable": 5,
-    "provider-dead:dizilla.now:error-page:access denied; dizilla.to:error-page:access denied; file.dizilla.club:dns-error": 1,
+    "provider-dead:dizilla.now:error-page:access denied; file.dizilla.club:dns-error; dizilla.to:error-page:access denied": 1,
     "provider-dead:dizilla.to:error-page:access denied; file.dizilla.club:dns-error": 1,
     "provider-dead:dizilla40.com:dns-error": 7,
     "provider-dead:dizimore.net:dns-error": 2,
     "provider-dead:dizipal1577.com:error-page:attention required! | cloudflare": 1,
     "provider-dead:dizipal1587.com:error-page:attention required! | cloudflare": 1,
-    "provider-dead:dizipal1588.com:error-page:attention required! | cloudflare": 3,
+    "provider-dead:dizipal1588.com:error-page:attention required! | cloudflare; contentx.me:dns-error": 1,
+    "provider-dead:dizipal1590.com:error-page:attention required! | cloudflare": 3,
     "provider-dead:dizipal2135.com:error-page:attention required! | cloudflare": 1,
     "provider-dead:dizipal2136.com:error-page:attention required! | cloudflare": 1,
     "provider-dead:dizipal2216.com:error-page:attention required! | cloudflare": 1,
@@ -52,30 +53,27 @@
     "provider-dead:diziwatch.now:error-page:access denied": 1,
     "provider-dead:domatestv.com:dns-error": 1,
     "provider-dead:dynamic-domain-missing": 1,
+    "provider-dead:file.dizilla.club:dns-error; file.macellan.online:error-page:access denied; 1macellan.online:dns-error; images-macellan-online.cdn.ampproject.org:http-404": 1,
     "provider-dead:filmbip.com:dns-error": 6,
-    "provider-dead:filmmakinesi.de:http-451; rapid.filmmakinesi.de:unreachable; closeload.filmmakinesi.de:unreachable": 1,
+    "provider-dead:filmmakinesi.sh:http-451; closeload.filmmakinesi.sh:http-451": 4,
     "provider-dead:filmmakinesi.to:http-451; closeload.filmmakinesi.to:http-451": 2,
     "provider-dead:filmmakinesi.to:http-451; closeload.filmmakinesi.to:http-451; rapid.filmmakinesi.to:http-451": 11,
-    "provider-dead:filmmakinesi.tv:http-451; rapid.filmmakinesi.de:unreachable; closeload.filmmakinesi.de:unreachable": 2,
+    "provider-dead:filmmakinesi.to:http-451; filmmakinesi.de:http-451; closeload.filmmakinesi.to:http-451; rapid.filmmakinesi.to:http-451; filmmakinesi.net:http-451": 1,
     "provider-dead:filmzal.me:unreachable": 2,
     "provider-dead:fullhdfilmizlede.org:dns-error": 5,
-    "provider-dead:gain.la.drm.cloud:http-404; api.gain.tv:http-500": 1,
+    "provider-dead:gofilmizle.com:parked-domain:afternic; 2vidmody.com:dns-error; vidmody.com:dns-error": 5,
     "provider-dead:golgetv.com:dns-error": 5,
-    "provider-dead:hdfilmcehennemi.mobi:error-page:attention required! | cloudflare; www.hdfilmcehennemi.com:http-451; www.hdfilmcehennemi.nl:http-451": 4,
-    "provider-dead:hdfilmcehennemi.mobi:error-page:attention required! | cloudflare; www.hdfilmcehennemi.nl:http-451": 4,
-    "provider-dead:hdfilmcehennemi.mobi:error-page:attention required! | cloudflare; www.hdfilmcehennemi.nl:http-451; www.hdfilmcehennemi.la:http-451": 1,
+    "provider-dead:hdfilmcehennemi.download:http-404; rapidrame.com:error-page:attention required! | cloudflare; www.hdfilmcehennemi.nl:http-451": 1,
+    "provider-dead:hdfilmcehennemi.mobi:error-page:attention required! | cloudflare; www.hdfilmcehennemi.nl:http-451": 2,
+    "provider-dead:hdfilmcehennemi.mobi:error-page:attention required! | cloudflare; www.hdfilmcehennemi.ws:http-451; www.hdfilmcehennemi.nl:http-451": 1,
     "provider-dead:hdfilmizlebest.com:dns-error": 5,
     "provider-dead:i.ytimg.com:http-404": 2,
-    "provider-dead:images-macellan-online.cdn.ampproject.org:http-404; file.macellan.online:error-page:access denied; 1macellan.online:dns-error; file.dizilla.club:dns-error": 1,
-    "provider-dead:img.tv8.com.tr:parked-domain:contact the owner; img.tv8.com:dns-error": 1,
-    "provider-dead:openani.me:error-page:attention required! | cloudflare; api.openani.me:error-page:attention required! | cloudflare; de2---vn-t9g4tsan-5qcl.yeshi.eu.org:error-page:attention required! | cloudflare": 2,
+    "provider-dead:img.tv8.com:dns-error; img.tv8.com.tr:parked-domain:contact the owner": 1,
+    "provider-dead:openani.me:error-page:attention required! | cloudflare; api.openani.me:error-page:attention required! | cloudflare": 3,
     "provider-dead:panel.cloudgolge.shop:dns-error": 1,
     "provider-dead:player.dizipod.com:error-page:attention required! | cloudflare": 1,
     "provider-dead:player.dizipod.com:error-page:attention required! | cloudflare; dizipod.com:error-page:attention required! | cloudflare": 3,
-    "provider-dead:rapid.filmmakinesi.de:unreachable; filmmakinesi.sh:http-451; closeload.filmmakinesi.de:unreachable": 3,
-    "provider-dead:rapid.filmmakinesi.de:unreachable; filmmakinesi.to:http-451; closeload.filmmakinesi.de:unreachable": 1,
-    "provider-dead:rapid.filmmakinesi.to:http-451; filmmakinesi.net:http-451; filmmakinesi.to:http-451; filmmakinesi.de:http-451; closeload.filmmakinesi.to:http-451": 1,
-    "provider-dead:rapidrame.com:error-page:attention required! | cloudflare; www.hdfilmcehennemi.nl:http-451; hdfilmcehennemi.download:http-404": 1,
+    "provider-dead:res.cloudinary.com:http-404": 1,
     "provider-dead:selcukflix.com:error-page:access denied": 1,
     "provider-dead:sinefy3.com:unreachable": 4,
     "provider-dead:sinemagg.com:dns-error": 3,
@@ -83,23 +81,29 @@
     "provider-dead:t1.gstatic.com:http-404": 5,
     "provider-dead:t2.gstatic.com:http-404": 1,
     "provider-dead:tafdi.info:dns-error": 2,
+    "provider-dead:tv-trtcocuk.medya.trt.com:dns-error; tv-trtcocuk.medya.trt.com.tr:error-page:access denied": 1,
     "provider-dead:vegoltv982.com:unreachable": 3,
-    "provider-dead:vidmody.com:dns-error; 2vidmody.com:dns-error; gofilmizle.com:parked-domain:afternic": 5,
-    "provider-dead:watch2movies.net:dns-error; watch2movies.com:unreachable": 3,
+    "provider-dead:watch2movies.com:unreachable; watch2movies.net:dns-error": 3,
     "provider-dead:www.birasyadizi.cx:error-page:attention required! | cloudflare": 3,
     "provider-dead:www.diziyo.nl:dns-error": 1,
     "provider-dead:www.diziyo.so:dns-error": 2,
     "provider-dead:www.diziyo.so:dns-error; www.diziyo.so:dns-error": 1,
-    "provider-dead:www.filmizlesene.plus:dns-error; www.filmizlesene.pro:dns-error": 2,
+    "provider-dead:www.filmizlesene.pro:dns-error; www.filmizlesene.plus:dns-error": 2,
     "provider-dead:www.filmmodu.vip:unreachable": 1,
-    "provider-dead:www.fullhdfilmizlesene.now:error-page:attention required! | cloudflare": 7,
+    "provider-dead:www.fullhdfilmizlesene.de:error-page:attention required! | cloudflare": 1,
+    "provider-dead:www.fullhdfilmizlesene.now:error-page:attention required! | cloudflare": 11,
+    "provider-dead:www.fullhdfilmizlesene.now:error-page:attention required! | cloudflare; fullhdfilmizlesene.com:error-page:attention required! | cloudflare": 5,
+    "provider-dead:www.fullhdfilmizlesene.so:unreachable": 4,
+    "provider-dead:www.fullhdfilmizlesene.tv:dns-error; turbo.imgz.me:unreachable; watch.turkeyplayer.com:unreachable; vidmoxy.com:unreachable": 5,
     "provider-dead:www.hdfilmcehennemi.la:http-451": 5,
     "provider-dead:www.hdfilmcehennemi.nl:http-451": 10,
-    "provider-dead:www.hdfilmcehennemi.ws:http-451; hdfilmcehennemi.mobi:error-page:attention required! | cloudflare; www.hdfilmcehennemi.nl:http-451": 1,
-    "provider-dead:www.inattvizle494.top:error-page:attention required! | cloudflare; www.inattvizle:dns-error": 5,
+    "provider-dead:www.hdfilmcehennemi.nl:http-451; hdfilmcehennemi.mobi:error-page:attention required! | cloudflare": 2,
+    "provider-dead:www.hdfilmcehennemi.nl:http-451; hdfilmcehennemi.mobi:error-page:attention required! | cloudflare; www.hdfilmcehennemi.com:http-451": 4,
+    "provider-dead:www.hdfilmcehennemi.nl:http-451; www.hdfilmcehennemi.la:http-451; hdfilmcehennemi.mobi:error-page:attention required! | cloudflare": 1,
+    "provider-dead:www.inattvizle:dns-error; www.inattvizle494.top:error-page:attention required! | cloudflare": 5,
     "provider-dead:www.jestyayin970.com:dns-error": 5,
     "provider-dead:www.mackeyfi559.sbs:unreachable": 3,
-    "provider-dead:www.papazsports1023.pro:dns-error; www.papazsports1029.pro:error-page:attention required! | cloudflare; www.papazsports1024.pro:dns-error; www.papazsports1022.pro:dns-error": 5,
+    "provider-dead:www.papazsports1022.pro:dns-error; www.papazsports1023.pro:dns-error; www.papazsports1029.pro:error-page:attention required! | cloudflare; www.papazsports1024.pro:dns-error": 5,
     "provider-dead:www.roketdizi.live:unreachable": 6,
     "provider-dead:www.superfilmgeldi12.art:parked-domain:domain for sale": 1,
     "provider-dead:www.superfilmgeldi13.art:dns-error": 8,
@@ -110,6 +114,7 @@
     "provider-dead:www.wfilmizle.club:dns-error": 2,
     "provider-dead:www.wfilmizle.pw:dns-error": 1,
     "provider-dead:x.anizium.co:error-page:attention required! | cloudflare": 2,
+    "provider-dead:xprime.tv:dns-error; backend.xprime.tv:dns-error": 4,
     "provider-dead:zbahistv65.com:dns-error": 3,
     "status-down": 60
   },
@@ -165,7 +170,7 @@
       "name": "00 · TurkSpor'a destek ol ☕",
       "status": "healthy",
       "repository": "Wiojelt/TurkSpor",
-      "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/73f808996910c689d39c24dcc5cdab393e23018a/TurkSporDestek.cs3",
+      "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/TurkSporDestek.cs3",
       "version": 3,
       "size": 149788,
       "hash_checked": true,
@@ -180,18 +185,6 @@
       "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/TurkishCineStream.cs3?v=ca1989aeea4c",
       "version": 487,
       "size": 840939,
-      "hash_checked": true,
-      "fallback_used": false,
-      "attempts": null
-    },
-    {
-      "internal_name": "birdirbiriptv",
-      "name": "1 v10 Spor",
-      "status": "healthy",
-      "repository": "Wiojelt/WioSpor",
-      "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/BirdirbirIPTV.cs3?v=a57408a2254d",
-      "version": 28,
-      "size": 238394,
       "hash_checked": true,
       "fallback_used": false,
       "attempts": null
@@ -404,13 +397,13 @@
           "repository": "adilem/MyTV",
           "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/Anizium.cs3",
           "version": 28,
-          "result": "provider-dead:api.anizium.co:error-page:attention required! | cloudflare; anizium.co:error-page:attention required! | cloudflare"
+          "result": "provider-dead:anizium.co:error-page:attention required! | cloudflare; api.anizium.co:error-page:attention required! | cloudflare"
         },
         {
           "repository": "Sertel392/gencler",
           "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/Anizium.cs3",
           "version": 28,
-          "result": "provider-dead:api.anizium.co:error-page:attention required! | cloudflare; anizium.co:error-page:attention required! | cloudflare"
+          "result": "provider-dead:anizium.co:error-page:attention required! | cloudflare; api.anizium.co:error-page:attention required! | cloudflare"
         },
         {
           "repository": "aytzey/cs-kraptor",
@@ -472,10 +465,22 @@
       "internal_name": "ardaspor",
       "name": "ArdaSpor",
       "status": "healthy",
-      "repository": "Wiojelt/WioSpor",
-      "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/ArdaSpor.cs3?v=7f054e307193",
+      "repository": "Wiojelt/TurkSpor",
+      "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/ArdaSpor.cs3",
       "version": 11,
       "size": 177999,
+      "hash_checked": true,
+      "fallback_used": false,
+      "attempts": null
+    },
+    {
+      "internal_name": "asidbdrama",
+      "name": "asidbRAMA",
+      "status": "healthy",
+      "repository": "Wiojelt/test",
+      "url": "https://raw.githubusercontent.com/Wiojelt/test/builds/asidbRAMA.cs3?v=5907b9ee3740",
+      "version": 2,
+      "size": 107503,
       "hash_checked": true,
       "fallback_used": false,
       "attempts": null
@@ -485,7 +490,7 @@
       "name": "AslanTV",
       "status": "healthy",
       "repository": "Wiojelt/TurkSpor",
-      "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/73f808996910c689d39c24dcc5cdab393e23018a/AslanTV.cs3",
+      "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/AslanTV.cs3",
       "version": 11,
       "size": 266087,
       "hash_checked": true,
@@ -557,8 +562,8 @@
       "internal_name": "atomspor",
       "name": "AtomSpor",
       "status": "healthy",
-      "repository": "Wiojelt/WioSpor",
-      "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/AtomSpor.cs3?v=d7ab5db5d12c&t=1791466000",
+      "repository": "Wiojelt/TurkSpor",
+      "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/AtomSpor.cs3",
       "version": 2,
       "size": 155297,
       "hash_checked": true,
@@ -578,6 +583,18 @@
       "attempts": null
     },
     {
+      "internal_name": "bcsports",
+      "name": "BCSports",
+      "status": "healthy",
+      "repository": "dr-octagon/BronzeCloud",
+      "url": "https://raw.githubusercontent.com/dr-octagon/Cloudstream-BronzeCloud/builds/BCSports_v40.cs3",
+      "version": 40,
+      "size": 128924,
+      "hash_checked": false,
+      "fallback_used": false,
+      "attempts": null
+    },
+    {
       "internal_name": "belgeselx",
       "name": "BelgeselX",
       "status": "healthy",
@@ -593,8 +610,8 @@
       "internal_name": "betmatiktv",
       "name": "BetmatikTV",
       "status": "healthy",
-      "repository": "Wiojelt/WioSpor",
-      "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/BetmatikTV.cs3?v=b6304052c9e7",
+      "repository": "Wiojelt/TurkSpor",
+      "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/BetmatikTV.cs3",
       "version": 3,
       "size": 219101,
       "hash_checked": true,
@@ -605,10 +622,34 @@
       "internal_name": "beyazelma",
       "name": "BeyazElma",
       "status": "healthy",
-      "repository": "Wiojelt/WioSpor",
-      "url": "https://raw.githubusercontent.com/Wiojelt/WioSpor/builds/BeyazElma.cs3",
+      "repository": "Wiojelt/TurkSpor",
+      "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/BeyazElma.cs3",
       "version": 12,
       "size": 219121,
+      "hash_checked": true,
+      "fallback_used": false,
+      "attempts": null
+    },
+    {
+      "internal_name": "bingbongdrama",
+      "name": "bingbongDRAMA",
+      "status": "healthy",
+      "repository": "Wiojelt/test",
+      "url": "https://raw.githubusercontent.com/Wiojelt/test/builds/bingbongDRAMA.cs3?v=c713931909b9",
+      "version": 3,
+      "size": 116461,
+      "hash_checked": true,
+      "fallback_used": false,
+      "attempts": null
+    },
+    {
+      "internal_name": "birdirbiriptv",
+      "name": "BirdirbirIPTV",
+      "status": "healthy",
+      "repository": "Wiojelt/TurkSpor",
+      "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/BirdirbirIPTV.cs3",
+      "version": 28,
+      "size": 238394,
       "hash_checked": true,
       "fallback_used": false,
       "attempts": null
@@ -834,9 +875,21 @@
       "name": "DaddyLive",
       "status": "healthy",
       "repository": "Wiojelt/TurkSpor",
-      "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/73f808996910c689d39c24dcc5cdab393e23018a/DaddyLive.cs3",
+      "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/DaddyLive.cs3",
       "version": 5,
       "size": 150426,
+      "hash_checked": true,
+      "fallback_used": false,
+      "attempts": null
+    },
+    {
+      "internal_name": "dramabox",
+      "name": "dboxDRAMA",
+      "status": "healthy",
+      "repository": "Wiojelt/test",
+      "url": "https://raw.githubusercontent.com/Wiojelt/test/builds/dboxDRAMA.cs3?v=30d4542b2a81",
+      "version": 4,
+      "size": 106017,
       "hash_checked": true,
       "fallback_used": false,
       "attempts": null
@@ -894,7 +947,7 @@
       "name": "Dexter",
       "status": "healthy",
       "repository": "Wiojelt/TurkSpor",
-      "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/73f808996910c689d39c24dcc5cdab393e23018a/Dexter.cs3",
+      "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/Dexter.cs3",
       "version": 1,
       "size": 169006,
       "hash_checked": true,
@@ -1172,11 +1225,11 @@
       "internal_name": "dizimom",
       "name": "DiziMom",
       "status": "healthy",
-      "repository": "dr-octagon/BronzeCloud",
-      "url": "https://raw.githubusercontent.com/dr-octagon/Cloudstream-BronzeCloud/builds/DiziMom_v64.cs3",
+      "repository": "feroxx/Kekik-cloudstream",
+      "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziMom.cs3",
       "version": 64,
-      "size": 39242,
-      "hash_checked": false,
+      "size": 34839,
+      "hash_checked": true,
       "fallback_used": false,
       "attempts": null
     },
@@ -1200,20 +1253,20 @@
         {
           "repository": "feroxx/Kekik-cloudstream",
           "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPal.cs3",
-          "version": 113,
-          "result": "provider-dead:dizipal1588.com:error-page:attention required! | cloudflare"
+          "version": 114,
+          "result": "provider-dead:dizipal1590.com:error-page:attention required! | cloudflare"
         },
         {
           "repository": "burak-ayd/cloudstream-repo",
           "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPal.cs3",
-          "version": 113,
-          "result": "provider-dead:dizipal1588.com:error-page:attention required! | cloudflare"
+          "version": 114,
+          "result": "provider-dead:dizipal1590.com:error-page:attention required! | cloudflare"
         },
         {
           "repository": "MakotoTokioki/Kekik-cloudstream",
           "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPal.cs3",
-          "version": 113,
-          "result": "provider-dead:dizipal1588.com:error-page:attention required! | cloudflare"
+          "version": 114,
+          "result": "provider-dead:dizipal1590.com:error-page:attention required! | cloudflare"
         },
         {
           "repository": "liberta09/Kekik-cloudstream",
@@ -1289,8 +1342,8 @@
       "status": "healthy",
       "repository": "feroxx/Kekik-cloudstream",
       "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPalOriginal.cs3",
-      "version": 108,
-      "size": 27833,
+      "version": 109,
+      "size": 27831,
       "hash_checked": true,
       "fallback_used": false,
       "attempts": null
@@ -1368,11 +1421,23 @@
       "attempts": null
     },
     {
+      "internal_name": "dmaxdrama",
+      "name": "dmaxDRAMA",
+      "status": "healthy",
+      "repository": "Wiojelt/test",
+      "url": "https://raw.githubusercontent.com/Wiojelt/test/builds/dmaxDRAMA.cs3?v=de539d603190",
+      "version": 3,
+      "size": 112566,
+      "hash_checked": true,
+      "fallback_used": false,
+      "attempts": null
+    },
+    {
       "internal_name": "domatestv",
       "name": "DomatesTV",
       "status": "healthy",
       "repository": "Wiojelt/TurkSpor",
-      "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/73f808996910c689d39c24dcc5cdab393e23018a/DomatesTV.cs3",
+      "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/DomatesTV.cs3",
       "version": 6,
       "size": 171289,
       "hash_checked": true,
@@ -1386,7 +1451,7 @@
         },
         {
           "repository": "Wiojelt/TurkSpor",
-          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/73f808996910c689d39c24dcc5cdab393e23018a/DomatesTV.cs3",
+          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/DomatesTV.cs3",
           "version": 6,
           "result": "ok"
         }
@@ -1396,8 +1461,8 @@
       "internal_name": "dominotv",
       "name": "DominoTV",
       "status": "healthy",
-      "repository": "Wiojelt/WioSpor",
-      "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/DominoTV.cs3?v=ad56cb1bb56d",
+      "repository": "Wiojelt/TurkSpor",
+      "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/DominoTV.cs3",
       "version": 9,
       "size": 178546,
       "hash_checked": true,
@@ -1417,31 +1482,6 @@
       "attempts": null
     },
     {
-      "internal_name": "dramabox",
-      "name": "DramaBox",
-      "status": "healthy",
-      "repository": "Wiojelt/WioDrama",
-      "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/DramaBox.cs3",
-      "version": 1,
-      "size": 105705,
-      "hash_checked": true,
-      "fallback_used": true,
-      "attempts": [
-        {
-          "repository": "Wiojelt/test",
-          "url": "https://raw.githubusercontent.com/Wiojelt/test/builds/dboxDRAMA.cs3?v=b3d43a81af0b",
-          "version": 3,
-          "result": "hash-mismatch"
-        },
-        {
-          "repository": "Wiojelt/WioDrama",
-          "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/DramaBox.cs3",
-          "version": 1,
-          "result": "ok"
-        }
-      ]
-    },
-    {
       "internal_name": "dramadizilerim",
       "name": "DramaDizilerim",
       "status": "healthy",
@@ -1457,8 +1497,8 @@
       "internal_name": "elodrama",
       "name": "eloDRAMA",
       "status": "healthy",
-      "repository": "Wiojelt/test",
-      "url": "https://raw.githubusercontent.com/Wiojelt/test/builds/eloDRAMA.cs3?v=0daba418e5fe",
+      "repository": "Wiojelt/WioDrama",
+      "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/eloDRAMA.cs3?v=0daba418e5fe",
       "version": 1,
       "size": 107545,
       "hash_checked": true,
@@ -1709,7 +1749,7 @@
           "repository": "dr-octagon/BronzeCloud",
           "url": "https://raw.githubusercontent.com/dr-octagon/Cloudstream-BronzeCloud/builds/FilmMakinesi_v64.cs3",
           "version": 64,
-          "result": "provider-dead:rapid.filmmakinesi.to:http-451; filmmakinesi.net:http-451; filmmakinesi.to:http-451; filmmakinesi.de:http-451; closeload.filmmakinesi.to:http-451"
+          "result": "provider-dead:filmmakinesi.to:http-451; filmmakinesi.de:http-451; closeload.filmmakinesi.to:http-451; rapid.filmmakinesi.to:http-451; filmmakinesi.net:http-451"
         },
         {
           "repository": "feroxx/Kekik-cloudstream",
@@ -1739,25 +1779,25 @@
           "repository": "21nek/nektv",
           "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/FilmMakinesi.cs3",
           "version": 40,
-          "result": "provider-dead:closeload.filmmakinesi.sh:http-451; filmmakinesi.sh:http-451"
+          "result": "provider-dead:filmmakinesi.sh:http-451; closeload.filmmakinesi.sh:http-451"
         },
         {
           "repository": "burak-ayd/cs-Kekik-old",
           "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/FilmMakinesi.cs3",
           "version": 40,
-          "result": "provider-dead:closeload.filmmakinesi.sh:http-451; filmmakinesi.sh:http-451"
+          "result": "provider-dead:filmmakinesi.sh:http-451; closeload.filmmakinesi.sh:http-451"
         },
         {
           "repository": "fsamet/cs-Kekik",
           "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/FilmMakinesi.cs3",
           "version": 40,
-          "result": "provider-dead:closeload.filmmakinesi.sh:http-451; filmmakinesi.sh:http-451"
+          "result": "provider-dead:filmmakinesi.sh:http-451; closeload.filmmakinesi.sh:http-451"
         },
         {
           "repository": "aliredpr3/KekikCloud-CS",
           "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/FilmMakinesi.cs3",
           "version": 40,
-          "result": "provider-dead:closeload.filmmakinesi.sh:http-451; filmmakinesi.sh:http-451"
+          "result": "provider-dead:filmmakinesi.sh:http-451; closeload.filmmakinesi.sh:http-451"
         },
         {
           "repository": "berr49300/cloudstream-film-repo",
@@ -1769,31 +1809,31 @@
           "repository": "ailantus/nane",
           "url": "https://raw.githubusercontent.com/ailantus/nane/builds/FilmMakinesi.cs3",
           "version": 29,
-          "result": "provider-dead:filmmakinesi.de:http-451; rapid.filmmakinesi.de:unreachable; closeload.filmmakinesi.de:unreachable"
+          "result": "provider-dead:closeload.filmmakinesi.de:unreachable; filmmakinesi.de:http-451; rapid.filmmakinesi.de:unreachable"
         },
         {
           "repository": "Ripplay/cloudstream-repo",
           "url": "https://raw.githubusercontent.com/Ripplay/cloudstream-repo/builds/FilmMakinesi.cs3",
           "version": 26,
-          "result": "provider-dead:rapid.filmmakinesi.de:unreachable; filmmakinesi.to:http-451; closeload.filmmakinesi.de:unreachable"
+          "result": "provider-dead:closeload.filmmakinesi.de:unreachable; filmmakinesi.to:http-451; rapid.filmmakinesi.de:unreachable"
         },
         {
           "repository": "arcilingir/Dizi_Film_2",
           "url": "https://raw.githubusercontent.com/arcilingir/Dizi_Film_2/builds/FilmMakinesi.cs3",
           "version": 25,
-          "result": "provider-dead:rapid.filmmakinesi.de:unreachable; filmmakinesi.sh:http-451; closeload.filmmakinesi.de:unreachable"
+          "result": "provider-dead:closeload.filmmakinesi.de:unreachable; filmmakinesi.sh:http-451; rapid.filmmakinesi.de:unreachable"
         },
         {
           "repository": "arcilingir/nik-cloudstream",
           "url": "https://raw.githubusercontent.com/arcilingir/nik-cloudstream/builds/FilmMakinesi.cs3",
           "version": 25,
-          "result": "provider-dead:rapid.filmmakinesi.de:unreachable; filmmakinesi.sh:http-451; closeload.filmmakinesi.de:unreachable"
+          "result": "provider-dead:closeload.filmmakinesi.de:unreachable; filmmakinesi.sh:http-451; rapid.filmmakinesi.de:unreachable"
         },
         {
           "repository": "safarxe/CloudStream",
           "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/FilmMakinesi.cs3",
           "version": 25,
-          "result": "provider-dead:rapid.filmmakinesi.de:unreachable; filmmakinesi.sh:http-451; closeload.filmmakinesi.de:unreachable"
+          "result": "provider-dead:closeload.filmmakinesi.de:unreachable; filmmakinesi.sh:http-451; rapid.filmmakinesi.de:unreachable"
         },
         {
           "repository": "arcilingir/Dizi_Film",
@@ -1805,7 +1845,7 @@
           "repository": "eycommas/kekikmod",
           "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/FilmMakinesi.cs3",
           "version": 24,
-          "result": "provider-dead:filmmakinesi.tv:http-451; rapid.filmmakinesi.de:unreachable; closeload.filmmakinesi.de:unreachable"
+          "result": "provider-dead:closeload.filmmakinesi.de:unreachable; filmmakinesi.tv:http-451; rapid.filmmakinesi.de:unreachable"
         },
         {
           "repository": "adilem/MyTV",
@@ -1829,7 +1869,7 @@
           "repository": "arcilingir/keyiflerolsun_Kekik-cloudstream",
           "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/FilmMakinesi.cs3",
           "version": 10,
-          "result": "provider-dead:filmmakinesi.tv:http-451; rapid.filmmakinesi.de:unreachable; closeload.filmmakinesi.de:unreachable"
+          "result": "provider-dead:closeload.filmmakinesi.de:unreachable; filmmakinesi.tv:http-451; rapid.filmmakinesi.de:unreachable"
         },
         {
           "repository": "galipgokalp/tv-cloudstream",
@@ -1918,6 +1958,18 @@
       "attempts": null
     },
     {
+      "internal_name": "freedrama",
+      "name": "freeDRAMA",
+      "status": "healthy",
+      "repository": "Wiojelt/test",
+      "url": "https://raw.githubusercontent.com/Wiojelt/test/builds/freeDRAMA.cs3?v=72e7080cd266",
+      "version": 3,
+      "size": 110745,
+      "hash_checked": true,
+      "fallback_used": false,
+      "attempts": null
+    },
+    {
       "internal_name": "fullhdfilm",
       "name": "FullHDFilm",
       "status": "healthy",
@@ -1933,11 +1985,11 @@
       "internal_name": "fullhdfilmizlesene",
       "name": "FullHDFilmizlesene",
       "status": "healthy",
-      "repository": "21nek/nektv",
-      "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/FullHDFilmizlesene.cs3",
-      "version": 27,
-      "size": 34067,
-      "hash_checked": false,
+      "repository": "bilhan50/BilhanTR",
+      "url": "https://raw.githubusercontent.com/bilhan50/BilhanTR/builds/FullHDFilmizlesene.cs3",
+      "version": 9,
+      "size": 38564,
+      "hash_checked": true,
       "fallback_used": true,
       "attempts": [
         {
@@ -1998,21 +2050,123 @@
           "repository": "21nek/nektv",
           "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/FullHDFilmizlesene.cs3",
           "version": 27,
+          "result": "provider-dead:www.fullhdfilmizlesene.tv:dns-error; turbo.imgz.me:unreachable; watch.turkeyplayer.com:unreachable; vidmoxy.com:unreachable"
+        },
+        {
+          "repository": "burak-ayd/cs-Kekik-old",
+          "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/FullHDFilmizlesene.cs3",
+          "version": 27,
+          "result": "provider-dead:www.fullhdfilmizlesene.tv:dns-error; turbo.imgz.me:unreachable; watch.turkeyplayer.com:unreachable; vidmoxy.com:unreachable"
+        },
+        {
+          "repository": "fsamet/cs-Kekik",
+          "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/FullHDFilmizlesene.cs3",
+          "version": 27,
+          "result": "provider-dead:www.fullhdfilmizlesene.tv:dns-error; turbo.imgz.me:unreachable; watch.turkeyplayer.com:unreachable; vidmoxy.com:unreachable"
+        },
+        {
+          "repository": "aliredpr3/KekikCloud-CS",
+          "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/FullHDFilmizlesene.cs3",
+          "version": 27,
+          "result": "provider-dead:www.fullhdfilmizlesene.tv:dns-error; turbo.imgz.me:unreachable; watch.turkeyplayer.com:unreachable; vidmoxy.com:unreachable"
+        },
+        {
+          "repository": "Emre-Kahveci/CloudStreamHub",
+          "url": "https://raw.githubusercontent.com/Emre-Kahveci/CloudStreamHub/builds/FullHDFilmizlesene.cs3",
+          "version": 17,
+          "result": "provider-dead:www.fullhdfilmizlesene.now:error-page:attention required! | cloudflare"
+        },
+        {
+          "repository": "arcilingir/CloudStreamHub",
+          "url": "https://raw.githubusercontent.com/Emre-Kahveci/CloudStreamHub/builds/FullHDFilmizlesene.cs3",
+          "version": 17,
+          "result": "provider-dead:www.fullhdfilmizlesene.now:error-page:attention required! | cloudflare"
+        },
+        {
+          "repository": "ailantus/nane",
+          "url": "https://raw.githubusercontent.com/ailantus/nane/builds/FullHDFilmizlesene.cs3",
+          "version": 17,
+          "result": "provider-dead:www.fullhdfilmizlesene.de:error-page:attention required! | cloudflare"
+        },
+        {
+          "repository": "Ripplay/cloudstream-repo",
+          "url": "https://raw.githubusercontent.com/Ripplay/cloudstream-repo/builds/FullHDFilmizlesene.cs3",
+          "version": 12,
+          "result": "provider-dead:www.fullhdfilmizlesene.now:error-page:attention required! | cloudflare"
+        },
+        {
+          "repository": "arcilingir/Dizi_Film_2",
+          "url": "https://raw.githubusercontent.com/arcilingir/Dizi_Film_2/builds/FullHDFilmizlesene.cs3",
+          "version": 11,
+          "result": "provider-dead:www.fullhdfilmizlesene.so:unreachable"
+        },
+        {
+          "repository": "arcilingir/nik-cloudstream",
+          "url": "https://raw.githubusercontent.com/arcilingir/nik-cloudstream/builds/FullHDFilmizlesene.cs3",
+          "version": 11,
+          "result": "provider-dead:www.fullhdfilmizlesene.so:unreachable"
+        },
+        {
+          "repository": "manitux-app/cs-plugins",
+          "url": "https://raw.githubusercontent.com/manitux-app/cs-plugins/main/builds/FullHDFilmizlesene.cs3",
+          "version": 11,
+          "result": "provider-dead:www.fullhdfilmizlesene.now:error-page:attention required! | cloudflare"
+        },
+        {
+          "repository": "arcilingir/Dizi_Film",
+          "url": "https://raw.githubusercontent.com/arcilingir/Dizi_Film/builds/FullHDFilmizlesene.cs3",
+          "version": 11,
+          "result": "http-404"
+        },
+        {
+          "repository": "safarxe/CloudStream",
+          "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/FullHDFilmizlesene.cs3",
+          "version": 11,
+          "result": "provider-dead:www.fullhdfilmizlesene.so:unreachable"
+        },
+        {
+          "repository": "eycommas/kekikmod",
+          "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/FullHDFilmizlesene.cs3",
+          "version": 11,
+          "result": "provider-dead:www.fullhdfilmizlesene.so:unreachable"
+        },
+        {
+          "repository": "Wiojelt/WioSinema",
+          "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/FullHDFilmizlesene.cs3?v=554a50415dd1",
+          "version": 10,
+          "result": "provider-dead:www.fullhdfilmizlesene.now:error-page:attention required! | cloudflare; fullhdfilmizlesene.com:error-page:attention required! | cloudflare"
+        },
+        {
+          "repository": "Wiojelt/TurkSinema",
+          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/FullHDFilmizlesene.cs3?v=554a50415dd1",
+          "version": 10,
+          "result": "provider-dead:www.fullhdfilmizlesene.now:error-page:attention required! | cloudflare; fullhdfilmizlesene.com:error-page:attention required! | cloudflare"
+        },
+        {
+          "repository": "pisovo-5031/TurkSinema",
+          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/FullHDFilmizlesene.cs3?v=554a50415dd1",
+          "version": 10,
+          "result": "provider-dead:www.fullhdfilmizlesene.now:error-page:attention required! | cloudflare; fullhdfilmizlesene.com:error-page:attention required! | cloudflare"
+        },
+        {
+          "repository": "arcilingir/TurkSinema",
+          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/FullHDFilmizlesene.cs3?v=554a50415dd1",
+          "version": 10,
+          "result": "provider-dead:www.fullhdfilmizlesene.now:error-page:attention required! | cloudflare; fullhdfilmizlesene.com:error-page:attention required! | cloudflare"
+        },
+        {
+          "repository": "pisovo-5031/WioSinema",
+          "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/FullHDFilmizlesene.cs3?v=554a50415dd1",
+          "version": 10,
+          "result": "provider-dead:www.fullhdfilmizlesene.now:error-page:attention required! | cloudflare; fullhdfilmizlesene.com:error-page:attention required! | cloudflare"
+        },
+        {
+          "repository": "bilhan50/BilhanTR",
+          "url": "https://raw.githubusercontent.com/bilhan50/BilhanTR/builds/FullHDFilmizlesene.cs3",
+          "version": 9,
           "result": "ok"
         }
       ]
-    },
-    {
-      "internal_name": "fullhdfilmizlesene 2",
-      "name": "FullHDFilmizlesene 2",
-      "status": "healthy",
-      "repository": "eycommas/kekikmod",
-      "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/FullHDFilmizlesene.cs3",
-      "version": 26,
-      "size": 34067,
-      "hash_checked": false,
-      "fallback_used": false,
-      "attempts": null
     },
     {
       "internal_name": "fullhdfilmi̇zlede",
@@ -2177,6 +2331,24 @@
           "result": "http-404"
         },
         {
+          "repository": "Wiojelt/TurkSpor",
+          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/GolgeTV.cs3",
+          "version": 3,
+          "result": "provider-dead:golgetv.com:dns-error"
+        },
+        {
+          "repository": "pisovo-5031/TurkSpor",
+          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/GolgeTV.cs3",
+          "version": 3,
+          "result": "provider-dead:golgetv.com:dns-error"
+        },
+        {
+          "repository": "arcilingir/TurkSpor",
+          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/GolgeTV.cs3",
+          "version": 3,
+          "result": "provider-dead:golgetv.com:dns-error"
+        },
+        {
           "repository": "Wiojelt/WioSpor",
           "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/GolgeTV.cs3?v=1c473e4e5e25",
           "version": 3,
@@ -2185,24 +2357,6 @@
         {
           "repository": "arcilingir/WioSpor",
           "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/GolgeTV.cs3?v=1c473e4e5e25",
-          "version": 3,
-          "result": "provider-dead:golgetv.com:dns-error"
-        },
-        {
-          "repository": "Wiojelt/TurkSpor",
-          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/73f808996910c689d39c24dcc5cdab393e23018a/GolgeTV.cs3",
-          "version": 3,
-          "result": "provider-dead:golgetv.com:dns-error"
-        },
-        {
-          "repository": "pisovo-5031/TurkSpor",
-          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/73f808996910c689d39c24dcc5cdab393e23018a/GolgeTV.cs3",
-          "version": 3,
-          "result": "provider-dead:golgetv.com:dns-error"
-        },
-        {
-          "repository": "arcilingir/TurkSpor",
-          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/73f808996910c689d39c24dcc5cdab393e23018a/GolgeTV.cs3",
           "version": 3,
           "result": "provider-dead:golgetv.com:dns-error"
         },
@@ -2253,7 +2407,7 @@
           "repository": "aytzey/cs-kraptor",
           "url": "https://raw.githubusercontent.com/aytzey/cs-kraptor/builds/HDFilmCehennemi.cs3",
           "version": 98,
-          "result": "provider-dead:www.hdfilmcehennemi.ws:http-451; hdfilmcehennemi.mobi:error-page:attention required! | cloudflare; www.hdfilmcehennemi.nl:http-451"
+          "result": "provider-dead:hdfilmcehennemi.mobi:error-page:attention required! | cloudflare; www.hdfilmcehennemi.ws:http-451; www.hdfilmcehennemi.nl:http-451"
         },
         {
           "repository": "adilem/cs-kraptor",
@@ -2319,19 +2473,19 @@
           "repository": "Ripplay/cloudstream-repo",
           "url": "https://raw.githubusercontent.com/Ripplay/cloudstream-repo/builds/HDFilmCehennemi.cs3",
           "version": 37,
-          "result": "provider-dead:hdfilmcehennemi.mobi:error-page:attention required! | cloudflare; www.hdfilmcehennemi.nl:http-451"
+          "result": "provider-dead:www.hdfilmcehennemi.nl:http-451; hdfilmcehennemi.mobi:error-page:attention required! | cloudflare"
         },
         {
           "repository": "arcilingir/Dizi_Film_2",
           "url": "https://raw.githubusercontent.com/arcilingir/Dizi_Film_2/builds/HDFilmCehennemi.cs3",
           "version": 36,
-          "result": "provider-dead:hdfilmcehennemi.mobi:error-page:attention required! | cloudflare; www.hdfilmcehennemi.com:http-451; www.hdfilmcehennemi.nl:http-451"
+          "result": "provider-dead:www.hdfilmcehennemi.nl:http-451; hdfilmcehennemi.mobi:error-page:attention required! | cloudflare; www.hdfilmcehennemi.com:http-451"
         },
         {
           "repository": "arcilingir/nik-cloudstream",
           "url": "https://raw.githubusercontent.com/arcilingir/nik-cloudstream/builds/HDFilmCehennemi.cs3",
           "version": 36,
-          "result": "provider-dead:hdfilmcehennemi.mobi:error-page:attention required! | cloudflare; www.hdfilmcehennemi.com:http-451; www.hdfilmcehennemi.nl:http-451"
+          "result": "provider-dead:www.hdfilmcehennemi.nl:http-451; hdfilmcehennemi.mobi:error-page:attention required! | cloudflare; www.hdfilmcehennemi.com:http-451"
         },
         {
           "repository": "arcilingir/Dizi_Film",
@@ -2343,25 +2497,25 @@
           "repository": "safarxe/CloudStream",
           "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/HDFilmCehennemi.cs3",
           "version": 36,
-          "result": "provider-dead:hdfilmcehennemi.mobi:error-page:attention required! | cloudflare; www.hdfilmcehennemi.com:http-451; www.hdfilmcehennemi.nl:http-451"
+          "result": "provider-dead:www.hdfilmcehennemi.nl:http-451; hdfilmcehennemi.mobi:error-page:attention required! | cloudflare; www.hdfilmcehennemi.com:http-451"
         },
         {
           "repository": "eycommas/kekikmod",
           "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/HDFilmCehennemi.cs3",
           "version": 36,
-          "result": "provider-dead:hdfilmcehennemi.mobi:error-page:attention required! | cloudflare; www.hdfilmcehennemi.com:http-451; www.hdfilmcehennemi.nl:http-451"
+          "result": "provider-dead:www.hdfilmcehennemi.nl:http-451; hdfilmcehennemi.mobi:error-page:attention required! | cloudflare; www.hdfilmcehennemi.com:http-451"
         },
         {
           "repository": "manitux-app/cs-plugins",
           "url": "https://raw.githubusercontent.com/manitux-app/cs-plugins/main/builds/HDFilmCehennemi.cs3",
           "version": 27,
-          "result": "provider-dead:hdfilmcehennemi.mobi:error-page:attention required! | cloudflare; www.hdfilmcehennemi.nl:http-451"
+          "result": "provider-dead:www.hdfilmcehennemi.nl:http-451; hdfilmcehennemi.mobi:error-page:attention required! | cloudflare"
         },
         {
           "repository": "arcilingir/keyiflerolsun_Kekik-cloudstream",
           "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/HDFilmCehennemi.cs3",
           "version": 25,
-          "result": "provider-dead:hdfilmcehennemi.mobi:error-page:attention required! | cloudflare; www.hdfilmcehennemi.nl:http-451; www.hdfilmcehennemi.la:http-451"
+          "result": "provider-dead:www.hdfilmcehennemi.nl:http-451; www.hdfilmcehennemi.la:http-451; hdfilmcehennemi.mobi:error-page:attention required! | cloudflare"
         },
         {
           "repository": "21nek/nektv",
@@ -2480,13 +2634,13 @@
       "attempts": null
     },
     {
-      "internal_name": "hintdizi",
-      "name": "HintDizi",
+      "internal_name": "hidrama",
+      "name": "hiDRAMA",
       "status": "healthy",
-      "repository": "hrtestingx/hrcsrepofull",
-      "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepofull/builds/HintDizi.cs3",
-      "version": 12,
-      "size": 18767,
+      "repository": "Wiojelt/test",
+      "url": "https://raw.githubusercontent.com/Wiojelt/test/builds/hiDRAMA.cs3?v=4a1e74e75c27",
+      "version": 3,
+      "size": 112378,
       "hash_checked": true,
       "fallback_used": false,
       "attempts": null
@@ -2616,7 +2770,7 @@
       "name": "InterSporTV",
       "status": "healthy",
       "repository": "Wiojelt/TurkSpor",
-      "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/73f808996910c689d39c24dcc5cdab393e23018a/InterSporTV.cs3",
+      "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/InterSporTV.cs3",
       "version": 10,
       "size": 219034,
       "hash_checked": true,
@@ -2688,7 +2842,7 @@
       "name": "KacakSpor",
       "status": "healthy",
       "repository": "Wiojelt/TurkSpor",
-      "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/73f808996910c689d39c24dcc5cdab393e23018a/KacakSpor.cs3",
+      "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/KacakSpor.cs3",
       "version": 1,
       "size": 158964,
       "hash_checked": true,
@@ -2747,10 +2901,10 @@
       "internal_name": "koalatv",
       "name": "KoalaTV",
       "status": "healthy",
-      "repository": "Wiojelt/test",
-      "url": "https://raw.githubusercontent.com/Wiojelt/test/builds/KoalaTV.cs3?v=e648085da6cd",
-      "version": 2,
-      "size": 546212,
+      "repository": "Wiojelt/TurkSpor",
+      "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/KoalaTV.cs3",
+      "version": 3,
+      "size": 547267,
       "hash_checked": true,
       "fallback_used": false,
       "attempts": null
@@ -2783,8 +2937,8 @@
       "internal_name": "kralsporhd",
       "name": "KralSporHD",
       "status": "healthy",
-      "repository": "Wiojelt/WioSpor",
-      "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/KralSporHD.cs3?v=3fec4c8df543",
+      "repository": "Wiojelt/TurkSpor",
+      "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/KralSporHD.cs3",
       "version": 4,
       "size": 175991,
       "hash_checked": true,
@@ -2831,8 +2985,8 @@
       "internal_name": "leotv",
       "name": "LeoTV",
       "status": "healthy",
-      "repository": "Wiojelt/WioSpor",
-      "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/LeoTV.cs3?v=b4adf6647418&t=1791466000",
+      "repository": "Wiojelt/TurkSpor",
+      "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/LeoTV.cs3",
       "version": 2,
       "size": 157850,
       "hash_checked": true,
@@ -2847,6 +3001,18 @@
       "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/LiderFilmIzle.cs3?v=3547650abc3b",
       "version": 7,
       "size": 137142,
+      "hash_checked": true,
+      "fallback_used": false,
+      "attempts": null
+    },
+    {
+      "internal_name": "lovedrama",
+      "name": "loveDRAMA",
+      "status": "healthy",
+      "repository": "Wiojelt/test",
+      "url": "https://raw.githubusercontent.com/Wiojelt/test/builds/loveDRAMA.cs3?v=ab084d6cb608",
+      "version": 3,
+      "size": 106836,
       "hash_checked": true,
       "fallback_used": false,
       "attempts": null
@@ -2879,10 +3045,22 @@
       "internal_name": "mahsunsports",
       "name": "MahsunSports",
       "status": "healthy",
-      "repository": "Wiojelt/WioSpor",
-      "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/MahsunSports.cs3?v=29d560695963",
+      "repository": "Wiojelt/TurkSpor",
+      "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/MahsunSports.cs3",
       "version": 9,
       "size": 178911,
+      "hash_checked": true,
+      "fallback_used": false,
+      "attempts": null
+    },
+    {
+      "internal_name": "mcdrama",
+      "name": "mcDRAMA",
+      "status": "healthy",
+      "repository": "Wiojelt/test",
+      "url": "https://raw.githubusercontent.com/Wiojelt/test/builds/mcDRAMA.cs3?v=eb565c4ac213",
+      "version": 3,
+      "size": 106309,
       "hash_checked": true,
       "fallback_used": false,
       "attempts": null
@@ -2895,18 +3073,6 @@
       "url": "https://github.com/Wiojelt/WioLand/releases/download/megawio-2026-10-03-v3/MegaWio.cs3",
       "version": 3,
       "size": 12581,
-      "hash_checked": true,
-      "fallback_used": false,
-      "attempts": null
-    },
-    {
-      "internal_name": "viontv",
-      "name": "Mien TV",
-      "status": "healthy",
-      "repository": "Wiojelt/WioSpor",
-      "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/VionTV.cs3?v=884ee3683da9",
-      "version": 3,
-      "size": 157481,
       "hash_checked": true,
       "fallback_used": false,
       "attempts": null
@@ -2984,6 +3150,18 @@
       "attempts": null
     },
     {
+      "internal_name": "mtdrama",
+      "name": "mtDRAMA",
+      "status": "healthy",
+      "repository": "Wiojelt/test",
+      "url": "https://raw.githubusercontent.com/Wiojelt/test/builds/mtDRAMA.cs3?v=637ec3897f24",
+      "version": 3,
+      "size": 110062,
+      "hash_checked": true,
+      "fallback_used": false,
+      "attempts": null
+    },
+    {
       "internal_name": "myway tv - latte",
       "name": "myway TV - Latte",
       "status": "healthy",
@@ -3012,7 +3190,7 @@
       "name": "NebulaSports",
       "status": "healthy",
       "repository": "Wiojelt/TurkSpor",
-      "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/73f808996910c689d39c24dcc5cdab393e23018a/NebulaSports.cs3",
+      "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/NebulaSports.cs3",
       "version": 3,
       "size": 169255,
       "hash_checked": true,
@@ -3047,8 +3225,8 @@
       "internal_name": "netvgold",
       "name": "NetVGold",
       "status": "healthy",
-      "repository": "Wiojelt/WioSpor",
-      "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/NetVGold.cs3?v=d1bf7dcba3da",
+      "repository": "Wiojelt/TurkSpor",
+      "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/NetVGold.cs3",
       "version": 3,
       "size": 230994,
       "hash_checked": true,
@@ -3072,7 +3250,7 @@
       "name": "Ntvs",
       "status": "healthy",
       "repository": "Wiojelt/TurkSpor",
-      "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/73f808996910c689d39c24dcc5cdab393e23018a/Ntvs.cs3",
+      "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/Ntvs.cs3",
       "version": 5,
       "size": 150383,
       "hash_checked": true,
@@ -3119,8 +3297,8 @@
       "internal_name": "patronhd",
       "name": "PatronHD",
       "status": "healthy",
-      "repository": "Wiojelt/WioSpor",
-      "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/PatronHD.cs3?v=853ecf634d7b",
+      "repository": "Wiojelt/TurkSpor",
+      "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/PatronHD.cs3",
       "version": 16,
       "size": 219020,
       "hash_checked": true,
@@ -3312,8 +3490,8 @@
       "internal_name": "selcuksports",
       "name": "SelcukSports",
       "status": "healthy",
-      "repository": "Wiojelt/WioSpor",
-      "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/SelcukSports.cs3?v=75b590aaf195",
+      "repository": "Wiojelt/TurkSpor",
+      "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/SelcukSports.cs3",
       "version": 12,
       "size": 174361,
       "hash_checked": true,
@@ -3348,10 +3526,10 @@
       "internal_name": "seyirturk",
       "name": "SeyirTURK",
       "status": "healthy",
-      "repository": "Wiojelt/test",
-      "url": "https://raw.githubusercontent.com/Wiojelt/test/main/SeyirTURK.cs3",
+      "repository": "Wiojelt/TurkSpor",
+      "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/SeyirTURK.cs3",
       "version": 13,
-      "size": 219696,
+      "size": 261847,
       "hash_checked": true,
       "fallback_used": false,
       "attempts": null
@@ -3481,8 +3659,8 @@
       "internal_name": "stbtv",
       "name": "StbTV",
       "status": "healthy",
-      "repository": "Wiojelt/test",
-      "url": "https://raw.githubusercontent.com/Wiojelt/test/main/StbTV.cs3",
+      "repository": "Wiojelt/TurkSpor",
+      "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/StbTV.cs3",
       "version": 5,
       "size": 267794,
       "hash_checked": true,
@@ -3494,7 +3672,7 @@
       "name": "StreamEast",
       "status": "healthy",
       "repository": "Wiojelt/TurkSpor",
-      "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/73f808996910c689d39c24dcc5cdab393e23018a/StreamEast.cs3",
+      "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/StreamEast.cs3",
       "version": 2,
       "size": 149897,
       "hash_checked": true,
@@ -3505,8 +3683,8 @@
       "internal_name": "streamed",
       "name": "Streamed",
       "status": "healthy",
-      "repository": "Wiojelt/WioSpor",
-      "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/Streamed.cs3?v=779e29401bfa",
+      "repository": "Wiojelt/TurkSpor",
+      "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/Streamed.cs3",
       "version": 3,
       "size": 169440,
       "hash_checked": true,
@@ -3651,8 +3829,8 @@
       "internal_name": "taraftarium24",
       "name": "Taraftarium24",
       "status": "healthy",
-      "repository": "Wiojelt/WioSpor",
-      "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/Taraftarium24.cs3?v=076807b64bbd",
+      "repository": "Wiojelt/TurkSpor",
+      "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/Taraftarium24.cs3",
       "version": 13,
       "size": 175625,
       "hash_checked": true,
@@ -3842,18 +4020,6 @@
       "attempts": null
     },
     {
-      "internal_name": "trtcocuk",
-      "name": "TrtCocuk",
-      "status": "healthy",
-      "repository": "hrtestingx/hrcsrepofull",
-      "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepofull/builds/TrtCocuk.cs3",
-      "version": 7,
-      "size": 23281,
-      "hash_checked": true,
-      "fallback_used": false,
-      "attempts": null
-    },
-    {
       "internal_name": "turkanime",
       "name": "TurkAnime",
       "status": "healthy",
@@ -3940,7 +4106,7 @@
           "repository": "hrtestingx/hrcsrepofull",
           "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepofull/builds/Tv8.cs3",
           "version": 6,
-          "result": "provider-dead:img.tv8.com.tr:parked-domain:contact the owner; img.tv8.com:dns-error"
+          "result": "provider-dead:img.tv8.com:dns-error; img.tv8.com.tr:parked-domain:contact the owner"
         },
         {
           "repository": "lepotane/MRC-builds",
@@ -4035,11 +4201,23 @@
       "attempts": null
     },
     {
+      "internal_name": "viontv",
+      "name": "VionTV",
+      "status": "healthy",
+      "repository": "Wiojelt/TurkSpor",
+      "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/VionTV.cs3",
+      "version": 3,
+      "size": 157481,
+      "hash_checked": true,
+      "fallback_used": false,
+      "attempts": null
+    },
+    {
       "internal_name": "vivoxspor",
       "name": "VivoXSpor",
       "status": "healthy",
       "repository": "Wiojelt/TurkSpor",
-      "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/73f808996910c689d39c24dcc5cdab393e23018a/VivoXSpor.cs3",
+      "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/VivoXSpor.cs3",
       "version": 4,
       "size": 161032,
       "hash_checked": true,
@@ -4160,7 +4338,7 @@
       "name": "WioSync",
       "status": "healthy",
       "repository": "Wiojelt/TurkSpor",
-      "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/73f808996910c689d39c24dcc5cdab393e23018a/WioSync.cs3",
+      "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/WioSync.cs3",
       "version": 2,
       "size": 167262,
       "hash_checked": true,
@@ -4573,18 +4751,6 @@
       ]
     },
     {
-      "internal_name": "asidbdrama",
-      "status": "rejected",
-      "attempts": [
-        {
-          "repository": "Wiojelt/test",
-          "url": "https://raw.githubusercontent.com/Wiojelt/test/builds/asidbRAMA.cs3?v=5907b9ee3740",
-          "version": 2,
-          "result": "hash-mismatch"
-        }
-      ]
-    },
-    {
       "internal_name": "asyafanatiklerim",
       "status": "rejected",
       "attempts": [
@@ -4681,18 +4847,6 @@
       ]
     },
     {
-      "internal_name": "bcsports",
-      "status": "rejected",
-      "attempts": [
-        {
-          "repository": "dr-octagon/BronzeCloud",
-          "url": "https://raw.githubusercontent.com/dr-octagon/Cloudstream-BronzeCloud/builds/BCSports_v40.cs3",
-          "version": 40,
-          "result": "provider-dead:byteoversea.com:dns-error; 5ln.zirvedesin244.cfd:error-page:attention required! | cloudflare; avrupabettv983.com:unreachable; andro.evrenesoglu101.click:http-404"
-        }
-      ]
-    },
-    {
       "internal_name": "belgeselxprovider",
       "status": "rejected",
       "attempts": [
@@ -4712,19 +4866,7 @@
           "repository": "berkdemir18/BerkStream-Hub",
           "url": "https://raw.githubusercontent.com/berkdemir18/BerkStream-Hub/builds/BerkStream.cs3",
           "version": 38,
-          "result": "provider-dead:com.berkstream.vendor.nikyokki.tv:dns-error; bcom.berkstream.vendor.nikyokki.tv:dns-error; gcom.berkstream.vendor.nikyokki.tv:dns-error"
-        }
-      ]
-    },
-    {
-      "internal_name": "bingbongdrama",
-      "status": "rejected",
-      "attempts": [
-        {
-          "repository": "Wiojelt/test",
-          "url": "https://raw.githubusercontent.com/Wiojelt/test/builds/bingbongDRAMA.cs3?v=35fa25553eb2",
-          "version": 2,
-          "result": "hash-mismatch"
+          "result": "provider-dead:bcom.berkstream.vendor.nikyokki.tv:dns-error; gcom.berkstream.vendor.nikyokki.tv:dns-error; com.berkstream.vendor.nikyokki.tv:dns-error"
         }
       ]
     },
@@ -4758,19 +4900,19 @@
       "attempts": [
         {
           "repository": "Wiojelt/TurkSpor",
-          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/73f808996910c689d39c24dcc5cdab393e23018a/Crex.cs3",
+          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/Crex.cs3",
           "version": 9,
           "result": "provider-dead:crex1.vercel.app:http-404"
         },
         {
           "repository": "pisovo-5031/TurkSpor",
-          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/73f808996910c689d39c24dcc5cdab393e23018a/Crex.cs3",
+          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/Crex.cs3",
           "version": 9,
           "result": "provider-dead:crex1.vercel.app:http-404"
         },
         {
           "repository": "arcilingir/TurkSpor",
-          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/73f808996910c689d39c24dcc5cdab393e23018a/Crex.cs3",
+          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/Crex.cs3",
           "version": 9,
           "result": "provider-dead:crex1.vercel.app:http-404"
         }
@@ -4826,7 +4968,7 @@
           "repository": "aytzey/cs-kraptor",
           "url": "https://raw.githubusercontent.com/aytzey/cs-kraptor/builds/Dizilla.cs3",
           "version": 112,
-          "result": "provider-dead:dizilla.now:error-page:access denied; dizilla.to:error-page:access denied; file.dizilla.club:dns-error"
+          "result": "provider-dead:dizilla.now:error-page:access denied; file.dizilla.club:dns-error; dizilla.to:error-page:access denied"
         },
         {
           "repository": "adilem/cs-kraptor",
@@ -5024,31 +5166,31 @@
           "repository": "Wiojelt/WioSinema",
           "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/Dizilla.cs3?v=59dae9663628",
           "version": 10,
-          "result": "provider-dead:dizilla.now:error-page:access denied; dizilla.to:error-page:access denied; dizilla.com:unreachable"
+          "result": "provider-dead:dizilla.now:error-page:access denied; dizilla.com:unreachable; dizilla.to:error-page:access denied"
         },
         {
           "repository": "Wiojelt/TurkSinema",
           "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/Dizilla.cs3?v=7900d98822f4",
           "version": 10,
-          "result": "provider-dead:dizilla.now:error-page:access denied; dizilla.to:error-page:access denied; dizilla.com:unreachable"
+          "result": "provider-dead:dizilla.now:error-page:access denied; dizilla.com:unreachable; dizilla.to:error-page:access denied"
         },
         {
           "repository": "pisovo-5031/TurkSinema",
           "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/Dizilla.cs3?v=7900d98822f4",
           "version": 10,
-          "result": "provider-dead:dizilla.now:error-page:access denied; dizilla.to:error-page:access denied; dizilla.com:unreachable"
+          "result": "provider-dead:dizilla.now:error-page:access denied; dizilla.com:unreachable; dizilla.to:error-page:access denied"
         },
         {
           "repository": "arcilingir/TurkSinema",
           "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/Dizilla.cs3?v=7900d98822f4",
           "version": 10,
-          "result": "provider-dead:dizilla.now:error-page:access denied; dizilla.to:error-page:access denied; dizilla.com:unreachable"
+          "result": "provider-dead:dizilla.now:error-page:access denied; dizilla.com:unreachable; dizilla.to:error-page:access denied"
         },
         {
           "repository": "pisovo-5031/WioSinema",
           "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/Dizilla.cs3?v=59dae9663628",
           "version": 10,
-          "result": "provider-dead:dizilla.now:error-page:access denied; dizilla.to:error-page:access denied; dizilla.com:unreachable"
+          "result": "provider-dead:dizilla.now:error-page:access denied; dizilla.com:unreachable; dizilla.to:error-page:access denied"
         },
         {
           "repository": "lepotane/MRC-builds",
@@ -5144,7 +5286,7 @@
           "repository": "neoser1984/neowatch",
           "url": "https://raw.githubusercontent.com/neoser1984/neowatch/builds/DiziPalGuncel.cs3",
           "version": 2,
-          "result": "provider-dead:contentx.me:dns-error; dizipal1588.com:error-page:attention required! | cloudflare"
+          "result": "provider-dead:dizipal1588.com:error-page:attention required! | cloudflare; contentx.me:dns-error"
         }
       ]
     },
@@ -5264,7 +5406,7 @@
           "repository": "hrtestingx/hrcsrepofull",
           "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepofull/builds/DiziWatch.cs3",
           "version": 9,
-          "result": "provider-dead:images-macellan-online.cdn.ampproject.org:http-404; file.macellan.online:error-page:access denied; 1macellan.online:dns-error; file.dizilla.club:dns-error"
+          "result": "provider-dead:file.dizilla.club:dns-error; file.macellan.online:error-page:access denied; 1macellan.online:dns-error; images-macellan-online.cdn.ampproject.org:http-404"
         },
         {
           "repository": "dr-octagon/BronzeCloud",
@@ -5319,18 +5461,6 @@
           "url": "https://raw.githubusercontent.com/blackhope01/cloudstream-plugins/builds/DiziYo.cs3",
           "version": 1,
           "result": "provider-dead:www.diziyo.so:dns-error"
-        }
-      ]
-    },
-    {
-      "internal_name": "dmaxdrama",
-      "status": "rejected",
-      "attempts": [
-        {
-          "repository": "Wiojelt/test",
-          "url": "https://raw.githubusercontent.com/Wiojelt/test/builds/dmaxDRAMA.cs3?v=15b1be93cc65",
-          "version": 2,
-          "result": "hash-mismatch"
         }
       ]
     },
@@ -5414,13 +5544,13 @@
           "repository": "arcilingir/keyiflerolsun_Kekik-cloudstream",
           "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/Filmİzlesene.cs3",
           "version": 2,
-          "result": "provider-dead:www.filmizlesene.plus:dns-error; www.filmizlesene.pro:dns-error"
+          "result": "provider-dead:www.filmizlesene.pro:dns-error; www.filmizlesene.plus:dns-error"
         },
         {
           "repository": "ailantus/nane",
           "url": "https://raw.githubusercontent.com/ailantus/nane/builds/Filmİzlesene.cs3",
           "version": 2,
-          "result": "provider-dead:www.filmizlesene.plus:dns-error; www.filmizlesene.pro:dns-error"
+          "result": "provider-dead:www.filmizlesene.pro:dns-error; www.filmizlesene.plus:dns-error"
         }
       ]
     },
@@ -5455,14 +5585,14 @@
       ]
     },
     {
-      "internal_name": "freedrama",
+      "internal_name": "fullhdfilmizlesene 2",
       "status": "rejected",
       "attempts": [
         {
-          "repository": "Wiojelt/test",
-          "url": "https://raw.githubusercontent.com/Wiojelt/test/builds/freeDRAMA.cs3?v=fd2754371c64",
-          "version": 2,
-          "result": "hash-mismatch"
+          "repository": "eycommas/kekikmod",
+          "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/FullHDFilmizlesene.cs3",
+          "version": 26,
+          "result": "provider-dead:www.fullhdfilmizlesene.tv:dns-error; turbo.imgz.me:unreachable; watch.turkeyplayer.com:unreachable; vidmoxy.com:unreachable"
         }
       ]
     },
@@ -5504,7 +5634,7 @@
           "repository": "CennetCehennem/Xrepo",
           "url": "https://raw.githubusercontent.com/CennetCehennem/Xrepo/main/Gain.cs3",
           "version": 1,
-          "result": "provider-dead:gain.la.drm.cloud:http-404; api.gain.tv:http-500"
+          "result": "provider-dead:api.gain.tv:http-500; gain.la.drm.cloud:http-404"
         }
       ]
     },
@@ -5516,31 +5646,31 @@
           "repository": "GitLatte/Sinetech",
           "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/GoFilmIzle - Latte.cs3",
           "version": 3,
-          "result": "provider-dead:vidmody.com:dns-error; 2vidmody.com:dns-error; gofilmizle.com:parked-domain:afternic"
+          "result": "provider-dead:gofilmizle.com:parked-domain:afternic; 2vidmody.com:dns-error; vidmody.com:dns-error"
         },
         {
           "repository": "aliredpr3/Sinetech-Latte",
           "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/GoFilmIzle - Latte.cs3",
           "version": 3,
-          "result": "provider-dead:vidmody.com:dns-error; 2vidmody.com:dns-error; gofilmizle.com:parked-domain:afternic"
+          "result": "provider-dead:gofilmizle.com:parked-domain:afternic; 2vidmody.com:dns-error; vidmody.com:dns-error"
         },
         {
           "repository": "CennetCehennem/Sinetech",
           "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/GoFilmIzle - Latte.cs3",
           "version": 3,
-          "result": "provider-dead:vidmody.com:dns-error; 2vidmody.com:dns-error; gofilmizle.com:parked-domain:afternic"
+          "result": "provider-dead:gofilmizle.com:parked-domain:afternic; 2vidmody.com:dns-error; vidmody.com:dns-error"
         },
         {
           "repository": "cugucugu/Sinetech",
           "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/GoFilmIzle - Latte.cs3",
           "version": 3,
-          "result": "provider-dead:vidmody.com:dns-error; 2vidmody.com:dns-error; gofilmizle.com:parked-domain:afternic"
+          "result": "provider-dead:gofilmizle.com:parked-domain:afternic; 2vidmody.com:dns-error; vidmody.com:dns-error"
         },
         {
           "repository": "cugucugu/Sinetech-Latte",
           "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/GoFilmIzle - Latte.cs3",
           "version": 3,
-          "result": "provider-dead:vidmody.com:dns-error; 2vidmody.com:dns-error; gofilmizle.com:parked-domain:afternic"
+          "result": "provider-dead:gofilmizle.com:parked-domain:afternic; 2vidmody.com:dns-error; vidmody.com:dns-error"
         }
       ]
     },
@@ -5549,8 +5679,8 @@
       "status": "rejected",
       "attempts": [
         {
-          "repository": "Wiojelt/test",
-          "url": "https://raw.githubusercontent.com/Wiojelt/test/builds/greatDRAMA.cs3?v=ad9c65acb78a",
+          "repository": "Wiojelt/WioDrama",
+          "url": "https://raw.githubusercontent.com/Wiojelt/WioDrama/builds/greatDRAMA.cs3?v=78eec3d7e59f",
           "version": 2,
           "result": "hash-mismatch"
         }
@@ -5594,7 +5724,7 @@
           "repository": "EmRe-35/cloudstream-eklentim",
           "url": "https://raw.githubusercontent.com/EmRe-35/cloudstream-eklentim/builds/HdFilmCehennemiProvider.cs3",
           "version": 1,
-          "result": "provider-dead:rapidrame.com:error-page:attention required! | cloudflare; www.hdfilmcehennemi.nl:http-451; hdfilmcehennemi.download:http-404"
+          "result": "provider-dead:hdfilmcehennemi.download:http-404; rapidrame.com:error-page:attention required! | cloudflare; www.hdfilmcehennemi.nl:http-451"
         }
       ]
     },
@@ -5635,14 +5765,14 @@
       ]
     },
     {
-      "internal_name": "hidrama",
+      "internal_name": "hintdizi",
       "status": "rejected",
       "attempts": [
         {
-          "repository": "Wiojelt/test",
-          "url": "https://raw.githubusercontent.com/Wiojelt/test/builds/hiDRAMA.cs3?v=b45f354ac2f9",
-          "version": 2,
-          "result": "hash-mismatch"
+          "repository": "hrtestingx/hrcsrepofull",
+          "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepofull/builds/HintDizi.cs3",
+          "version": 12,
+          "result": "provider-dead:res.cloudinary.com:http-404"
         }
       ]
     },
@@ -5681,34 +5811,34 @@
       "status": "rejected",
       "attempts": [
         {
+          "repository": "Wiojelt/TurkSpor",
+          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/InatTV.cs3",
+          "version": 11,
+          "result": "provider-dead:www.inattvizle:dns-error; www.inattvizle494.top:error-page:attention required! | cloudflare"
+        },
+        {
+          "repository": "pisovo-5031/TurkSpor",
+          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/InatTV.cs3",
+          "version": 11,
+          "result": "provider-dead:www.inattvizle:dns-error; www.inattvizle494.top:error-page:attention required! | cloudflare"
+        },
+        {
+          "repository": "arcilingir/TurkSpor",
+          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/InatTV.cs3",
+          "version": 11,
+          "result": "provider-dead:www.inattvizle:dns-error; www.inattvizle494.top:error-page:attention required! | cloudflare"
+        },
+        {
           "repository": "Wiojelt/WioSpor",
           "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/InatTV.cs3?v=0091944ca30a",
           "version": 11,
-          "result": "provider-dead:www.inattvizle494.top:error-page:attention required! | cloudflare; www.inattvizle:dns-error"
+          "result": "provider-dead:www.inattvizle:dns-error; www.inattvizle494.top:error-page:attention required! | cloudflare"
         },
         {
           "repository": "arcilingir/WioSpor",
           "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/InatTV.cs3?v=0091944ca30a",
           "version": 11,
-          "result": "provider-dead:www.inattvizle494.top:error-page:attention required! | cloudflare; www.inattvizle:dns-error"
-        },
-        {
-          "repository": "Wiojelt/TurkSpor",
-          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/73f808996910c689d39c24dcc5cdab393e23018a/InatTV.cs3",
-          "version": 11,
-          "result": "provider-dead:www.inattvizle494.top:error-page:attention required! | cloudflare; www.inattvizle:dns-error"
-        },
-        {
-          "repository": "pisovo-5031/TurkSpor",
-          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/73f808996910c689d39c24dcc5cdab393e23018a/InatTV.cs3",
-          "version": 11,
-          "result": "provider-dead:www.inattvizle494.top:error-page:attention required! | cloudflare; www.inattvizle:dns-error"
-        },
-        {
-          "repository": "arcilingir/TurkSpor",
-          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/73f808996910c689d39c24dcc5cdab393e23018a/InatTV.cs3",
-          "version": 11,
-          "result": "provider-dead:www.inattvizle494.top:error-page:attention required! | cloudflare; www.inattvizle:dns-error"
+          "result": "provider-dead:www.inattvizle:dns-error; www.inattvizle494.top:error-page:attention required! | cloudflare"
         }
       ]
     },
@@ -5717,6 +5847,24 @@
       "status": "rejected",
       "attempts": [
         {
+          "repository": "Wiojelt/TurkSpor",
+          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/JestYayin.cs3",
+          "version": 3,
+          "result": "provider-dead:www.jestyayin970.com:dns-error"
+        },
+        {
+          "repository": "pisovo-5031/TurkSpor",
+          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/JestYayin.cs3",
+          "version": 3,
+          "result": "provider-dead:www.jestyayin970.com:dns-error"
+        },
+        {
+          "repository": "arcilingir/TurkSpor",
+          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/JestYayin.cs3",
+          "version": 3,
+          "result": "provider-dead:www.jestyayin970.com:dns-error"
+        },
+        {
           "repository": "Wiojelt/WioSpor",
           "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/JestYayin.cs3?v=b42b08a9105f",
           "version": 3,
@@ -5725,24 +5873,6 @@
         {
           "repository": "arcilingir/WioSpor",
           "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/JestYayin.cs3?v=b42b08a9105f",
-          "version": 3,
-          "result": "provider-dead:www.jestyayin970.com:dns-error"
-        },
-        {
-          "repository": "Wiojelt/TurkSpor",
-          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/73f808996910c689d39c24dcc5cdab393e23018a/JestYayin.cs3",
-          "version": 3,
-          "result": "provider-dead:www.jestyayin970.com:dns-error"
-        },
-        {
-          "repository": "pisovo-5031/TurkSpor",
-          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/73f808996910c689d39c24dcc5cdab393e23018a/JestYayin.cs3",
-          "version": 3,
-          "result": "provider-dead:www.jestyayin970.com:dns-error"
-        },
-        {
-          "repository": "arcilingir/TurkSpor",
-          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/73f808996910c689d39c24dcc5cdab393e23018a/JestYayin.cs3",
           "version": 3,
           "result": "provider-dead:www.jestyayin970.com:dns-error"
         }
@@ -5809,62 +5939,26 @@
       ]
     },
     {
-      "internal_name": "lovedrama",
-      "status": "rejected",
-      "attempts": [
-        {
-          "repository": "Wiojelt/test",
-          "url": "https://raw.githubusercontent.com/Wiojelt/test/builds/loveDRAMA.cs3?v=090a6d820211",
-          "version": 2,
-          "result": "hash-mismatch"
-        }
-      ]
-    },
-    {
       "internal_name": "mackeyfi",
       "status": "rejected",
       "attempts": [
         {
           "repository": "Wiojelt/TurkSpor",
-          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/73f808996910c689d39c24dcc5cdab393e23018a/MacKeyfi.cs3",
+          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/MacKeyfi.cs3",
           "version": 10,
           "result": "provider-dead:www.mackeyfi559.sbs:unreachable"
         },
         {
           "repository": "pisovo-5031/TurkSpor",
-          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/73f808996910c689d39c24dcc5cdab393e23018a/MacKeyfi.cs3",
+          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/MacKeyfi.cs3",
           "version": 10,
           "result": "provider-dead:www.mackeyfi559.sbs:unreachable"
         },
         {
           "repository": "arcilingir/TurkSpor",
-          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/73f808996910c689d39c24dcc5cdab393e23018a/MacKeyfi.cs3",
+          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/MacKeyfi.cs3",
           "version": 10,
           "result": "provider-dead:www.mackeyfi559.sbs:unreachable"
-        }
-      ]
-    },
-    {
-      "internal_name": "mcdrama",
-      "status": "rejected",
-      "attempts": [
-        {
-          "repository": "Wiojelt/test",
-          "url": "https://raw.githubusercontent.com/Wiojelt/test/builds/mcDRAMA.cs3?v=65cc498161ca",
-          "version": 2,
-          "result": "hash-mismatch"
-        }
-      ]
-    },
-    {
-      "internal_name": "mtdrama",
-      "status": "rejected",
-      "attempts": [
-        {
-          "repository": "Wiojelt/test",
-          "url": "https://raw.githubusercontent.com/Wiojelt/test/builds/mtDRAMA.cs3?v=ef7dce5014f0",
-          "version": 2,
-          "result": "hash-mismatch"
         }
       ]
     },
@@ -5900,7 +5994,7 @@
           "repository": "aytzey/cs-kraptor",
           "url": "https://raw.githubusercontent.com/aytzey/cs-kraptor/builds/OpenAnime.cs3",
           "version": 29,
-          "result": "provider-dead:api.openani.me:error-page:attention required! | cloudflare; openani.me:error-page:attention required! | cloudflare"
+          "result": "provider-dead:openani.me:error-page:attention required! | cloudflare; api.openani.me:error-page:attention required! | cloudflare"
         },
         {
           "repository": "adilem/cs-kraptor",
@@ -5918,31 +6012,31 @@
           "repository": "hrtestingx/hrcsrepofull",
           "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepofull/builds/OpenAnime.cs3",
           "version": 25,
-          "result": "provider-dead:api.openani.me:error-page:attention required! | cloudflare; openani.me:error-page:attention required! | cloudflare"
+          "result": "provider-dead:openani.me:error-page:attention required! | cloudflare; api.openani.me:error-page:attention required! | cloudflare"
         },
         {
           "repository": "lepotane/MRC-builds",
           "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/OpenAnime.cs3",
           "version": 13,
-          "result": "provider-dead:api.openani.me:error-page:attention required! | cloudflare; openani.me:error-page:attention required! | cloudflare"
+          "result": "provider-dead:openani.me:error-page:attention required! | cloudflare; api.openani.me:error-page:attention required! | cloudflare"
         },
         {
           "repository": "Wiojelt/WioAnime",
           "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/anime/OpenAnime.cs3?v=aadca9c73a48",
           "version": 1,
-          "result": "provider-dead:de2---vn-t9g4tsan-5qcl.yeshi.eu.org:error-page:attention required! | cloudflare; api.openani.me:error-page:attention required! | cloudflare; openani.me:error-page:attention required! | cloudflare"
+          "result": "provider-dead:de2---vn-t9g4tsan-5qcl.yeshi.eu.org:error-page:attention required! | cloudflare; openani.me:error-page:attention required! | cloudflare; api.openani.me:error-page:attention required! | cloudflare"
         },
         {
           "repository": "adilem/MyTV",
           "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/OpenAnime.cs3",
           "version": 1,
-          "result": "provider-dead:openani.me:error-page:attention required! | cloudflare; api.openani.me:error-page:attention required! | cloudflare; de2---vn-t9g4tsan-5qcl.yeshi.eu.org:error-page:attention required! | cloudflare"
+          "result": "provider-dead:de2---vn-t9g4tsan-5qcl.yeshi.eu.org:error-page:attention required! | cloudflare; openani.me:error-page:attention required! | cloudflare; api.openani.me:error-page:attention required! | cloudflare"
         },
         {
           "repository": "Sertel392/gencler",
           "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/OpenAnime.cs3",
           "version": 1,
-          "result": "provider-dead:openani.me:error-page:attention required! | cloudflare; api.openani.me:error-page:attention required! | cloudflare; de2---vn-t9g4tsan-5qcl.yeshi.eu.org:error-page:attention required! | cloudflare"
+          "result": "provider-dead:de2---vn-t9g4tsan-5qcl.yeshi.eu.org:error-page:attention required! | cloudflare; openani.me:error-page:attention required! | cloudflare; api.openani.me:error-page:attention required! | cloudflare"
         }
       ]
     },
@@ -5954,31 +6048,31 @@
           "repository": "Wiojelt/WioSpor",
           "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/PapazSports.cs3?v=e57f7aae6ebe",
           "version": 2,
-          "result": "provider-dead:www.papazsports1023.pro:dns-error; www.papazsports1029.pro:error-page:attention required! | cloudflare; www.papazsports1024.pro:dns-error; www.papazsports1022.pro:dns-error"
+          "result": "provider-dead:www.papazsports1022.pro:dns-error; www.papazsports1023.pro:dns-error; www.papazsports1029.pro:error-page:attention required! | cloudflare; www.papazsports1024.pro:dns-error"
         },
         {
           "repository": "arcilingir/WioSpor",
           "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/PapazSports.cs3?v=e57f7aae6ebe",
           "version": 2,
-          "result": "provider-dead:www.papazsports1023.pro:dns-error; www.papazsports1029.pro:error-page:attention required! | cloudflare; www.papazsports1024.pro:dns-error; www.papazsports1022.pro:dns-error"
+          "result": "provider-dead:www.papazsports1022.pro:dns-error; www.papazsports1023.pro:dns-error; www.papazsports1029.pro:error-page:attention required! | cloudflare; www.papazsports1024.pro:dns-error"
         },
         {
           "repository": "Wiojelt/TurkSpor",
-          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/73f808996910c689d39c24dcc5cdab393e23018a/PapazSports.cs3",
+          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/PapazSports.cs3",
           "version": 1,
-          "result": "provider-dead:www.papazsports1023.pro:dns-error; www.papazsports1029.pro:error-page:attention required! | cloudflare; www.papazsports1024.pro:dns-error; www.papazsports1022.pro:dns-error"
+          "result": "provider-dead:www.papazsports1022.pro:dns-error; www.papazsports1023.pro:dns-error; www.papazsports1029.pro:error-page:attention required! | cloudflare; www.papazsports1024.pro:dns-error"
         },
         {
           "repository": "pisovo-5031/TurkSpor",
-          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/73f808996910c689d39c24dcc5cdab393e23018a/PapazSports.cs3",
+          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/PapazSports.cs3",
           "version": 1,
-          "result": "provider-dead:www.papazsports1023.pro:dns-error; www.papazsports1029.pro:error-page:attention required! | cloudflare; www.papazsports1024.pro:dns-error; www.papazsports1022.pro:dns-error"
+          "result": "provider-dead:www.papazsports1022.pro:dns-error; www.papazsports1023.pro:dns-error; www.papazsports1029.pro:error-page:attention required! | cloudflare; www.papazsports1024.pro:dns-error"
         },
         {
           "repository": "arcilingir/TurkSpor",
-          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/73f808996910c689d39c24dcc5cdab393e23018a/PapazSports.cs3",
+          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/PapazSports.cs3",
           "version": 1,
-          "result": "provider-dead:www.papazsports1023.pro:dns-error; www.papazsports1029.pro:error-page:attention required! | cloudflare; www.papazsports1024.pro:dns-error; www.papazsports1022.pro:dns-error"
+          "result": "provider-dead:www.papazsports1022.pro:dns-error; www.papazsports1023.pro:dns-error; www.papazsports1029.pro:error-page:attention required! | cloudflare; www.papazsports1024.pro:dns-error"
         }
       ]
     },
@@ -6173,6 +6267,24 @@
       "status": "rejected",
       "attempts": [
         {
+          "repository": "Wiojelt/TurkSpor",
+          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/TRGoals.cs3",
+          "version": 3,
+          "result": "provider-dead:www.trgoals:dns-error; www.trgoals183.top:error-page:attention required! | cloudflare"
+        },
+        {
+          "repository": "pisovo-5031/TurkSpor",
+          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/TRGoals.cs3",
+          "version": 3,
+          "result": "provider-dead:www.trgoals:dns-error; www.trgoals183.top:error-page:attention required! | cloudflare"
+        },
+        {
+          "repository": "arcilingir/TurkSpor",
+          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/TRGoals.cs3",
+          "version": 3,
+          "result": "provider-dead:www.trgoals:dns-error; www.trgoals183.top:error-page:attention required! | cloudflare"
+        },
+        {
           "repository": "Wiojelt/WioSpor",
           "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/TRGoals.cs3?v=b6fd54dc05d4&t=1791466000",
           "version": 3,
@@ -6181,24 +6293,6 @@
         {
           "repository": "arcilingir/WioSpor",
           "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/TRGoals.cs3?v=b6fd54dc05d4&t=1791466000",
-          "version": 3,
-          "result": "provider-dead:www.trgoals:dns-error; www.trgoals183.top:error-page:attention required! | cloudflare"
-        },
-        {
-          "repository": "Wiojelt/TurkSpor",
-          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/73f808996910c689d39c24dcc5cdab393e23018a/TRGoals.cs3",
-          "version": 3,
-          "result": "provider-dead:www.trgoals:dns-error; www.trgoals183.top:error-page:attention required! | cloudflare"
-        },
-        {
-          "repository": "pisovo-5031/TurkSpor",
-          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/73f808996910c689d39c24dcc5cdab393e23018a/TRGoals.cs3",
-          "version": 3,
-          "result": "provider-dead:www.trgoals:dns-error; www.trgoals183.top:error-page:attention required! | cloudflare"
-        },
-        {
-          "repository": "arcilingir/TurkSpor",
-          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/73f808996910c689d39c24dcc5cdab393e23018a/TRGoals.cs3",
           "version": 3,
           "result": "provider-dead:www.trgoals:dns-error; www.trgoals183.top:error-page:attention required! | cloudflare"
         }
@@ -6217,6 +6311,18 @@
       ]
     },
     {
+      "internal_name": "trtcocuk",
+      "status": "rejected",
+      "attempts": [
+        {
+          "repository": "hrtestingx/hrcsrepofull",
+          "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepofull/builds/TrtCocuk.cs3",
+          "version": 7,
+          "result": "provider-dead:tv-trtcocuk.medya.trt.com:dns-error; tv-trtcocuk.medya.trt.com.tr:error-page:access denied"
+        }
+      ]
+    },
+    {
       "internal_name": "turkishw",
       "status": "rejected",
       "attempts": [
@@ -6224,7 +6330,7 @@
           "repository": "ctnkyaumt/cstest",
           "url": "https://raw.githubusercontent.com/ctnkyaumt/cstest/builds/TurkishW.cs3",
           "version": 85,
-          "result": "provider-dead:bcom.turkishw.pro:dns-error; 7com.turkishw.pro:dns-error; 4com.turkishw.pro:dns-error; com.turkishw.pro:dns-error; 1com.turkishw.pro:dns-error; 5com.turkishw.pro:dns-error; 3com.turkishw.pro:dns-error; 0com.turkishw.pro:dns-error; 9com.turkishw.pro:dns-error; 8com.turkishw.pro:dns-error; 2com.turkishw.pro:dns-error; 6com.turkishw.pro:dns-error; -com.turkishw.pro:dns-error"
+          "result": "provider-dead:-com.turkishw.pro:dns-error; 3com.turkishw.pro:dns-error; 8com.turkishw.pro:dns-error; bcom.turkishw.pro:dns-error; 4com.turkishw.pro:dns-error; 6com.turkishw.pro:dns-error; 5com.turkishw.pro:dns-error; 9com.turkishw.pro:dns-error; 1com.turkishw.pro:dns-error; com.turkishw.pro:dns-error; 2com.turkishw.pro:dns-error; 7com.turkishw.pro:dns-error; 0com.turkishw.pro:dns-error"
         }
       ]
     },
@@ -6234,19 +6340,19 @@
       "attempts": [
         {
           "repository": "Wiojelt/TurkSpor",
-          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/73f808996910c689d39c24dcc5cdab393e23018a/VegolTV.cs3",
+          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/VegolTV.cs3",
           "version": 1,
           "result": "provider-dead:vegoltv982.com:unreachable"
         },
         {
           "repository": "pisovo-5031/TurkSpor",
-          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/73f808996910c689d39c24dcc5cdab393e23018a/VegolTV.cs3",
+          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/VegolTV.cs3",
           "version": 1,
           "result": "provider-dead:vegoltv982.com:unreachable"
         },
         {
           "repository": "arcilingir/TurkSpor",
-          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/73f808996910c689d39c24dcc5cdab393e23018a/VegolTV.cs3",
+          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/VegolTV.cs3",
           "version": 1,
           "result": "provider-dead:vegoltv982.com:unreachable"
         }
@@ -6260,19 +6366,19 @@
           "repository": "Wiojelt/TurkSinema",
           "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/Watch2Movies.cs3?v=42735b3e1e63",
           "version": 7,
-          "result": "provider-dead:watch2movies.net:dns-error; watch2movies.com:unreachable"
+          "result": "provider-dead:watch2movies.com:unreachable; watch2movies.net:dns-error"
         },
         {
           "repository": "pisovo-5031/TurkSinema",
           "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/Watch2Movies.cs3?v=42735b3e1e63",
           "version": 7,
-          "result": "provider-dead:watch2movies.net:dns-error; watch2movies.com:unreachable"
+          "result": "provider-dead:watch2movies.com:unreachable; watch2movies.net:dns-error"
         },
         {
           "repository": "arcilingir/TurkSinema",
           "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/Watch2Movies.cs3?v=42735b3e1e63",
           "version": 7,
-          "result": "provider-dead:watch2movies.net:dns-error; watch2movies.com:unreachable"
+          "result": "provider-dead:watch2movies.com:unreachable; watch2movies.net:dns-error"
         }
       ]
     },
@@ -6344,13 +6450,13 @@
           "repository": "arcilingir/Dizi_Film_2",
           "url": "https://raw.githubusercontent.com/arcilingir/Dizi_Film_2/builds/XPrime.cs3",
           "version": 6,
-          "result": "provider-dead:backend.xprime.tv:dns-error; xprime.tv:dns-error"
+          "result": "provider-dead:xprime.tv:dns-error; backend.xprime.tv:dns-error"
         },
         {
           "repository": "arcilingir/nik-cloudstream",
           "url": "https://raw.githubusercontent.com/arcilingir/nik-cloudstream/builds/XPrime.cs3",
           "version": 6,
-          "result": "provider-dead:backend.xprime.tv:dns-error; xprime.tv:dns-error"
+          "result": "provider-dead:xprime.tv:dns-error; backend.xprime.tv:dns-error"
         },
         {
           "repository": "arcilingir/Dizi_Film",
@@ -6362,13 +6468,13 @@
           "repository": "liberta09/Kekik-cloudstream",
           "url": "https://raw.githubusercontent.com/liberta09/Kekik-cloudstream/builds/XPrime.cs3",
           "version": 6,
-          "result": "provider-dead:backend.xprime.tv:dns-error; xprime.tv:dns-error"
+          "result": "provider-dead:xprime.tv:dns-error; backend.xprime.tv:dns-error"
         },
         {
           "repository": "safarxe/CloudStream",
           "url": "https://raw.githubusercontent.com/safarxe/CloudStream/builds/XPrime.cs3",
           "version": 6,
-          "result": "provider-dead:backend.xprime.tv:dns-error; xprime.tv:dns-error"
+          "result": "provider-dead:xprime.tv:dns-error; backend.xprime.tv:dns-error"
         }
       ]
     },
@@ -6390,19 +6496,19 @@
       "attempts": [
         {
           "repository": "Wiojelt/TurkSpor",
-          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/73f808996910c689d39c24dcc5cdab393e23018a/ZbahisTV.cs3",
+          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/ZbahisTV.cs3",
           "version": 10,
           "result": "provider-dead:zbahistv65.com:dns-error"
         },
         {
           "repository": "pisovo-5031/TurkSpor",
-          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/73f808996910c689d39c24dcc5cdab393e23018a/ZbahisTV.cs3",
+          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/ZbahisTV.cs3",
           "version": 10,
           "result": "provider-dead:zbahistv65.com:dns-error"
         },
         {
           "repository": "arcilingir/TurkSpor",
-          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/73f808996910c689d39c24dcc5cdab393e23018a/ZbahisTV.cs3",
+          "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/ZbahisTV.cs3",
           "version": 10,
           "result": "provider-dead:zbahistv65.com:dns-error"
         }

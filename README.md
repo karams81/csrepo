@@ -6,7 +6,7 @@ CloudStream repo discovery and validation bot
 
 Bu tablo bot tarafından otomatik güncellenir. Kısa kod/adresler kaynak repoların README dosyalarından tespit edilir.
 
-**Son tarama:** <code>2026-10-16T04:18:35Z</code>
+**Son tarama:** <code>2026-10-16T11:22:43Z</code>
 
 | Repo | Durum | Eklenti | Kısa kod / adres | Uzun repo.json |
 |---|---|---:|---|---|
