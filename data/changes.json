@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-16T01:27:43Z",
+  "generated_at": "2026-10-16T04:18:35Z",
   "candidate_count": 237,
   "verified_count": 185,
   "turkish_count": 100,
   "app_ready_count": 88,
   "published_plugin_count": 244,
   "rejected_plugin_count": 72,
-  "plugin_fallback_count": 27,
+  "plugin_fallback_count": 26,
   "catalog_repo_count": 88,
   "global_count": 85,
   "changes": []
