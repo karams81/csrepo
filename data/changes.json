@@ -1,44 +1,44 @@
 {
-  "generated_at": "2026-10-17T04:09:34Z",
+  "generated_at": "2026-10-17T10:42:26Z",
   "candidate_count": 237,
   "verified_count": 185,
   "turkish_count": 100,
   "app_ready_count": 88,
-  "published_plugin_count": 250,
-  "rejected_plugin_count": 66,
+  "published_plugin_count": 252,
+  "rejected_plugin_count": 65,
   "plugin_fallback_count": 24,
   "catalog_repo_count": 88,
   "global_count": 85,
   "changes": [
     {
       "type": "plugin_count",
-      "repository": "Wiojelt/WioCinema",
-      "old": 11,
-      "new": 13
+      "repository": "Kayracs3/Kayra",
+      "old": 26,
+      "new": 28
     },
     {
       "type": "plugins_updated",
-      "repository": "Wiojelt/WioCinema",
-      "old": "2026-10-09T14:16:33Z",
-      "new": "2026-10-16T22:49:54Z"
+      "repository": "Kayracs3/Kayra",
+      "old": "2026-10-15T18:46:43Z",
+      "new": "2026-10-17T10:17:44Z"
     },
     {
       "type": "plugins_updated",
-      "repository": "Wiojelt/WioSinema",
-      "old": "2026-10-16T17:26:51Z",
-      "new": "2026-10-16T23:42:49Z"
+      "repository": "MakotoTokioki/Kekik-cloudstream",
+      "old": "2026-10-16T10:53:03Z",
+      "new": "2026-10-17T06:39:46Z"
     },
     {
       "type": "plugins_updated",
-      "repository": "Wiojelt/test",
-      "old": "2026-10-16T18:54:26Z",
-      "new": "2026-10-17T01:31:18Z"
+      "repository": "burak-ayd/cloudstream-repo",
+      "old": "2026-10-16T10:53:03Z",
+      "new": "2026-10-17T06:39:46Z"
     },
     {
       "type": "plugins_updated",
-      "repository": "pisovo-5031/WioSinema",
-      "old": "2026-10-13T17:20:14Z",
-      "new": "2026-10-16T23:43:12Z"
+      "repository": "feroxx/Kekik-cloudstream",
+      "old": "2026-10-16T10:53:03Z",
+      "new": "2026-10-17T06:39:46Z"
     }
   ]
 }

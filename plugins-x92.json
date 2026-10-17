@@ -296,22 +296,23 @@
     "fileHash": "sha256-4c756d47abc007ff642715bab52010d6b6282e51f469ab1e2407af42ce3564a7"
   },
   {
-    "iconUrl": "https://asyafilmizle.com//favicon.ico",
-    "fileHash": "sha256-f8d2fe0c212ebab4b66ed5fe4a39a1375cee41c8f5b9f4bcacb1d2d57dbe17d1",
+    "iconUrl": "https://asyafilmizle.com/favicon.ico",
+    "fileHash": "sha256-3fa62b42f6c7d811c14bba62024b9a646a8d4145a69293b121b7d63f1711c4e7",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kayracs3/Kayra",
     "fileSize": 57154,
     "status": 1,
     "language": "tr",
     "authors": [
-      "AsyaFilmIzle"
+      "Kayracs3"
     ],
     "tvTypes": [
+      "Movie",
       "TvSeries"
     ],
-    "version": 1,
+    "version": 2,
     "internalName": "AsyaFilmIzle",
-    "description": "DiziPal Türkiye katalog ve bölüm sağlayıcısı",
+    "description": "AsyaFilmİzle — Asya filmleri ve dizileri sağlayıcısı",
     "url": "https://raw.githubusercontent.com/Kayracs3/Kayra/builds/AsyaFilmIzle.cs3",
     "name": "AsyaFilmIzle"
   },
@@ -478,9 +479,9 @@
     "fileHash": "sha256-04fd1ff0f3c67b9d4e5a466025b3990d2979f13cde5878046efb9ed1f8ff1b63"
   },
   {
-    "url": "https://raw.githubusercontent.com/dr-octagon/Cloudstream-BronzeCloud/builds/BOAT_v54.cs3",
+    "url": "https://raw.githubusercontent.com/dr-octagon/Cloudstream-BronzeCloud/builds/BOAT_v55.cs3",
     "status": 1,
-    "version": 54,
+    "version": 55,
     "name": "BOAT",
     "internalName": "BOAT",
     "authors": [
@@ -500,7 +501,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/dr-octagon/Cloudstream-BronzeCloud/builds/logos/boat_v2.png",
     "apiVersion": 1,
-    "fileHash": "sha256-4eebcca0b94dc1a83cd95bdb5e7544a694c72d9a2de61885831a8de1c199cfe3"
+    "fileHash": "sha256-28bbdec796a8259088647ed1933a090c49cc7994149d37fce4f562d7185ef5c2"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
@@ -591,9 +592,9 @@
     "fileHash": "sha256-b371231c4159e6805af7e4f1c29221baf3c2381876de6704f02a73ec73f425a7"
   },
   {
-    "url": "https://raw.githubusercontent.com/dr-octagon/Cloudstream-BronzeCloud/builds/CineStream_v553.cs3",
+    "url": "https://raw.githubusercontent.com/dr-octagon/Cloudstream-BronzeCloud/builds/CineStream_v554.cs3",
     "status": 1,
-    "version": 553,
+    "version": 554,
     "name": "CineStream",
     "internalName": "CineStream",
     "authors": [
@@ -615,7 +616,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/dr-octagon/Cloudstream-BronzeCloud/builds/logos/cinestream.png",
     "apiVersion": 1,
-    "fileHash": "sha256-6ee420e58893b6f1d28fa0186d45a0d073586eaad8941e93c04692c01351e403"
+    "fileHash": "sha256-2fd92cfe24e6e46b6bab75ae84d4f049a529c05640bd95c3ccd3119790e5aa43"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/CizgiDiziNet.cs3?v=2efc903e18bc",
@@ -790,6 +791,32 @@
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/ClipBox.png",
     "apiVersion": 1,
     "fileHash": "sha256-58b02a7562755d3f3949110f1a29545f903d1e29ffa04f164e579c1105b9e313"
+  },
+  {
+    "iconUrl": "https://raw.githubusercontent.com/Emre-Kahveci/CloudStreamHub/main/assets/icon.png",
+    "fileHash": "sha256-80dd22500be075adffc7bc507172510f78c075a93ac36f5cc833900579c205e6",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Emre-Kahveci/CloudStreamHub",
+    "fileSize": 459860,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "CloudStreamTR",
+      "Emre-Kahveci"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AnimeMovie",
+      "Cartoon",
+      "Documentary"
+    ],
+    "version": 36,
+    "internalName": "CloudStreamHub",
+    "description": "CloudStreamHub Aggregator - TMDB Keşif & CloudStream Sağlayıcılarını Birleştiren Eklenti",
+    "url": "https://raw.githubusercontent.com/Emre-Kahveci/CloudStreamHub/builds/CloudStreamHub.cs3",
+    "name": "CloudStreamHub"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/CNCVerseDisneyPlus.cs3?v=8abeeba277b6",
@@ -1139,10 +1166,10 @@
   },
   {
     "iconUrl": "https://www.dizibox.live/favicon.ico",
-    "fileHash": "sha256-f33f2a74332aa6be25a490aa44324906562236c9b2e2a208a420217e8684a635",
+    "fileHash": "sha256-168df2e4193c7c3199c31eaa6f9f3e334dcfc654b6719e3d10f2d09ff04d5188",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kayracs3/Kayra",
-    "fileSize": 52539,
+    "fileSize": 52952,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1151,11 +1178,32 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 1,
+    "version": 2,
     "internalName": "DiziBoxLive",
     "description": "DiziBOX Live yabancı dizi katalog ve bölüm sağlayıcısı",
     "url": "https://raw.githubusercontent.com/Kayracs3/Kayra/builds/DiziBoxLive.cs3",
     "name": "DiziBoxLive"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizidad.com&sz=%size%",
+    "fileHash": "sha256-1c4a584f92dfb1b089a6dbbd0bce77bb6af20a89a1ce3227797bd0045ec3bdf8",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Kayracs3/Kayra",
+    "fileSize": 45410,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "Kayracs3"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 27,
+    "internalName": "DiziDad",
+    "description": "DiziDAD — tüm diziler, filmler ve eksiksiz sezon/bölüm listeleri",
+    "url": "https://raw.githubusercontent.com/Kayracs3/Kayra/builds/DiziDad.cs3",
+    "name": "DiziDad"
   },
   {
     "url": "https://raw.githubusercontent.com/aytzey/cs-kraptor/builds/DiziFilmORG.cs3",
@@ -1408,6 +1456,29 @@
     "description": "Yabancı dizi, film ve anime izleme sitesi (dizipal.bid aynası).",
     "url": "https://raw.githubusercontent.com/faruktunc/frukon/builds/DizipalExtended.cs3",
     "name": "DizipalExtended"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/DiziPalHub.cs3?v=ef776b0b5aa6",
+    "status": 3,
+    "version": 22,
+    "name": "DiziPalHub",
+    "internalName": "DiziPalHub",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "DiziPal Hub · 2225, DDiziPal, Orjinal 14 ve 1588 kaynakları tek merkezde",
+    "fileSize": 223008,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/DiziPalHub.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-ef776b0b5aa617606b7bbaf70b82c59a4801d821ed49d8cf18d5d071935eb9a9"
   },
   {
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPalOriginal.cs3",
@@ -2505,27 +2576,6 @@
     "hash": "4a1e74e75c27e803e39f68cb05923381cc34d907f63caa942332c45c545e5247"
   },
   {
-    "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepofull/builds/HintDizi.cs3",
-    "status": 1,
-    "version": 12,
-    "name": "HintDizi",
-    "internalName": "HintDizi",
-    "authors": [
-      "kraptor"
-    ],
-    "description": "HintDizi film ve dizi içerikleri sağlayıcısı.",
-    "fileSize": 18767,
-    "repositoryUrl": "https://github.com/hrtestingx/hrcsrepofull",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.hintdizi.com&size=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-17b05d1520478574f694ab15b284efcab6a66d5a202b568dcf9ff15f1ea2909d"
-  },
-  {
     "url": "https://raw.githubusercontent.com/liberta09/Kekik-cloudstream/builds/HintFilmIzle.cs3",
     "status": 1,
     "version": 16,
@@ -2566,6 +2616,29 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://animecix.tv&sz=%size%",
     "apiVersion": 1,
     "fileHash": "sha256-b46457591b4d0a4a2aa74eaadc8477f0ee83bf8f60748761aad20029ce51be9e"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepo/builds/HRAsianDrama.cs3",
+    "status": 1,
+    "version": 5,
+    "name": "HR AsianDrama",
+    "internalName": "HRAsianDrama",
+    "authors": [
+      "hrtestingx"
+    ],
+    "description": "HR AsianDrama - Toplu Kaynak",
+    "fileSize": 207250,
+    "repositoryUrl": "https://github.com/hrtestingx/hrcsrepo",
+    "language": "tr",
+    "tvTypes": [
+      "AsianDrama",
+      "Movie",
+      "Anime",
+      "Others"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=https://webdramaturkey2.com&sz=%size%",
+    "apiVersion": 1,
+    "fileHash": "sha256-06c9e620cd2727b7b3660b8658b1432e45ce72e45705e1629fcf6330933fec33"
   },
   {
     "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepo/builds/HRKids.cs3",
@@ -3393,27 +3466,6 @@
     "name": "MRC-Naughty"
   },
   {
-    "iconUrl": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/icon.png",
-    "fileHash": "sha256-e000ba6728f5099af851fde9807040a99392e42b50a9de8a91b020e36d019eb8",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 192744,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "MRC"
-    ],
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "version": 6,
-    "internalName": "MRC-Plus",
-    "description": "MRC-Plus — çok kaynaklı Türkçe içerik kataloğu (film, dizi).",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/MRC-Plus.cs3",
-    "name": "MRC-Plus"
-  },
-  {
     "name": "mtDRAMA",
     "internalName": "MtDrama",
     "version": 4,
@@ -3902,7 +3954,7 @@
     ],
     "iconUrl": "https://rectv.org.tr/wp-content/uploads/2024/11/rectv-modified.webp",
     "apiVersion": 1,
-    "fileHash": "sha256-eb4bceafc7f8d19f3b2dc9843512f540c06944585dfdf4aff7b9d5a65bc81eb0"
+    "fileHash": "sha256-5fbf6bf5186cc4982b352be9a107383d064e7945929e52757d04b96b23824497"
   },
   {
     "iconUrl": "https://rectv.org.tr/wp-content/uploads/2024/11/rectv-modified.webp",
