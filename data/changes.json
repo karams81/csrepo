@@ -1,56 +1,50 @@
 {
-  "generated_at": "2026-10-18T15:57:01Z",
+  "generated_at": "2026-10-18T20:41:02Z",
   "candidate_count": 246,
   "verified_count": 193,
   "turkish_count": 107,
   "app_ready_count": 93,
-  "published_plugin_count": 256,
-  "rejected_plugin_count": 67,
-  "plugin_fallback_count": 26,
+  "published_plugin_count": 265,
+  "rejected_plugin_count": 71,
+  "plugin_fallback_count": 22,
   "catalog_repo_count": 93,
   "global_count": 86,
   "changes": [
     {
-      "type": "plugin_count",
-      "repository": "Kayracs3/Kayra",
-      "old": 29,
-      "new": 30
+      "type": "plugins_updated",
+      "repository": "Bymesut1/Kartaloglu-cs",
+      "old": "2026-10-18T10:30:40Z",
+      "new": "2026-10-18T20:17:35Z"
     },
     {
       "type": "plugins_updated",
       "repository": "Kayracs3/Kayra",
-      "old": "2026-10-18T10:48:20Z",
-      "new": "2026-10-18T15:11:46Z"
+      "old": "2026-10-18T15:11:46Z",
+      "new": "2026-10-18T19:59:05Z"
     },
     {
-      "type": "plugin_count",
-      "repository": "Wiojelt/WioSinema",
-      "old": 35,
-      "new": 36
+      "type": "plugins_updated",
+      "repository": "Wiojelt/WioAnime",
+      "old": "2026-10-18T01:14:42Z",
+      "new": "2026-10-18T20:06:39Z"
     },
     {
       "type": "plugins_updated",
       "repository": "Wiojelt/WioSinema",
-      "old": "2026-10-18T01:09:12Z",
-      "new": "2026-10-18T11:56:55Z"
+      "old": "2026-10-18T11:56:55Z",
+      "new": "2026-10-18T16:17:11Z"
     },
     {
       "type": "plugin_count",
-      "repository": "Wiojelt/test",
-      "old": 14,
-      "new": 12
+      "repository": "crysisdaye/cloudstream-turkce-repo",
+      "old": 37,
+      "new": 228
     },
     {
       "type": "plugins_updated",
-      "repository": "Wiojelt/test",
-      "old": "2026-10-17T11:26:33Z",
-      "new": "2026-10-18T11:57:01Z"
-    },
-    {
-      "type": "plugin_count",
-      "repository": "dr-octagon/BronzeCloud",
-      "old": 62,
-      "new": 63
+      "repository": "crysisdaye/cloudstream-turkce-repo",
+      "old": null,
+      "new": "2026-10-18T20:01:24Z"
     }
   ]
 }
