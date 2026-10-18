@@ -1,65 +1,56 @@
 {
-  "generated_at": "2026-10-18T11:01:53Z",
-  "candidate_count": 245,
-  "verified_count": 192,
-  "turkish_count": 106,
+  "generated_at": "2026-10-18T15:57:01Z",
+  "candidate_count": 246,
+  "verified_count": 193,
+  "turkish_count": 107,
   "app_ready_count": 93,
-  "published_plugin_count": 257,
-  "rejected_plugin_count": 65,
-  "plugin_fallback_count": 24,
+  "published_plugin_count": 256,
+  "rejected_plugin_count": 67,
+  "plugin_fallback_count": 26,
   "catalog_repo_count": 93,
   "global_count": 86,
   "changes": [
     {
-      "type": "new",
-      "repository": "Bymesut1/Dizi_Film",
-      "plugin_count": 52
-    },
-    {
-      "type": "new",
-      "repository": "Bymesut1/Eklenti",
-      "plugin_count": 73
-    },
-    {
-      "type": "new",
-      "repository": "Bymesut1/cs-plugins",
-      "plugin_count": 11
-    },
-    {
-      "type": "plugin_count",
-      "repository": "Bymesut1/Kartaloglu-cs",
-      "old": 8,
-      "new": 9
-    },
-    {
-      "type": "plugins_updated",
-      "repository": "Bymesut1/Kartaloglu-cs",
-      "old": "2026-10-17T23:05:44Z",
-      "new": "2026-10-18T10:30:40Z"
-    },
-    {
       "type": "plugin_count",
       "repository": "Kayracs3/Kayra",
-      "old": 28,
-      "new": 29
+      "old": 29,
+      "new": 30
     },
     {
       "type": "plugins_updated",
       "repository": "Kayracs3/Kayra",
-      "old": "2026-10-17T21:15:23Z",
-      "new": "2026-10-18T10:48:20Z"
+      "old": "2026-10-18T10:48:20Z",
+      "new": "2026-10-18T15:11:46Z"
     },
     {
       "type": "plugin_count",
-      "repository": "crysisdaye/cloudstream-turkce-repo",
-      "old": 34,
-      "new": 37
+      "repository": "Wiojelt/WioSinema",
+      "old": 35,
+      "new": 36
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "Wiojelt/WioSinema",
+      "old": "2026-10-18T01:09:12Z",
+      "new": "2026-10-18T11:56:55Z"
+    },
+    {
+      "type": "plugin_count",
+      "repository": "Wiojelt/test",
+      "old": 14,
+      "new": 12
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "Wiojelt/test",
+      "old": "2026-10-17T11:26:33Z",
+      "new": "2026-10-18T11:57:01Z"
     },
     {
       "type": "plugin_count",
       "repository": "dr-octagon/BronzeCloud",
-      "old": 61,
-      "new": 62
+      "old": 62,
+      "new": 63
     }
   ]
 }
