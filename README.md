@@ -6,15 +6,15 @@ CloudStream repo discovery and validation bot
 
 Bu tablo bot tarafından otomatik güncellenir. Kısa kod/adresler kaynak repoların README dosyalarından tespit edilir.
 
-**Son tarama:** <code>2026-10-17T20:36:29Z</code>
+**Son tarama:** <code>2026-10-18T04:18:15Z</code>
 
 | Repo | Durum | Eklenti | Kısa kod / adres | Uzun repo.json |
 |---|---|---:|---|---|
-| [TurkSinema](https://github.com/Wiojelt/TurkSinema) | active | 71 | <code>!turksinema</code> | <code>https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/repo.json</code> |
-| [WioSinema](https://github.com/Wiojelt/WioSinema) | active | 37 | <code>!wiosinema</code> | <code>https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/repo.json</code> |
+| [TurkSinema](https://github.com/Wiojelt/TurkSinema) | active | 68 | <code>!turksinema</code> | <code>https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/repo.json</code> |
+| [WioSinema](https://github.com/Wiojelt/WioSinema) | active | 35 | <code>!wiosinema</code> | <code>https://raw.githubusercontent.com/Wiojelt/WioSinema/builds/repo.json</code> |
 | [Turkish Providers Repository \| @feroxxcs3](https://github.com/feroxx/Kekik-cloudstream) | active | 37 | — | <code>https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/repo.json</code> |
 | [MRC - CloudStream Türkçe Eklenti Deposu](https://github.com/lepotane/MRC-builds) | active | 72 | <code>https://tinyurl.com/mrc-cs</code><br><code>!mrc-cs</code> | <code>https://raw.githubusercontent.com/lepotane/MRC-builds/builds/repo.json</code> |
-| [TurkSpor](https://github.com/Wiojelt/TurkSpor) | active | 47 | <code>!turkspor</code> | <code>https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/repo.json</code> |
+| [TurkSpor](https://github.com/Wiojelt/TurkSpor) | active | 45 | <code>!turkspor</code> | <code>https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/repo.json</code> |
 | [CloudStream TR](https://github.com/Emre-Kahveci/CloudStreamHub) | active | 25 | — | <code>https://raw.githubusercontent.com/Emre-Kahveci/CloudStreamHub/builds/repo.json</code> |
 | [Manitux Cloudstream Plugins](https://github.com/manitux-app/cs-plugins) | active | 11 | <code>!manitux-cs</code> | <code>https://raw.githubusercontent.com/manitux-app/cs-plugins/main/repo.json</code> |
 
