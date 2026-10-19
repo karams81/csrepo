@@ -1,32 +1,44 @@
 {
-  "generated_at": "2026-10-19T04:29:35Z",
+  "generated_at": "2026-10-19T13:04:38Z",
   "candidate_count": 246,
   "verified_count": 193,
   "turkish_count": 107,
   "app_ready_count": 93,
   "published_plugin_count": 274,
-  "rejected_plugin_count": 62,
-  "plugin_fallback_count": 21,
+  "rejected_plugin_count": 63,
+  "plugin_fallback_count": 23,
   "catalog_repo_count": 93,
   "global_count": 86,
   "changes": [
     {
       "type": "plugins_updated",
       "repository": "Bymesut1/Kartaloglu-cs",
-      "old": "2026-10-18T20:17:35Z",
-      "new": "2026-10-18T20:36:00Z"
+      "old": "2026-10-18T20:36:00Z",
+      "new": "2026-10-19T08:17:11Z"
     },
     {
       "type": "plugins_updated",
-      "repository": "Wiojelt/WioAnime",
-      "old": "2026-10-18T20:06:39Z",
-      "new": "2026-10-18T21:06:38Z"
+      "repository": "Wiojelt/WioAsya",
+      "old": "2026-10-17T12:47:57Z",
+      "new": "2026-10-18T16:17:27Z"
+    },
+    {
+      "type": "plugin_count",
+      "repository": "baristomruk-max/BTVault",
+      "old": 62,
+      "new": 64
     },
     {
       "type": "plugins_updated",
       "repository": "baristomruk-max/BTVault",
-      "old": "2026-10-17T17:22:14Z",
-      "new": "2026-10-18T21:04:34Z"
+      "old": "2026-10-18T21:04:34Z",
+      "new": "2026-10-19T08:57:35Z"
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "berkdemir18/BerkStream-Hub",
+      "old": "2026-10-14T16:58:16Z",
+      "new": "2026-10-19T09:57:34Z"
     }
   ]
 }

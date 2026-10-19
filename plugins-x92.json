@@ -338,6 +338,26 @@
     "name": "AsyaLuna"
   },
   {
+    "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepofull/builds/AsyaWatch.cs3",
+    "status": 1,
+    "version": 38,
+    "name": "AsyaWatch",
+    "internalName": "AsyaWatch",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "description": "Kore, Çin ve Japon dizilerini tek tıkla HD ve Türkçe altyazılı izle. En güncel Asya dizileri, unutulmaz Asya filmleri ve web dramalar seni bekliyor.",
+    "fileSize": 61456,
+    "repositoryUrl": "https://github.com/hrtestingx/hrcsrepofull",
+    "language": "tr",
+    "tvTypes": [
+      "AsianDrama"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=asyawatch.com",
+    "apiVersion": 1,
+    "fileHash": "sha256-75c09c7a2087ab0e1abcf2d2b55da86900b146b2273f1670cc73c6a8a2be8ffe"
+  },
+  {
     "name": "AtomSpor",
     "internalName": "AtomSpor",
     "version": 2,
@@ -2156,29 +2176,6 @@
     "name": "FilmIzyon"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/FilmIzzle.cs3?v=1678f9e17bea",
-    "status": 3,
-    "version": 7,
-    "name": "FilmIzzle",
-    "internalName": "FilmIzzle",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "FilmIzzle · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 137131,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=filmizzle.com&sz=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-1678f9e17beae0478abd51517544d62db37040279c9a6122378d668837ac31bc"
-  },
-  {
     "url": "https://raw.githubusercontent.com/liberta09/Kekik-cloudstream/builds/FilmKovasi.cs3",
     "status": 1,
     "version": 10,
@@ -2197,26 +2194,6 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=filmkovasi.co&sz=%size%",
     "apiVersion": 1,
     "fileHash": "sha256-7b43c88e7221faed634263a732767334d1ae866b5c0d96a5c663b89f71c60d02"
-  },
-  {
-    "iconUrl": "https://filmkutusu.com/favicon.ico",
-    "fileHash": "sha256-7309daf39f47d0615796554ab7cc38952b48848dd3b29e09ecedca6bbea603e5",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Kayracs3/Kayra",
-    "fileSize": 33862,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "Kayracs3"
-    ],
-    "tvTypes": [
-      "Movie"
-    ],
-    "version": 1,
-    "internalName": "FilmKutusu",
-    "description": "FilmKutusu film arşivi, arama ve film bilgileri",
-    "url": "https://raw.githubusercontent.com/Kayracs3/Kayra/builds/FilmKutusu.cs3",
-    "name": "FilmKutusu"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/FilmMakinesi.cs3?v=cfb9a5c37535",
@@ -2436,43 +2413,23 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.de&sz=%size%",
+    "fileHash": "sha256-0c1b6016f7edc5c13c06a17f81e9821bf4f864b725605a1da08e30b1e1f34837",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
-    "fileSize": 34067,
+    "repositoryUrl": "https://github.com/bilhan50/BilhanTR",
+    "fileSize": 38564,
     "status": 1,
     "language": "tr",
     "authors": [
-      "keyiflerolsun"
+      "bilhan50"
     ],
     "tvTypes": [
       "Movie"
     ],
-    "version": 27,
+    "version": 9,
     "internalName": "FullHDFilmizlesene",
     "description": "Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
-    "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/FullHDFilmizlesene.cs3",
-    "name": "FullHDFilmizlesene",
-    "fileHash": "sha256-5b4bf380db7ff905b4974c1f816eb2efdc49bd376f6abd9bc087fd7722693bdd"
-  },
-  {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.de&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
-    "fileSize": 34067,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "keyiflerolsun"
-    ],
-    "tvTypes": [
-      "Movie"
-    ],
-    "version": 26,
-    "internalName": "FullHDFilmizlesene 2",
-    "description": "Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
-    "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/FullHDFilmizlesene.cs3",
-    "name": "FullHDFilmizlesene 2",
-    "fileHash": "sha256-5b4bf380db7ff905b4974c1f816eb2efdc49bd376f6abd9bc087fd7722693bdd"
+    "url": "https://raw.githubusercontent.com/bilhan50/BilhanTR/builds/FullHDFilmizlesene.cs3",
+    "name": "FullHDFilmizlesene"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=fullhdfilmizlede.net&sz=%size%",
@@ -2813,14 +2770,14 @@
   {
     "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepo/builds/HRAnime.cs3",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "HR Anime",
     "internalName": "HRAnime",
     "authors": [
       "hrtestingx"
     ],
     "description": "HR Anime - Toplu Türkçe Anime Kaynakları",
-    "fileSize": 242312,
+    "fileSize": 242841,
     "repositoryUrl": "https://github.com/hrtestingx/hrcsrepo",
     "language": "tr",
     "tvTypes": [
@@ -2829,7 +2786,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://animecix.tv&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-b46457591b4d0a4a2aa74eaadc8477f0ee83bf8f60748761aad20029ce51be9e"
+    "fileHash": "sha256-20f24751fe6bc2d976e6fe3e4ba070073d32799cd53b4f4dacdfafee79261620"
   },
   {
     "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepo/builds/HRAsianDrama.cs3",
@@ -2925,7 +2882,7 @@
       "hrtestingx"
     ],
     "description": "HR ShortDrama - Toplu Kısa Dizi & Drama Kaynakları",
-    "fileSize": 194681,
+    "fileSize": 231320,
     "repositoryUrl": "https://github.com/hrtestingx/hrcsrepo",
     "language": "tr",
     "tvTypes": [
@@ -2935,7 +2892,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://dramadizilerim.com&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-776626678dc65a969235ed063f445acd4a11fff529518ec6201939e77b7ad0d7"
+    "fileHash": "sha256-abf32c7f99e22fcaad83c6ecc5a1ebbbb7278199e378200b7eb473d88c28e30a"
   },
   {
     "url": "https://raw.githubusercontent.com/aytzey/cs-kraptor/builds/InatBox.cs3",
@@ -4430,6 +4387,27 @@
     "fileHash": "sha256-f1ebdac5ecf627f57bcf2ff07b331ea04d131f24e5f5dcde070b26c4a8420ad3"
   },
   {
+    "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepofull/builds/SelcukFlix.cs3",
+    "status": 1,
+    "version": 47,
+    "name": "SelcukFlix",
+    "internalName": "SelcukFlix",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "description": "Selcukflix'te her türden en yeni ve en popüler dizi ve filmleri izlemenin keyfini çıkarın. Aksiyondan romantiğe, bilim kurgudan dramaya, geniş kütüphanemizde herkes için bir şey var.",
+    "fileSize": 64411,
+    "repositoryUrl": "https://github.com/hrtestingx/hrcsrepofull",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=selcukflix.com",
+    "apiVersion": 1,
+    "fileHash": "sha256-7787b122e534c6f8e89011de6049a8011de492e095195ba363def27b30609e3a"
+  },
+  {
     "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/SelcukSports.cs3?v=75b590aaf195",
     "status": 3,
     "version": 12,
@@ -4693,6 +4671,26 @@
     "description": "Sinezy.to film ve dizi sağlayıcısı",
     "url": "https://raw.githubusercontent.com/Kayracs3/Kayra/builds/SinezyTo.cs3",
     "name": "SinezyTo"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/baristomruk-max/BTVault/builds/SporTV.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "SporTV",
+    "internalName": "SporTV",
+    "authors": [
+      "BTcozum"
+    ],
+    "description": "SporTV - Canli spor kanallari (TRT Spor, beIN Sports, Eurosport, NBA TV ve daha fazlasi)",
+    "fileSize": 13714,
+    "repositoryUrl": "https://github.com/baristomruk-max/BTVault",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=trtspor.com.tr&sz=%size%",
+    "apiVersion": 1,
+    "fileHash": "sha256-f14b71bfebd63fb4fe601605017cdb07d95ec9cb6542794f9aad690d00e6c222"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.startv.com.tr&sz=%size%",
@@ -5494,24 +5492,24 @@
     "fileHash": "sha256-0c58d8cc89758beca39222c799ccaa06d32872d86b9568bf60fa92adfa12faaa"
   },
   {
-    "url": "https://raw.githubusercontent.com/arcilingir/Dizi_Film_2/builds/vavooSpor.cs3",
+    "url": "https://raw.githubusercontent.com/baristomruk-max/BTVault/builds/vavooSpor.cs3",
     "status": 1,
     "version": 2,
     "name": "vavooSpor",
     "internalName": "vavooSpor",
     "authors": [
-      "patr0n"
+      "BTcozum"
     ],
-    "description": "vavooSpor",
-    "fileSize": 20514,
-    "repositoryUrl": "https://github.com/arcilingir/Dizi_Film_2",
+    "description": "vavooSpor - Kapsamli dunya spor kanallari (iptv-org, ulke gruplu)",
+    "fileSize": 21792,
+    "repositoryUrl": "https://github.com/baristomruk-max/BTVault",
     "language": "tr",
     "tvTypes": [
       "Live"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=iptv-org.github.io&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-59da871ac9f05961623e71a77d1c1993fb86dbaae9462ee6705673365bed0835"
+    "fileHash": "sha256-e76070d939180af8389642835c8d6e6703f5fe771996f0bee95076eeba0ba595"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/VivoXSpor.cs3?v=f8dd765ea7df",
