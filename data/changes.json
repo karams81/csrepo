@@ -1,44 +1,104 @@
 {
-  "generated_at": "2026-10-19T13:04:38Z",
-  "candidate_count": 246,
+  "generated_at": "2026-10-19T22:26:08Z",
+  "candidate_count": 247,
   "verified_count": 193,
   "turkish_count": 107,
   "app_ready_count": 93,
-  "published_plugin_count": 274,
-  "rejected_plugin_count": 63,
+  "published_plugin_count": 272,
+  "rejected_plugin_count": 65,
   "plugin_fallback_count": 23,
   "catalog_repo_count": 93,
   "global_count": 86,
   "changes": [
     {
       "type": "plugins_updated",
-      "repository": "Bymesut1/Kartaloglu-cs",
-      "old": "2026-10-18T20:36:00Z",
-      "new": "2026-10-19T08:17:11Z"
+      "repository": "Wiojelt/TurkSinema",
+      "old": "2026-10-18T01:09:10Z",
+      "new": "2026-10-19T14:36:13Z"
     },
     {
       "type": "plugins_updated",
-      "repository": "Wiojelt/WioAsya",
-      "old": "2026-10-17T12:47:57Z",
-      "new": "2026-10-18T16:17:27Z"
+      "repository": "Wiojelt/TurkSpor",
+      "old": "2026-10-17T20:57:28Z",
+      "new": "2026-10-19T16:23:32Z"
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "Wiojelt/WioSinema",
+      "old": "2026-10-18T16:17:11Z",
+      "new": "2026-10-19T14:36:09Z"
     },
     {
       "type": "plugin_count",
-      "repository": "baristomruk-max/BTVault",
-      "old": 62,
-      "new": 64
+      "repository": "Wiojelt/WioSpor",
+      "old": 24,
+      "new": 28
     },
     {
       "type": "plugins_updated",
-      "repository": "baristomruk-max/BTVault",
-      "old": "2026-10-18T21:04:34Z",
-      "new": "2026-10-19T08:57:35Z"
+      "repository": "Wiojelt/WioSpor",
+      "old": "2026-10-17T20:58:02Z",
+      "new": "2026-10-19T17:10:42Z"
+    },
+    {
+      "type": "plugin_count",
+      "repository": "Wiojelt/test",
+      "old": 12,
+      "new": 11
     },
     {
       "type": "plugins_updated",
-      "repository": "berkdemir18/BerkStream-Hub",
-      "old": "2026-10-14T16:58:16Z",
-      "new": "2026-10-19T09:57:34Z"
+      "repository": "Wiojelt/test",
+      "old": "2026-10-18T11:57:01Z",
+      "new": "2026-10-19T17:10:36Z"
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "arcilingir/TurkSinema",
+      "old": "2026-10-18T01:09:10Z",
+      "new": "2026-10-19T14:36:13Z"
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "arcilingir/TurkSpor",
+      "old": "2026-10-17T20:57:28Z",
+      "new": "2026-10-19T16:23:32Z"
+    },
+    {
+      "type": "plugin_count",
+      "repository": "arcilingir/WioSpor",
+      "old": 24,
+      "new": 28
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "arcilingir/WioSpor",
+      "old": "2026-10-17T20:58:02Z",
+      "new": "2026-10-19T17:10:42Z"
+    },
+    {
+      "type": "plugin_count",
+      "repository": "faruktunc/frukon",
+      "old": 5,
+      "new": 7
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "faruktunc/frukon",
+      "old": "2026-09-15T16:52:20Z",
+      "new": "2026-10-19T20:40:20Z"
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "pisovo-5031/TurkSinema",
+      "old": "2026-10-18T01:09:10Z",
+      "new": "2026-10-19T14:36:13Z"
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "pisovo-5031/TurkSpor",
+      "old": "2026-10-17T20:57:28Z",
+      "new": "2026-10-19T16:23:32Z"
     }
   ]
 }
