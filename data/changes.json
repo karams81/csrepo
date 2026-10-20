@@ -1,65 +1,68 @@
 {
-  "generated_at": "2026-10-20T11:33:27Z",
+  "generated_at": "2026-10-20T16:58:57Z",
   "candidate_count": 248,
   "verified_count": 193,
   "turkish_count": 107,
   "app_ready_count": 93,
-  "published_plugin_count": 256,
-  "rejected_plugin_count": 66,
-  "plugin_fallback_count": 27,
+  "published_plugin_count": 259,
+  "rejected_plugin_count": 64,
+  "plugin_fallback_count": 26,
   "catalog_repo_count": 93,
   "global_count": 86,
   "changes": [
     {
-      "type": "new",
-      "repository": "kodlama155-ctrl/livesrc",
-      "plugin_count": 1
-    },
-    {
-      "type": "missing",
-      "repository": "crysisdaye/cloudstream-turkce-repo"
+      "type": "plugin_count",
+      "repository": "Kayracs3/Kayra",
+      "old": 30,
+      "new": 31
     },
     {
       "type": "plugins_updated",
-      "repository": "Bymesut1/Kartaloglu-cs",
-      "old": "2026-10-20T01:13:40Z",
-      "new": "2026-10-20T06:46:48Z"
-    },
-    {
-      "type": "plugins_updated",
-      "repository": "MakotoTokioki/Kekik-cloudstream",
-      "old": "2026-10-17T06:39:46Z",
-      "new": "2026-10-20T10:45:20Z"
+      "repository": "Kayracs3/Kayra",
+      "old": "2026-10-18T19:59:05Z",
+      "new": "2026-10-20T16:40:11Z"
     },
     {
       "type": "plugins_updated",
       "repository": "Wiojelt/TurkSinema",
-      "old": "2026-10-20T00:42:31Z",
-      "new": "2026-10-20T08:07:38Z"
+      "old": "2026-10-20T08:07:38Z",
+      "new": "2026-10-20T15:13:29Z"
+    },
+    {
+      "type": "plugin_count",
+      "repository": "Wiojelt/WioDrama",
+      "old": 9,
+      "new": 15
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "Wiojelt/WioDrama",
+      "old": "2026-10-16T14:41:05Z",
+      "new": "2026-10-20T15:12:32Z"
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "Wiojelt/WioSinema",
+      "old": "2026-10-19T14:36:09Z",
+      "new": "2026-10-20T13:51:42Z"
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "Wiojelt/test",
+      "old": "2026-10-19T17:10:36Z",
+      "new": "2026-10-20T15:12:47Z"
     },
     {
       "type": "plugins_updated",
       "repository": "arcilingir/TurkSinema",
-      "old": "2026-10-20T00:42:31Z",
-      "new": "2026-10-20T08:07:38Z"
-    },
-    {
-      "type": "plugins_updated",
-      "repository": "burak-ayd/cloudstream-repo",
-      "old": "2026-10-17T06:39:46Z",
-      "new": "2026-10-20T10:45:20Z"
-    },
-    {
-      "type": "plugins_updated",
-      "repository": "feroxx/Kekik-cloudstream",
-      "old": "2026-10-17T06:39:46Z",
-      "new": "2026-10-20T10:45:20Z"
+      "old": "2026-10-20T08:07:38Z",
+      "new": "2026-10-20T15:13:29Z"
     },
     {
       "type": "plugins_updated",
       "repository": "pisovo-5031/TurkSinema",
-      "old": "2026-10-20T00:42:31Z",
-      "new": "2026-10-20T08:07:38Z"
+      "old": "2026-10-20T08:07:38Z",
+      "new": "2026-10-20T15:13:29Z"
     }
   ]
 }
