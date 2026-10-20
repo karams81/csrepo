@@ -62,30 +62,6 @@
     "fileHash": "sha256-c2b63e25426f1f88536110ace2cf16bf1e791b0f16f7008dec5945945dba9bfd"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/TurkishCineStream.cs3?v=ca1989aeea4c",
-    "status": 1,
-    "version": 487,
-    "name": "1 TurkishCineStream",
-    "internalName": "TurkishCineStream",
-    "authors": [
-      "Wiojelt",
-      "megix"
-    ],
-    "description": "Yerleşik CineStream kataloğu ve Türkçe altyazı kaynakları; ikinci eklenti indirmeden çalışır.",
-    "fileSize": 840939,
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "AsianDrama"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioCinema/main/assets/providers/turkishcinestream.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-ca1989aeea4c068d2315d67a72ae64e2c5c5f2c9e4436dea124b897925f5322d"
-  },
-  {
     "name": "1 v10 Spor",
     "internalName": "BirdirbirIPTV",
     "version": 28,
@@ -1550,30 +1526,27 @@
     "hash": "6648ae8c77addf4484af41096de9123a144efe5c2c56067a04e570d2d48603b5"
   },
   {
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DiziPalOriginal.cs3?v=b0dbe91f05c7",
+    "status": 3,
+    "version": 10,
     "name": "DiziPalOriginal",
     "internalName": "DiziPalOriginal",
-    "version": 109,
-    "url": "https://raw.githubusercontent.com/crysisdaye/cloudstream-turkce-repo/builds/plugins/DiziPalOriginal.cs3",
-    "description": "en yeni dizileri güvenli ve hızlı şekilde sunar.",
     "authors": [
-      "keyiflerolsun",
-      "muratcesmecioglu"
+      "Wiojelt"
     ],
+    "description": "Dizi Pal Original · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 225771,
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
+    "language": "tr",
     "tvTypes": [
       "Movie",
-      "TvSeries"
+      "TvSeries",
+      "Anime",
+      "Documentary"
     ],
-    "language": "tr",
-    "iconUrl": "https://chessplyimages.cfd/uploads/site/favicon-32x32.png",
-    "fileSize": 27831,
-    "fileHash": "sha256-72476daf822bd3dd88e0dbae412386b53f2fbcf0ac3f05d95546c1d548ae5a1a",
-    "status": 1,
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziPal.png",
     "apiVersion": 1,
-    "requiresVpn": false,
-    "repositoryUrl": "https://github.com/crysisdaye/cloudstream-turkce-repo",
-    "sourceRepos": [
-      "Feroxx"
-    ]
+    "fileHash": "sha256-b0dbe91f05c766e3327818dc5079c2ca3d8cb38dc30968f9208f6605d9e74a5d"
   },
   {
     "url": "https://raw.githubusercontent.com/aytzey/cs-kraptor/builds/DiziPalOrijinal.cs3",
@@ -2439,23 +2412,43 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.de&sz=%size%",
-    "fileHash": "sha256-0c1b6016f7edc5c13c06a17f81e9821bf4f864b725605a1da08e30b1e1f34837",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/bilhan50/BilhanTR",
-    "fileSize": 38564,
+    "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
+    "fileSize": 34067,
     "status": 1,
     "language": "tr",
     "authors": [
-      "bilhan50"
+      "keyiflerolsun"
     ],
     "tvTypes": [
       "Movie"
     ],
-    "version": 9,
+    "version": 27,
     "internalName": "FullHDFilmizlesene",
     "description": "Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
-    "url": "https://raw.githubusercontent.com/bilhan50/BilhanTR/builds/FullHDFilmizlesene.cs3",
-    "name": "FullHDFilmizlesene"
+    "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/FullHDFilmizlesene.cs3",
+    "name": "FullHDFilmizlesene",
+    "fileHash": "sha256-5b4bf380db7ff905b4974c1f816eb2efdc49bd376f6abd9bc087fd7722693bdd"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.de&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
+    "fileSize": 34067,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "keyiflerolsun"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "version": 26,
+    "internalName": "FullHDFilmizlesene 2",
+    "description": "Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
+    "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/FullHDFilmizlesene.cs3",
+    "name": "FullHDFilmizlesene 2",
+    "fileHash": "sha256-5b4bf380db7ff905b4974c1f816eb2efdc49bd376f6abd9bc087fd7722693bdd"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=fullhdfilmizlede.net&sz=%size%",
@@ -2921,19 +2914,17 @@
     "fileHash": "sha256-abf32c7f99e22fcaad83c6ecc5a1ebbbb7278199e378200b7eb473d88c28e30a"
   },
   {
-    "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepofull/builds/InatBox.cs3",
-    "status": 2,
-    "version": 54,
+    "url": "https://raw.githubusercontent.com/aytzey/cs-kraptor/builds/InatBox.cs3",
+    "status": 1,
+    "version": 59,
     "name": "InatBox",
     "internalName": "InatBox",
     "authors": [
-      "Eagle",
-      "kraptor",
-      "JustRelaxable"
+      "Dr.Octagon"
     ],
-    "description": "Bu eklenti düzenli güncelleme almayacaktır!",
-    "fileSize": 50829,
-    "repositoryUrl": "https://github.com/hrtestingx/hrcsrepofull",
+    "description": "Güncel sunucu protokolü ve saat eşitleme desteği.",
+    "fileSize": 49715,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
     "language": "tr",
     "tvTypes": [
       "Movie",
@@ -2942,7 +2933,51 @@
     ],
     "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
     "apiVersion": 1,
-    "fileHash": "sha256-643098f164c5465f50c2bd4bb2455a0f1d675fad1e7765d6c34e1f1fff1b4ce8"
+    "fileHash": "sha256-40af752b91c04549bf7785bf5fc523b975b79af1b1f3477803c30c78dd36e664"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/dr-octagon/Cloudstream-BronzeCloud/builds/inatbox-bc_v14.cs3",
+    "status": 1,
+    "version": 14,
+    "name": "inatbox-bc",
+    "internalName": "inatbox-bc",
+    "authors": [
+      "Dr.Octagon"
+    ],
+    "description": "İnatBox BronzeCloud Edition - Canlı kanallar, spor ve diziler burada.",
+    "fileSize": 54491,
+    "repositoryUrl": "https://github.com/dr-octagon/Cloudstream-BronzeCloud",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Live"
+    ],
+    "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-4ec5f4440a0c79fe08bc004c6221976f41f5c1b0abe7587708f5799710ae0385"
+  },
+  {
+    "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
+    "fileHash": "sha256-039a4af45ea157b7415259e09ad509fcfc61b4fb3d5ef5ebada540432200b53c",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 53533,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "MRC"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Live"
+    ],
+    "version": 2,
+    "internalName": "InatBoxBC",
+    "description": "İnatBox BC - Canlı kanallar, spor, film ve diziler.",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/InatBoxBC.cs3",
+    "name": "InatBoxBC"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/InterSporTV.cs3?v=edb8f888196e",
@@ -2963,26 +2998,6 @@
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/InterSporTV.png",
     "apiVersion": 1,
     "fileHash": "sha256-edb8f888196e357a04edc46ef115f9b129ba7f68719ff41f8ebc0bd2d05b10f1"
-  },
-  {
-    "iconUrl": "https://iptvplay.stream/favicon.ico",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ailantus/nane",
-    "fileSize": 11703,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kraptor"
-    ],
-    "tvTypes": [
-      "Live"
-    ],
-    "version": 1,
-    "internalName": "IpTvPlayStream",
-    "description": "Watch free IPTV channels from around the world.",
-    "url": "https://raw.githubusercontent.com/ailantus/nane/builds/IpTvPlayStream.cs3",
-    "name": "IpTvPlayStream",
-    "fileHash": "sha256-141f0421b4933f61e0d3df1d741fefc7bb4dee38c7aeb93c234be56d0dc4642a"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
@@ -3459,49 +3474,6 @@
     "fileHash": "sha256-3a505a3ec9692ff8cdd4bb81bc768b784566643ad4c8b63bc495439dbb307728",
     "apiVersion": 1,
     "hash": "3a505a3ec9692ff8cdd4bb81bc768b784566643ad4c8b63bc495439dbb307728"
-  },
-  {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=https://lovefilmizle.net&sz=%size%",
-    "fileHash": "sha256-adcae75fbbf018f1bdf90123c666b32f18492733b7562e0709569c449fe3bd81",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 36398,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "MRC"
-    ],
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "version": 6,
-    "internalName": "LoveFilm",
-    "description": "Full HD Film izle - Türkçe Dublaj Altyazılı Film izleme sitesi olarak sizlere yabancı yerli filmleri yüksek kalitede sunmakdayız. Kaliteli film izle sitesi",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/LoveFilm.cs3",
-    "name": "LoveFilm"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/dr-octagon/Cloudstream-BronzeCloud/builds/LoveFilmizle_v4.cs3",
-    "status": 1,
-    "version": 4,
-    "name": "LoveFilmizle",
-    "internalName": "LoveFilmizle",
-    "authors": [
-      "Dr.Octagon",
-      "wGodfather"
-    ],
-    "description": "LoveFilmizle (lovefilmizle.net) - Film ve yabancı diziler, Türkçe dublaj ve altyazı seçenekleriyle.",
-    "fileSize": 48869,
-    "repositoryUrl": "https://github.com/dr-octagon/Cloudstream-BronzeCloud",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/dr-octagon/Cloudstream-BronzeCloud/builds/logos/lovefilmizle.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-58f6493ff4ff3989e7b94f5bfcdc08cc872939431b2ebc3d777e82fcc097862d"
   },
   {
     "name": "Maheir",
@@ -4674,26 +4646,6 @@
     "name": "Startv"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSpor/builds/StbTV.cs3?v=64e0adef2cc4",
-    "status": 3,
-    "version": 7,
-    "name": "StbTV",
-    "internalName": "StbTV",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "Stalker STB Canlı TV & Spor. Linkler en az 2, en fazla 6 kişiliktir. Kesintisiz canlı yayın akışı ve logo desteği.",
-    "fileSize": 284811,
-    "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
-    "language": "tr",
-    "tvTypes": [
-      "Live"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/StbTV.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-64e0adef2cc49216088b7f9df6002528f1af14bb75fe2c6a5a8054076bbd63ca"
-  },
-  {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/StreamEast.cs3?v=1580e234f1ab",
     "status": 1,
     "version": 2,
@@ -5124,7 +5076,7 @@
   {
     "name": "TurkHub",
     "internalName": "TurkHub",
-    "version": 96,
+    "version": 97,
     "url": "https://raw.githubusercontent.com/crysisdaye/cloudstream-turkce-repo/builds/plugins/TurkHub.cs3",
     "description": "TurkHub.",
     "authors": [
@@ -5134,9 +5086,9 @@
       "NSFW"
     ],
     "language": "tr",
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkhub153.cfd&size=128",
-    "fileSize": 19481,
-    "fileHash": "sha256-053ea742160e1a47a23fe16a4cec167da8a4ab5fc6e05a4852c45b5953773403",
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkhub154.cfd&size=128",
+    "fileSize": 19477,
+    "fileHash": "sha256-e52ae56867c7cec5289a1993b42dc56d820f10e9478a4dec5b8dca2d0ffe55e8",
     "status": 1,
     "apiVersion": 1,
     "requiresVpn": false,
@@ -5194,6 +5146,30 @@
     ]
   },
   {
+    "url": "https://github.com/Wiojelt/WioSinema/releases/download/wiosinema-artifacts-2026-10-03-r7/TurkishCineStream.cs3",
+    "status": 1,
+    "version": 487,
+    "name": "TurkishCineStream",
+    "internalName": "TurkishCineStream",
+    "authors": [
+      "Wiojelt",
+      "megix"
+    ],
+    "description": "CineStream video motoru + Türkçe çoklu altyazı motoru + upstream CineStream ayar paneli",
+    "fileSize": 840939,
+    "repositoryUrl": "https://github.com/Wiojelt/WioCinema",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioCinema/main/assets/providers/turkishcinestream.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-ca1989aeea4c068d2315d67a72ae64e2c5c5f2c9e4436dea124b897925f5322d"
+  },
+  {
     "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepo/builds/TurkishMix.cs3",
     "status": 1,
     "version": 10,
@@ -5222,28 +5198,9 @@
     "fileHash": "sha256-a17c06880d8445d5c3316c4babfa9831c355bdfa80704b2291a347ea364a2db1"
   },
   {
-    "fileHash": "sha256-75efe917d508687f65e6ba3cbbe34b3ac246d7c3c80edc8bbace005dcdc2e662",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Eikosa/tv",
-    "fileSize": 44089,
-    "status": 1,
-    "authors": [
-      "Eikosa"
-    ],
-    "tvTypes": [
-      "Live",
-      "TvSeries"
-    ],
-    "version": 8,
-    "internalName": "TurkiyeTV",
-    "description": "Türkiye ulusal televizyon kanallarını CloudStream üzerinden izleyin.",
-    "url": "https://raw.githubusercontent.com/Eikosa/tv/builds/TurkiyeTV.cs3",
-    "name": "TurkiyeTV"
-  },
-  {
     "name": "TurkPorno",
     "internalName": "TurkPorno",
-    "version": 150,
+    "version": 151,
     "url": "https://raw.githubusercontent.com/crysisdaye/cloudstream-turkce-repo/builds/plugins/TurkPorno.cs3",
     "description": "Türk ifşa.",
     "authors": [
@@ -5253,9 +5210,9 @@
       "NSFW"
     ],
     "language": "tr",
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno57.lat&size=128",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno58.lat&size=128",
     "fileSize": 37283,
-    "fileHash": "sha256-af37c4a0a9d7386993df16abbca4a4dbe1341f6ff978ca632b8ee18317f83bc5",
+    "fileHash": "sha256-005fa81f121919af4b86e1f37a00613f0318afe83f7977caced37af1acad7072",
     "status": 1,
     "apiVersion": 1,
     "requiresVpn": false,
