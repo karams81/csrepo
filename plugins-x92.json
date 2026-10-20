@@ -354,30 +354,6 @@
     "fileHash": "sha256-a5313ccf55212f685bc962a04c4a6ea878fa9a64572d07c4db3917615c2ea624"
   },
   {
-    "name": "BadTv",
-    "internalName": "BadTv",
-    "version": 4,
-    "url": "https://raw.githubusercontent.com/crysisdaye/cloudstream-turkce-repo/builds/plugins/BadTv.cs3",
-    "description": "Porno falan",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "NSFW"
-    ],
-    "language": "tr",
-    "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.badtv.net/&sz=%size%",
-    "fileSize": 16412,
-    "fileHash": "sha256-526c7356b825ae748d3d24a0df9a8446b3aa8d15aa179ef22ad4eec980da0649",
-    "status": 1,
-    "apiVersion": 1,
-    "requiresVpn": false,
-    "repositoryUrl": "https://github.com/crysisdaye/cloudstream-turkce-repo",
-    "sourceRepos": [
-      "Gizli-Keyif"
-    ]
-  },
-  {
     "url": "https://raw.githubusercontent.com/dr-octagon/Cloudstream-BronzeCloud/builds/BCSports_v47.cs3",
     "status": 1,
     "version": 47,
@@ -547,31 +523,25 @@
     "fileHash": "sha256-b6f4aeb4f12a5a4cc029824dcd2b231ae5f7ba8573024f702ad6bb6aa4f28001"
   },
   {
+    "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/CanliTV.cs3",
+    "status": 1,
+    "version": 10,
     "name": "CanliTV",
     "internalName": "CanliTV",
-    "version": 10,
-    "url": "https://raw.githubusercontent.com/crysisdaye/cloudstream-turkce-repo/builds/plugins/CanliTV.cs3",
-    "description": "Canlı TV",
     "authors": [
       "Adippe",
-      "keyiflerolsun",
-      "Makoto Tokioki"
+      "keyiflerolsun"
     ],
+    "description": "Canlı TV",
+    "fileSize": 20480,
+    "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
+    "language": "tr",
     "tvTypes": [
       "Live"
     ],
-    "language": "tr",
     "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
-    "fileSize": 13695,
-    "fileHash": "sha256-7c84117b7817be91f9767f8f8e83776415ceb95d5bfe03ce42ac2da7c3f6b66e",
-    "status": 1,
     "apiVersion": 1,
-    "requiresVpn": false,
-    "repositoryUrl": "https://github.com/crysisdaye/cloudstream-turkce-repo",
-    "sourceRepos": [
-      "Feroxx",
-      "Makoto2"
-    ]
+    "fileHash": "sha256-d4e8de61fd99275ecda7a2c1a53da5b1643cfa42e8f6bba0c32383b722de14db"
   },
   {
     "url": "https://raw.githubusercontent.com/dr-octagon/Cloudstream-BronzeCloud/builds/CineJoy_v10.cs3",
@@ -1340,32 +1310,24 @@
     "name": "DiziIzle"
   },
   {
+    "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziKorea.cs3",
+    "status": 1,
+    "version": 41,
     "name": "DiziKorea",
     "internalName": "DiziKorea",
-    "version": 41,
-    "url": "https://raw.githubusercontent.com/crysisdaye/cloudstream-turkce-repo/builds/plugins/DiziKorea.cs3",
-    "description": "En Güncel Kore Dizileri izleme Sitesi",
     "authors": [
-      "Kerimmkirac",
-      "kraptor",
-      "ByAyzen",
       "keyiflerolsun"
     ],
+    "description": "En Güncel Kore Dizileri izleme Sitesi",
+    "fileSize": 23562,
+    "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
+    "language": "tr",
     "tvTypes": [
       "AsianDrama"
     ],
-    "language": "tr",
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizikorea.vip&sz=%size%",
-    "fileSize": 23562,
-    "fileHash": "sha256-1958c66dd0c32ab436adc333504c1183322653afa048425509a7dfc4898ba0da",
-    "status": 1,
     "apiVersion": 1,
-    "requiresVpn": false,
-    "repositoryUrl": "https://github.com/crysisdaye/cloudstream-turkce-repo",
-    "sourceRepos": [
-      "CS-Kraptor",
-      "Feroxx"
-    ]
+    "fileHash": "sha256-1958c66dd0c32ab436adc333504c1183322653afa048425509a7dfc4898ba0da"
   },
   {
     "fileHash": "sha256-6fecc1c73447c2297f676202240893657ddf545ee1469a7dc0531e1c7c804e0a",
@@ -1432,30 +1394,24 @@
     "fileHash": "sha256-9baca9e27e70d6966712b1e82d56050a00fb905c31c8207a1429b9a72bf9cdf9"
   },
   {
+    "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziMom.cs3",
+    "status": 1,
+    "version": 64,
     "name": "DiziMom",
     "internalName": "DiziMom",
-    "version": 64,
-    "url": "https://raw.githubusercontent.com/crysisdaye/cloudstream-turkce-repo/builds/plugins/DiziMom.cs3",
-    "description": "Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
     "authors": [
-      "kraptor",
       "keyiflerolsun"
     ],
+    "description": "Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
+    "fileSize": 34839,
+    "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
+    "language": "tr",
     "tvTypes": [
       "TvSeries"
     ],
-    "language": "tr",
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.plus&sz=%size%",
-    "fileSize": 34839,
-    "fileHash": "sha256-95ca49def313d96c75ff8f8ff7882a669e74c91e14f1bdcfa347d4e36c42f3f9",
-    "status": 1,
     "apiVersion": 1,
-    "requiresVpn": false,
-    "repositoryUrl": "https://github.com/crysisdaye/cloudstream-turkce-repo",
-    "sourceRepos": [
-      "CS-Kraptor",
-      "Feroxx"
-    ]
+    "fileHash": "sha256-95ca49def313d96c75ff8f8ff7882a669e74c91e14f1bdcfa347d4e36c42f3f9"
   },
   {
     "url": "https://raw.githubusercontent.com/arcilingir/Dizi_Film_2/builds/DiziPal.cs3",
@@ -1677,54 +1633,6 @@
     "hash": "de539d6031902ff26f9427195f05bb00639a867c2a0d8fa122cd0e5fcba1ef22"
   },
   {
-    "name": "Doeda",
-    "internalName": "Doeda",
-    "version": 9,
-    "url": "https://raw.githubusercontent.com/crysisdaye/cloudstream-turkce-repo/builds/plugins/Doeda.cs3",
-    "description": "Porno izle Türk ❤ Porn sex video ☘ Doeda inanılmaz Amatör porna ve sikiş filmleri seyret ⭐ altyazılı Full HD pornosu ⭐ endişe verici Türkçe dublaj pornolar.",
-    "authors": [
-      "kraptor"
-    ],
-    "tvTypes": [
-      "NSFW"
-    ],
-    "language": "tr",
-    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.doeda.one/&size=48",
-    "fileSize": 15894,
-    "fileHash": "sha256-b88a34513fdb44ba06ebcb45b1722b8b8415b146bb8f167c49ba7717cfefa66a",
-    "status": 1,
-    "apiVersion": 1,
-    "requiresVpn": false,
-    "repositoryUrl": "https://github.com/crysisdaye/cloudstream-turkce-repo",
-    "sourceRepos": [
-      "Gizli-Keyif"
-    ]
-  },
-  {
-    "name": "DoedaOrijinal",
-    "internalName": "DoedaOrijinal",
-    "version": 6,
-    "url": "https://raw.githubusercontent.com/crysisdaye/cloudstream-turkce-repo/builds/plugins/DoedaOrijinal.cs3",
-    "description": "Porno film izle ❤️ bedava seks filmi seyret ❤️ götten sikiş, pornu ⭐ mobil porno limitsiz ⭐ Tecavüz porna hd yeni Rokettube, hızlı DoEda ücretsiz sex porn.",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "NSFW"
-    ],
-    "language": "tr",
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.doeda.com&sz=%size%",
-    "fileSize": 15599,
-    "fileHash": "sha256-6bec990e517a9396d446152771e4cae9ee28ce710f2e65d601c13b32db2002a7",
-    "status": 1,
-    "apiVersion": 1,
-    "requiresVpn": false,
-    "repositoryUrl": "https://github.com/crysisdaye/cloudstream-turkce-repo",
-    "sourceRepos": [
-      "Gizli-Keyif"
-    ]
-  },
-  {
     "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/DomatesTV.cs3?v=a458f3331ff4",
     "status": 3,
     "version": 6,
@@ -1763,30 +1671,6 @@
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/DominoTV.png",
     "apiVersion": 1,
     "fileHash": "sha256-ad56cb1bb56d178c32780fdaef5d7cfdb39c4244a281fd1ac68ad984cec129fd"
-  },
-  {
-    "name": "Domlepen",
-    "internalName": "Domlepen",
-    "version": 25,
-    "url": "https://raw.githubusercontent.com/crysisdaye/cloudstream-turkce-repo/builds/plugins/Domlepen.cs3",
-    "description": "Porno videolarını takılma ve donma olmadan bedava, hd kalitede kesintisiz izle. Her gün eklenen en yeni, en kaliteli porno filmlerinin keyfini çıkart.",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "NSFW"
-    ],
-    "language": "tr",
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.creativewoodtrade.com&sz=%size%",
-    "fileSize": 16485,
-    "fileHash": "sha256-9fb887bd5dce816aa00d12716bce7b8f042fc27b69d861f8e0cb61afdd83bd22",
-    "status": 1,
-    "apiVersion": 1,
-    "requiresVpn": false,
-    "repositoryUrl": "https://github.com/crysisdaye/cloudstream-turkce-repo",
-    "sourceRepos": [
-      "Gizli-Keyif"
-    ]
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
@@ -1852,30 +1736,6 @@
     "hash": "0daba418e5fe16a8805ae376930f32d19e00f23ddff3a2957f70637d65645e4c"
   },
   {
-    "name": "Evooli",
-    "internalName": "Evooli",
-    "version": 5,
-    "url": "https://raw.githubusercontent.com/crysisdaye/cloudstream-turkce-repo/builds/plugins/Evooli.cs3",
-    "description": "Porno keyfini Evooli ile daha iyi çıkartıp hazzı doruklarda yaşamaya hazırsan, hadi durma HD Porno Filmlerini ücretsiz izle.",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "NSFW"
-    ],
-    "language": "tr",
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.evooli.com&sz=%size%",
-    "fileSize": 13838,
-    "fileHash": "sha256-5d9b5e86e85713f2aa2410f8c8a19c29769856b575235baeda4300086f8cd595",
-    "status": 1,
-    "apiVersion": 1,
-    "requiresVpn": false,
-    "repositoryUrl": "https://github.com/crysisdaye/cloudstream-turkce-repo",
-    "sourceRepos": [
-      "Gizli-Keyif"
-    ]
-  },
-  {
     "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLIcV2dIah9UvEIUZvpzRA4K6OgsW7waPBMw&s",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/CennetCehennem/Xrepo",
@@ -1916,33 +1776,6 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=filmizle.ink&sz=%size%",
     "apiVersion": 1,
     "fileHash": "sha256-33a59c5a2e09ff2ccd6ef2ebf4727826473098e60bb99e525498650d0f6bd149"
-  },
-  {
-    "name": "FilmDiziProvider",
-    "internalName": "FilmDiziProvider",
-    "version": 2,
-    "description": "🛡️ [Dahili DoH & DPI Korumalı | Sıfır Ayar] DiziPal, HDFilmCehennemi, FullHDFilm, DiziBox, Dizilla, FilmModu, SetFilmIzle, SezonlukDizi, RecTV, InatBox tek çatıda. CloudStream'de hiçbir DNS veya DoH ayarı yapmanıza gerek kalmadan doğrudan sansürsüz açar.",
-    "authors": [
-      "crysisdaye"
-    ],
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "language": "tr",
-    "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorfaviconicon.png",
-    "status": 1,
-    "apiVersion": 1,
-    "requiresVpn": false,
-    "repositoryUrl": "https://github.com/crysisdaye/cloudstream-turkce-repo",
-    "sourceRepos": [
-      "DPI & DoH Korumalı (Özel Süper Sağlayıcı)"
-    ],
-    "fileSize": 43666,
-    "fileHash": "sha256-8e5d88b2be8d98a2273ae538627ea06b3484960340a2721bc03015c77c5a298d",
-    "url": "https://raw.githubusercontent.com/crysisdaye/cloudstream-turkce-repo/builds/plugins/FilmDiziProvider.cs3"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=filmdozu.com&sz=%size%",
@@ -2111,25 +1944,25 @@
     "name": "FilmizleHell"
   },
   {
-    "url": "https://raw.githubusercontent.com/arcilingir/Dizi_Film_2/builds/FilmIzleIlk.cs3",
+    "url": "https://raw.githubusercontent.com/baristomruk-max/BTVault/builds/FilmIzleIlk.cs3",
     "status": 1,
-    "version": 6,
+    "version": 1,
     "name": "FilmIzleIlk",
     "internalName": "FilmIzleIlk",
     "authors": [
-      "nikyokki"
+      "BTcozum"
     ],
-    "description": "Filmizleilk.com Yerli ve Yabancı en son Film ve Dizileri Full HD 1080p Bluray Tek Part Full izle",
-    "fileSize": 22702,
-    "repositoryUrl": "https://github.com/arcilingir/Dizi_Film_2",
+    "description": "FilmIzleIlk - Film ve dizi izle",
+    "fileSize": 22701,
+    "repositoryUrl": "https://github.com/baristomruk-max/BTVault",
     "language": "tr",
     "tvTypes": [
       "Movie",
       "TvSeries"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.filmizleilk.com&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=filmizleilk.com&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-3d3e74246594283ed46f39aa3a40039f5cbe3fd668f468715121ec4d7b6d35d9"
+    "fileHash": "sha256-4c77d1195d54e0541ccadb37b10d463adb025a13efefd2da1cebd12c90ccd8d8"
   },
   {
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.filmizyon.com/&size=64",
@@ -2745,27 +2578,6 @@
     "hash": "4a1e74e75c27e803e39f68cb05923381cc34d907f63caa942332c45c545e5247"
   },
   {
-    "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepofull/builds/HintDizi.cs3",
-    "status": 1,
-    "version": 12,
-    "name": "HintDizi",
-    "internalName": "HintDizi",
-    "authors": [
-      "kraptor"
-    ],
-    "description": "HintDizi film ve dizi içerikleri sağlayıcısı.",
-    "fileSize": 18767,
-    "repositoryUrl": "https://github.com/hrtestingx/hrcsrepofull",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.hintdizi.com&size=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-17b05d1520478574f694ab15b284efcab6a66d5a202b568dcf9ff15f1ea2909d"
-  },
-  {
     "url": "https://raw.githubusercontent.com/liberta09/Kekik-cloudstream/builds/HintFilmIzle.cs3",
     "status": 1,
     "version": 16,
@@ -2806,29 +2618,6 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://animecix.tv&sz=%size%",
     "apiVersion": 1,
     "fileHash": "sha256-20f24751fe6bc2d976e6fe3e4ba070073d32799cd53b4f4dacdfafee79261620"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepo/builds/HRAsianDrama.cs3",
-    "status": 1,
-    "version": 5,
-    "name": "HR AsianDrama",
-    "internalName": "HRAsianDrama",
-    "authors": [
-      "hrtestingx"
-    ],
-    "description": "HR AsianDrama - Toplu Kaynak",
-    "fileSize": 207250,
-    "repositoryUrl": "https://github.com/hrtestingx/hrcsrepo",
-    "language": "tr",
-    "tvTypes": [
-      "AsianDrama",
-      "Movie",
-      "Anime",
-      "Others"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=https://webdramaturkey2.com&sz=%size%",
-    "apiVersion": 1,
-    "fileHash": "sha256-06c9e620cd2727b7b3660b8658b1432e45ce72e45705e1629fcf6330933fec33"
   },
   {
     "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepo/builds/HRKids.cs3",
@@ -3000,6 +2789,26 @@
     "fileHash": "sha256-edb8f888196e357a04edc46ef115f9b129ba7f68719ff41f8ebc0bd2d05b10f1"
   },
   {
+    "iconUrl": "https://iptvplay.stream/favicon.ico",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/ailantus/nane",
+    "fileSize": 11703,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "kraptor"
+    ],
+    "tvTypes": [
+      "Live"
+    ],
+    "version": 1,
+    "internalName": "IpTvPlayStream",
+    "description": "Watch free IPTV channels from around the world.",
+    "url": "https://raw.githubusercontent.com/ailantus/nane/builds/IpTvPlayStream.cs3",
+    "name": "IpTvPlayStream",
+    "fileHash": "sha256-141f0421b4933f61e0d3df1d741fefc7bb4dee38c7aeb93c234be56d0dc4642a"
+  },
+  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
@@ -3102,28 +2911,24 @@
     "fileHash": "sha256-7932cf04098961f00c646efd54e4ab6fa564d8cad6bb08fba7d2f6754d17fdf0"
   },
   {
-    "name": "Kalite18",
-    "internalName": "Kalite18",
-    "version": 3,
-    "url": "https://raw.githubusercontent.com/crysisdaye/cloudstream-turkce-repo/builds/plugins/Kalite18.cs3",
-    "description": "Kalite18, sizlere porno filmleri HD kalite ve türkçe altyazılı olarak izleme keyfi sunmaktadır. Porno ve sex filmlerini anlayarak 31 çekmenin keyfini çıkarın.",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.kalite18.net&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
+    "fileSize": 12776,
+    "status": 1,
+    "language": "tr",
     "authors": [
       "kerimmkirac"
     ],
     "tvTypes": [
       "NSFW"
     ],
-    "language": "tr",
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.kalite18.net&sz=%size%",
-    "fileSize": 14488,
-    "fileHash": "sha256-db2862ae065f6365d40b42c0c74ed6afa0565f4fa33cc1f011b0e0fe8820c8bf",
-    "status": 1,
-    "apiVersion": 1,
-    "requiresVpn": false,
-    "repositoryUrl": "https://github.com/crysisdaye/cloudstream-turkce-repo",
-    "sourceRepos": [
-      "Gizli-Keyif"
-    ]
+    "version": 2,
+    "internalName": "Kalite18",
+    "description": "Kalite18, sizlere porno filmleri HD kalite ve türkçe altyazılı olarak izleme keyfi sunmaktadır. Porno ve sex filmlerini anlayarak 31 çekmenin keyfini çıkarın.",
+    "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/Kalite18.cs3",
+    "name": "Kalite18",
+    "fileHash": "sha256-390fb9265a4eb5c3d13f774d9eb2264b36ea8aa7c234a45af4d4c35f42d20775"
   },
   {
     "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepofull/builds/KanalD.cs3",
@@ -3227,30 +3032,6 @@
     ]
   },
   {
-    "name": "Kopeda",
-    "internalName": "Kopeda",
-    "version": 4,
-    "url": "https://raw.githubusercontent.com/crysisdaye/cloudstream-turkce-repo/builds/plugins/Kopeda.cs3",
-    "description": "En kaliteli porno ve sikiş video sitesi olarak bakış açınızı değiştirmeye geldik. Premium pornoları ücretsiz olarak izlemek için tıkla!",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "NSFW"
-    ],
-    "language": "tr",
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.kopeda.com&sz=%size%",
-    "fileSize": 12258,
-    "fileHash": "sha256-160c8025336e59e1786038d1d0524237d44ee5226e3177e7bcddf5e839c53a03",
-    "status": 1,
-    "apiVersion": 1,
-    "requiresVpn": false,
-    "repositoryUrl": "https://github.com/crysisdaye/cloudstream-turkce-repo",
-    "sourceRepos": [
-      "Gizli-Keyif"
-    ]
-  },
-  {
     "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepofull/builds/KoreanTurk.cs3",
     "status": 1,
     "version": 18,
@@ -3270,30 +3051,6 @@
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.koreanturk.com&size=128",
     "apiVersion": 1,
     "fileHash": "sha256-15effc4ebd7cee6d95b36ca18ae4987b08fe1d61747c1acba58a2ab6c5976527"
-  },
-  {
-    "name": "Koreaye",
-    "internalName": "Koreaye",
-    "version": 9,
-    "url": "https://raw.githubusercontent.com/crysisdaye/cloudstream-turkce-repo/builds/plugins/Koreaye.cs3",
-    "description": "Porno Film - Sikiş izle - Sex Video - Mobil Seks Seyret | Koreaye",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "NSFW"
-    ],
-    "language": "tr",
-    "iconUrl": "https://www.google.com/s2/favicons?domain=koreaye.com&sz=%size%",
-    "fileSize": 13399,
-    "fileHash": "sha256-b38eb15e79a6156834b0305545ca1bfe47161173df572e36aab178394bf0d888",
-    "status": 1,
-    "apiVersion": 1,
-    "requiresVpn": false,
-    "repositoryUrl": "https://github.com/crysisdaye/cloudstream-turkce-repo",
-    "sourceRepos": [
-      "Gizli-Keyif"
-    ]
   },
   {
     "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/KralSporHD.cs3?v=62c6cd0bd055",
@@ -3430,30 +3187,6 @@
     "fileHash": "sha256-3547650abc3b787462fb290f6ed3e545dff4e92fdbf8b413b7408506dcff16b4"
   },
   {
-    "name": "LiveIptvProvider",
-    "internalName": "LiveIptvProvider",
-    "version": 2,
-    "description": "🛡️ [Dahili DoH & DPI Korumalı | Canlı TV & Spor] Ulusal kanallar, spor yayınları, sinema, belgesel ve haber kanalları. Kesintisiz HLS akışı.",
-    "authors": [
-      "crysisdaye"
-    ],
-    "tvTypes": [
-      "Live"
-    ],
-    "language": "tr",
-    "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorfaviconicon.png",
-    "status": 1,
-    "apiVersion": 1,
-    "requiresVpn": false,
-    "repositoryUrl": "https://github.com/crysisdaye/cloudstream-turkce-repo",
-    "sourceRepos": [
-      "DPI & DoH Korumalı (Özel Süper Sağlayıcı)"
-    ],
-    "fileSize": 50904,
-    "fileHash": "sha256-efa3971d595cea6a442358b24bf73933daee5ea0e7a8fa6afbe48d642967b770",
-    "url": "https://raw.githubusercontent.com/crysisdaye/cloudstream-turkce-repo/builds/plugins/LiveIptvProvider.cs3"
-  },
-  {
     "name": "loveDRAMA",
     "internalName": "LoveDrama",
     "version": 4,
@@ -3476,28 +3209,47 @@
     "hash": "3a505a3ec9692ff8cdd4bb81bc768b784566643ad4c8b63bc495439dbb307728"
   },
   {
-    "name": "Maheir",
-    "internalName": "Maheir",
-    "version": 2,
-    "url": "https://raw.githubusercontent.com/crysisdaye/cloudstream-turkce-repo/builds/plugins/Maheir.cs3",
-    "description": "Boşalmak istediğiniz zaman ❤️ porno izle videolarına girebilir ❤️ sikiş seyret keyfini yaşayın. Konulu hd porn seksleriyle ⭐ mobil porna filmi çok daha güzel",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=https://lovefilmizle.net&sz=%size%",
+    "fileHash": "sha256-adcae75fbbf018f1bdf90123c666b32f18492733b7562e0709569c449fe3bd81",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 36398,
+    "status": 1,
+    "language": "tr",
     "authors": [
-      "kerimmkirac"
+      "MRC"
     ],
     "tvTypes": [
-      "NSFW"
+      "Movie",
+      "TvSeries"
     ],
-    "language": "tr",
-    "iconUrl": "https://www.google.com/s2/favicons?domain=maheir.com&sz=%size%",
-    "fileSize": 16106,
-    "fileHash": "sha256-1e6eeb3c40d9c61c37fcd8573a0d084053cccc55cfd4db66f9e2fbbe6ba78d31",
+    "version": 6,
+    "internalName": "LoveFilm",
+    "description": "Full HD Film izle - Türkçe Dublaj Altyazılı Film izleme sitesi olarak sizlere yabancı yerli filmleri yüksek kalitede sunmakdayız. Kaliteli film izle sitesi",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/LoveFilm.cs3",
+    "name": "LoveFilm"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/dr-octagon/Cloudstream-BronzeCloud/builds/LoveFilmizle_v4.cs3",
     "status": 1,
+    "version": 4,
+    "name": "LoveFilmizle",
+    "internalName": "LoveFilmizle",
+    "authors": [
+      "Dr.Octagon",
+      "wGodfather"
+    ],
+    "description": "LoveFilmizle (lovefilmizle.net) - Film ve yabancı diziler, Türkçe dublaj ve altyazı seçenekleriyle.",
+    "fileSize": 48869,
+    "repositoryUrl": "https://github.com/dr-octagon/Cloudstream-BronzeCloud",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/dr-octagon/Cloudstream-BronzeCloud/builds/logos/lovefilmizle.png",
     "apiVersion": 1,
-    "requiresVpn": false,
-    "repositoryUrl": "https://github.com/crysisdaye/cloudstream-turkce-repo",
-    "sourceRepos": [
-      "Gizli-Keyif"
-    ]
+    "fileHash": "sha256-58f6493ff4ff3989e7b94f5bfcdc08cc872939431b2ebc3d777e82fcc097862d"
   },
   {
     "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/MahsunSports.cs3?v=29d560695963",
@@ -3901,30 +3653,6 @@
     "fileHash": "sha256-a1f75b84c66caec7be7d01b397bfc7cbe40d30838a6459423b369c105a8526af"
   },
   {
-    "name": "Notmik",
-    "internalName": "Notmik",
-    "version": 4,
-    "url": "https://raw.githubusercontent.com/crysisdaye/cloudstream-turkce-repo/builds/plugins/Notmik.cs3",
-    "description": "Porno sektörünün en güncel porno izleme sitesi karşınızda. Ünlü sitelerden eklenen premium pornoları izlemek için hemen tıkla!",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "NSFW"
-    ],
-    "language": "tr",
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.notmik.com&sz=%size%",
-    "fileSize": 13357,
-    "fileHash": "sha256-e62ddd736473328720242b4e2077ce35d01453c66220b27609fc737163832c8d",
-    "status": 1,
-    "apiVersion": 1,
-    "requiresVpn": false,
-    "repositoryUrl": "https://github.com/crysisdaye/cloudstream-turkce-repo",
-    "sourceRepos": [
-      "Gizli-Keyif"
-    ]
-  },
-  {
     "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepofull/builds/NowTv.cs3",
     "status": 1,
     "version": 6,
@@ -4218,37 +3946,30 @@
     "fileHash": "sha256-782a8d55abf8b854db5e46b07592a96f177e66176cf1e9f2b6d14deb6e40358f"
   },
   {
+    "url": "https://raw.githubusercontent.com/patr0nq/personal_cloudstream/builds/RecTV.cs3",
+    "status": 1,
+    "version": 113,
     "name": "RecTV",
     "internalName": "RecTV",
-    "version": 113,
-    "url": "https://raw.githubusercontent.com/crysisdaye/cloudstream-turkce-repo/builds/plugins/RecTV.cs3",
-    "description": "RecTv APK, Türkiye'deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
     "authors": [
-      "Eagle",
       "keyiflerolsun",
       "yusiqo",
       "inatchii",
       "JustRelaxable",
       "patr0n"
     ],
+    "description": "RecTv APK, Türkiye'deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
+    "fileSize": 40221,
+    "repositoryUrl": "https://github.com/patr0nq/personal_cloudstream",
+    "language": "tr",
     "tvTypes": [
-      "Live",
       "Movie",
+      "Live",
       "TvSeries"
     ],
-    "language": "tr",
     "iconUrl": "https://rectv.org.tr/wp-content/uploads/2024/11/rectv-modified.webp",
-    "fileSize": 40221,
-    "fileHash": "sha256-e04263fe93a131c4502fab15615735d6826580f99062f61dc2b062c0ce8976ab",
-    "status": 1,
     "apiVersion": 1,
-    "requiresVpn": false,
-    "repositoryUrl": "https://github.com/crysisdaye/cloudstream-turkce-repo",
-    "sourceRepos": [
-      "CS-Kraptor",
-      "Feroxx",
-      "Makoto2"
-    ]
+    "fileHash": "sha256-e04263fe93a131c4502fab15615735d6826580f99062f61dc2b062c0ce8976ab"
   },
   {
     "url": "https://raw.githubusercontent.com/dr-octagon/Cloudstream-BronzeCloud/builds/rectv-bc_v9.cs3",
@@ -4531,38 +4252,29 @@
     "fileHash": "sha256-5e181c44252298f77287c0d1910b7b730d881f541e8b16e665b7d5fe3dfd8037"
   },
   {
+    "url": "https://raw.githubusercontent.com/aytzey/cs-kraptor/builds/SineWix.cs3",
+    "status": 1,
+    "version": 33,
     "name": "SineWix",
     "internalName": "SineWix",
-    "version": 33,
-    "url": "https://raw.githubusercontent.com/crysisdaye/cloudstream-turkce-repo/builds/plugins/SineWix.cs3",
-    "description": "SineWix - Ücretsiz Film, Dizi ve Anime İzleme Uygulaması 5000+ HD İçerik, Türkçe Altyazılı, Otaku Dostu Anime Arşivi, Premium Kalite Yabancı Yapımlar",
     "authors": [
       "kraptor",
-      "ByAyzen",
-      "patr0n",
-      "keyiflerolsun",
-      "Makoto Tokioki"
+      "ByAyzen"
     ],
+    "description": "SineWix - Ücretsiz Film, Dizi ve Anime İzleme Uygulaması 5000+ HD İçerik, Türkçe Altyazılı, Otaku Dostu Anime Arşivi, Premium Kalite Yabancı Yapımlar",
+    "fileSize": 77299,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
     "tvTypes": [
+      "Movie",
+      "TvSeries",
       "Anime",
       "AsianDrama",
-      "Cartoon",
-      "Movie",
-      "TvSeries"
+      "Cartoon"
     ],
-    "language": "tr",
     "iconUrl": "https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX=w240-h480",
-    "fileSize": 26761,
-    "fileHash": "sha256-615d6d4ff1f7f2b662f41c37561a5f2499df097f64eb99a0a5002026f46a6ae3",
-    "status": 1,
     "apiVersion": 1,
-    "requiresVpn": false,
-    "repositoryUrl": "https://github.com/crysisdaye/cloudstream-turkce-repo",
-    "sourceRepos": [
-      "CS-Kraptor",
-      "Feroxx",
-      "Makoto2"
-    ]
+    "fileHash": "sha256-8155d0c87480fd1c28da228acea89a6c79c13a546a8df49cf5063a54f7922772"
   },
   {
     "url": "https://raw.githubusercontent.com/aytzey/cs-kraptor/builds/Sinezy.cs3",
@@ -4644,6 +4356,26 @@
     "description": "Star TV dizileri ve programları.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/Startv.cs3",
     "name": "Startv"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSpor/builds/StbTV.cs3?v=64e0adef2cc4",
+    "status": 3,
+    "version": 7,
+    "name": "StbTV",
+    "internalName": "StbTV",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Stalker STB Canlı TV & Spor. Linkler en az 2, en fazla 6 kişiliktir. Kesintisiz canlı yayın akışı ve logo desteği.",
+    "fileSize": 284811,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/StbTV.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-64e0adef2cc49216088b7f9df6002528f1af14bb75fe2c6a5a8054076bbd63ca"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/StreamEast.cs3?v=1580e234f1ab",
@@ -4850,11 +4582,11 @@
     "fileHash": "sha256-5e30142174299135d6c37e8b5d0f1a3fe488a2001ec667003953ff4c9d383ab7"
   },
   {
-    "name": "TorrentFilm",
-    "internalName": "TorrentFilm",
-    "version": 2,
-    "url": "https://raw.githubusercontent.com/crysisdaye/cloudstream-turkce-repo/builds/plugins/TorrentFilm.cs3",
-    "description": "Türkçe altyazılı torrentleri buradan 4K kalitesinde izleyebilirsiniz.",
+    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/New_qBittorrent_Logo.svg/2048px-New_qBittorrent_Logo.svg.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
+    "status": 1,
+    "language": "tr",
     "authors": [
       "Makoto Tokioki"
     ],
@@ -4862,42 +4594,34 @@
       "Movie",
       "Torrent"
     ],
-    "language": "tr",
-    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/New_qBittorrent_Logo.svg/2048px-New_qBittorrent_Logo.svg.png",
-    "fileSize": 19290,
+    "version": 2,
+    "internalName": "TorrentFilm",
+    "description": "Türkçe altyazılı torrentleri buradan 4K kalitesinde izleyebilirsiniz.",
+    "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/TorrentFilm.cs3",
+    "name": "TorrentFilm",
     "fileHash": "sha256-c10e441a15781fad75d9e704c3d7e94123ce2520aa68a294d5a6018711ed1330",
-    "status": 1,
-    "apiVersion": 1,
-    "requiresVpn": false,
-    "repositoryUrl": "https://github.com/crysisdaye/cloudstream-turkce-repo",
-    "sourceRepos": [
-      "Makoto2"
-    ]
+    "fileSize": 19290
   },
   {
+    "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/TRanimaci.cs3",
+    "status": 1,
+    "version": 19,
     "name": "TRanimaci",
     "internalName": "TRanimaci",
-    "version": 19,
-    "url": "https://raw.githubusercontent.com/crysisdaye/cloudstream-turkce-repo/builds/plugins/TRanimaci.cs3",
-    "description": "TRanimeci - Türkiye'nin Online Anime izleme sitesi.",
     "authors": [
       "keyiflerolsun",
       "patr0n"
     ],
+    "description": "TRanimeci - Türkiye'nin Online Anime izleme sitesi.",
+    "fileSize": 16863,
+    "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
+    "language": "tr",
     "tvTypes": [
       "Anime"
     ],
-    "language": "tr",
     "iconUrl": "https://www.google.com/s2/favicons?domain=tranimaci.com&sz=%size%",
-    "fileSize": 16863,
-    "fileHash": "sha256-c48bc5c8042edfd196d31c55a28c53d98a892777e624bccdacdce79c888b069c",
-    "status": 1,
     "apiVersion": 1,
-    "requiresVpn": false,
-    "repositoryUrl": "https://github.com/crysisdaye/cloudstream-turkce-repo",
-    "sourceRepos": [
-      "Feroxx"
-    ]
+    "fileHash": "sha256-c48bc5c8042edfd196d31c55a28c53d98a892777e624bccdacdce79c888b069c"
   },
   {
     "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepofull/builds/TrAnimeIzle.cs3",
@@ -4920,28 +4644,24 @@
     "fileHash": "sha256-68f85490caaa6a23f5f09504c05698e76c0b780af6ef5db3d81d88eb3ee7e716"
   },
   {
+    "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/TRasyalog.cs3",
+    "status": 1,
+    "version": 66,
     "name": "TRasyalog",
     "internalName": "TRasyalog",
-    "version": 66,
-    "url": "https://raw.githubusercontent.com/crysisdaye/cloudstream-turkce-repo/builds/plugins/TRasyalog.cs3",
-    "description": "TRasyalog izleme sitesi.",
     "authors": [
       "keyiflerolsun"
     ],
+    "description": "TRasyalog izleme sitesi.",
+    "fileSize": 23188,
+    "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
+    "language": "tr",
     "tvTypes": [
       "TvSeries"
     ],
-    "language": "tr",
     "iconUrl": "https://www.google.com/s2/favicons?domain=asyalog.co&sz=%size%",
-    "fileSize": 23188,
-    "fileHash": "sha256-f12369ff3781065c903933908ea07d43d2d1d6bcaf471eaac941656b9e0866e5",
-    "status": 1,
     "apiVersion": 1,
-    "requiresVpn": false,
-    "repositoryUrl": "https://github.com/crysisdaye/cloudstream-turkce-repo",
-    "sourceRepos": [
-      "Feroxx"
-    ]
+    "fileHash": "sha256-f12369ff3781065c903933908ea07d43d2d1d6bcaf471eaac941656b9e0866e5"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/TrDiziIzle.cs3?v=b0d388ffe29d",
@@ -4988,26 +4708,6 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepofull/builds/TrtCocuk.cs3",
-    "status": 1,
-    "version": 7,
-    "name": "TrtCocuk",
-    "internalName": "TrtCocuk",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "description": "TrtCocuk canlı yayın ve dizi/program içerikleri.",
-    "fileSize": 23281,
-    "repositoryUrl": "https://github.com/hrtestingx/hrcsrepofull",
-    "language": "tr",
-    "tvTypes": [
-      "Live"
-    ],
-    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.trtcocuk.com&size=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-d3b90b65c99940f64d27d30187a248da0122a2d9f248b4431fbcdf22e184d5b5"
-  },
-  {
     "url": "https://raw.githubusercontent.com/aytzey/cs-kraptor/builds/TurkAnime.cs3",
     "status": 1,
     "version": 35,
@@ -5048,102 +4748,6 @@
     "iconUrl": "https://i.imgur.com/Cff8v6J.png",
     "apiVersion": 1,
     "fileHash": "sha256-b29876955e08a76d88f3421972ee8d1af5f1b581963439ed09ea3cf4906feb2b"
-  },
-  {
-    "name": "TurkDublajVodProvider",
-    "internalName": "TurkDublajVodProvider",
-    "version": 2,
-    "description": "🛡️ [Dahili DoH & DPI Korumalı | %100 TR Dublaj VOD] 4.870+ Yerli seslendirmeli film arşivi (FilmModu, Jetfilm, FilmMakinesi). Sıfır reklam, takılmasız anında oynatma.",
-    "authors": [
-      "crysisdaye"
-    ],
-    "tvTypes": [
-      "Movie"
-    ],
-    "language": "tr",
-    "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorfaviconicon.png",
-    "status": 1,
-    "apiVersion": 1,
-    "requiresVpn": false,
-    "repositoryUrl": "https://github.com/crysisdaye/cloudstream-turkce-repo",
-    "sourceRepos": [
-      "DPI & DoH Korumalı (Özel Süper Sağlayıcı)"
-    ],
-    "fileSize": 31462,
-    "fileHash": "sha256-1a7cf216a8f513c653a570e84b743f7ced671765aafcd804877b2218045e1ad5",
-    "url": "https://raw.githubusercontent.com/crysisdaye/cloudstream-turkce-repo/builds/plugins/TurkDublajVodProvider.cs3"
-  },
-  {
-    "name": "TurkHub",
-    "internalName": "TurkHub",
-    "version": 97,
-    "url": "https://raw.githubusercontent.com/crysisdaye/cloudstream-turkce-repo/builds/plugins/TurkHub.cs3",
-    "description": "TurkHub.",
-    "authors": [
-      "kraptor"
-    ],
-    "tvTypes": [
-      "NSFW"
-    ],
-    "language": "tr",
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkhub154.cfd&size=128",
-    "fileSize": 19477,
-    "fileHash": "sha256-e52ae56867c7cec5289a1993b42dc56d820f10e9478a4dec5b8dca2d0ffe55e8",
-    "status": 1,
-    "apiVersion": 1,
-    "requiresVpn": false,
-    "repositoryUrl": "https://github.com/crysisdaye/cloudstream-turkce-repo",
-    "sourceRepos": [
-      "Gizli-Keyif"
-    ]
-  },
-  {
-    "name": "TurkifsaBlog",
-    "internalName": "TurkifsaBlog",
-    "version": 1,
-    "url": "https://raw.githubusercontent.com/crysisdaye/cloudstream-turkce-repo/builds/plugins/TurkifsaBlog.cs3",
-    "description": "En güncel Turk ifşa videoları ve sızıntı arşivini kesintisiz full HD kalitede ücretsiz izleyin.",
-    "authors": [
-      "ByAyzen"
-    ],
-    "tvTypes": [
-      "NSFW"
-    ],
-    "language": "tr",
-    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkifsa.blog/category/turk-ifsa&size=128",
-    "fileSize": 11467,
-    "fileHash": "sha256-8f1defe1ba94407ba7a39465b034dc243fc1dcc928ca6c01fae1295f393fbe24",
-    "status": 1,
-    "apiVersion": 1,
-    "requiresVpn": false,
-    "repositoryUrl": "https://github.com/crysisdaye/cloudstream-turkce-repo",
-    "sourceRepos": [
-      "Gizli-Keyif"
-    ]
-  },
-  {
-    "name": "TurkIfsalar",
-    "internalName": "TurkIfsalar",
-    "version": 2,
-    "url": "https://raw.githubusercontent.com/crysisdaye/cloudstream-turkce-repo/builds/plugins/TurkIfsalar.cs3",
-    "description": "TurkIfsalar",
-    "authors": [
-      "kraptor"
-    ],
-    "tvTypes": [
-      "NSFW"
-    ],
-    "language": "tr",
-    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=https://turkifsalar2.site",
-    "fileSize": 12508,
-    "fileHash": "sha256-2aad68f07b5786856e59f9a47b6ef6baba83ed592d85ff4746eafeb2e3648358",
-    "status": 1,
-    "apiVersion": 1,
-    "requiresVpn": false,
-    "repositoryUrl": "https://github.com/crysisdaye/cloudstream-turkce-repo",
-    "sourceRepos": [
-      "Gizli-Keyif"
-    ]
   },
   {
     "url": "https://github.com/Wiojelt/WioSinema/releases/download/wiosinema-artifacts-2026-10-03-r7/TurkishCineStream.cs3",
@@ -5198,28 +4802,23 @@
     "fileHash": "sha256-a17c06880d8445d5c3316c4babfa9831c355bdfa80704b2291a347ea364a2db1"
   },
   {
-    "name": "TurkPorno",
-    "internalName": "TurkPorno",
-    "version": 151,
-    "url": "https://raw.githubusercontent.com/crysisdaye/cloudstream-turkce-repo/builds/plugins/TurkPorno.cs3",
-    "description": "Türk ifşa.",
+    "fileHash": "sha256-75efe917d508687f65e6ba3cbbe34b3ac246d7c3c80edc8bbace005dcdc2e662",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Eikosa/tv",
+    "fileSize": 44089,
+    "status": 1,
     "authors": [
-      "Kraptor"
+      "Eikosa"
     ],
     "tvTypes": [
-      "NSFW"
+      "Live",
+      "TvSeries"
     ],
-    "language": "tr",
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno58.lat&size=128",
-    "fileSize": 37283,
-    "fileHash": "sha256-005fa81f121919af4b86e1f37a00613f0318afe83f7977caced37af1acad7072",
-    "status": 1,
-    "apiVersion": 1,
-    "requiresVpn": false,
-    "repositoryUrl": "https://github.com/crysisdaye/cloudstream-turkce-repo",
-    "sourceRepos": [
-      "Gizli-Keyif"
-    ]
+    "version": 8,
+    "internalName": "TurkiyeTV",
+    "description": "Türkiye ulusal televizyon kanallarını CloudStream üzerinden izleyin.",
+    "url": "https://raw.githubusercontent.com/Eikosa/tv/builds/TurkiyeTV.cs3",
+    "name": "TurkiyeTV"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
@@ -5685,52 +5284,44 @@
     "fileHash": "sha256-8c8315459e9c8731e850d34e09eb2487cada4206acda8a30d2eb0435b8261f7b"
   },
   {
-    "name": "YerelDiziler",
-    "internalName": "YerelDiziler",
-    "version": 14,
-    "url": "https://raw.githubusercontent.com/crysisdaye/cloudstream-turkce-repo/builds/plugins/YerelDiziler.cs3",
-    "description": "Bu eklentide yerel dizileri güncel şekilde bulabilirsiniz",
+    "iconUrl": "https://png.pngtree.com/png-clipart/20220823/ourmid/pngtree-turkey-country-flag-pin-icon-png-image_6120061.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
+    "fileSize": 50752,
+    "status": 1,
+    "language": "tr",
     "authors": [
       "Makoto Tokioki"
     ],
     "tvTypes": [
       "Tv Series"
     ],
-    "language": "tr",
-    "iconUrl": "https://png.pngtree.com/png-clipart/20220823/ourmid/pngtree-turkey-country-flag-pin-icon-png-image_6120061.png",
-    "fileSize": 50752,
-    "fileHash": "sha256-82373fd647183b56da570c86c7b4fb050d30b17fca01257ac8c3c8850298c243",
-    "status": 1,
-    "apiVersion": 1,
-    "requiresVpn": false,
-    "repositoryUrl": "https://github.com/crysisdaye/cloudstream-turkce-repo",
-    "sourceRepos": [
-      "Makoto2"
-    ]
+    "version": 14,
+    "internalName": "YerelDiziler",
+    "description": "Bu eklentide yerel dizileri güncel şekilde bulabilirsiniz",
+    "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/YerelDiziler.cs3",
+    "name": "YerelDiziler",
+    "fileHash": "sha256-82373fd647183b56da570c86c7b4fb050d30b17fca01257ac8c3c8850298c243"
   },
   {
-    "name": "YerelProgramlar",
-    "internalName": "YerelProgramlar",
-    "version": 1,
-    "url": "https://raw.githubusercontent.com/crysisdaye/cloudstream-turkce-repo/builds/plugins/YerelProgramlar.cs3",
-    "description": "Yerel programları güncel şekilde bulabilirsiniz",
+    "iconUrl": "https://png.pngtree.com/png-clipart/20220823/ourmid/pngtree-turkey-country-flag-pin-icon-png-image_6120061.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
+    "status": 1,
+    "language": "tr",
     "authors": [
       "Makoto Tokioki"
     ],
     "tvTypes": [
       "Tv Series"
     ],
-    "language": "tr",
-    "iconUrl": "https://png.pngtree.com/png-clipart/20220823/ourmid/pngtree-turkey-country-flag-pin-icon-png-image_6120061.png",
-    "fileSize": 77654,
+    "version": 1,
+    "internalName": "YerelProgramlar",
+    "description": "Yerel programları güncel şekilde bulabilirsiniz",
+    "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/YerelProgramlar.cs3",
+    "name": "YerelProgramlar",
     "fileHash": "sha256-63485d7ee400491c9f5989dac15c582cce67a345a95a88928a45b22e4723a4e3",
-    "status": 1,
-    "apiVersion": 1,
-    "requiresVpn": false,
-    "repositoryUrl": "https://github.com/crysisdaye/cloudstream-turkce-repo",
-    "sourceRepos": [
-      "Makoto2"
-    ]
+    "fileSize": 77654
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=turkish123.com&sz=%size%",
