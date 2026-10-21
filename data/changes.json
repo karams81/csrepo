@@ -1,49 +1,26 @@
 {
-  "generated_at": "2026-10-21T04:32:39Z",
+  "generated_at": "2026-10-21T11:46:00Z",
   "candidate_count": 249,
   "verified_count": 194,
   "turkish_count": 108,
   "app_ready_count": 94,
-  "published_plugin_count": 244,
-  "rejected_plugin_count": 82,
-  "plugin_fallback_count": 28,
+  "published_plugin_count": 257,
+  "rejected_plugin_count": 68,
+  "plugin_fallback_count": 29,
   "catalog_repo_count": 94,
   "global_count": 86,
   "changes": [
     {
-      "type": "new",
-      "repository": "karayel90/cloudplug",
-      "plugin_count": 2
-    },
-    {
-      "type": "plugins_updated",
-      "repository": "Wiojelt/WioSpor",
-      "old": "2026-10-20T20:36:00Z",
-      "new": "2026-10-21T01:40:22Z"
-    },
-    {
-      "type": "plugin_count",
-      "repository": "Wiojelt/test",
-      "old": 11,
-      "new": 13
-    },
-    {
-      "type": "plugins_updated",
-      "repository": "Wiojelt/test",
-      "old": "2026-10-20T15:12:47Z",
-      "new": "2026-10-21T02:51:18Z"
-    },
-    {
       "type": "plugins_updated",
       "repository": "arcilingir/WioSpor",
-      "old": "2026-10-20T20:36:00Z",
-      "new": "2026-10-21T01:06:02Z"
+      "old": "2026-10-21T01:06:02Z",
+      "new": "2026-10-21T05:59:03Z"
     },
     {
       "type": "plugin_count",
       "repository": "hrtestingx/hrcsrepo",
-      "old": 7,
-      "new": 8
+      "old": 8,
+      "new": 7
     }
   ]
 }
