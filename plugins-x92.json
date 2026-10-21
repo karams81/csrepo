@@ -497,6 +497,31 @@
     "fileHash": "sha256-04fd1ff0f3c67b9d4e5a466025b3990d2979f13cde5878046efb9ed1f8ff1b63"
   },
   {
+    "url": "https://raw.githubusercontent.com/dr-octagon/Cloudstream-BronzeCloud/builds/BOAT_v55.cs3",
+    "status": 1,
+    "version": 55,
+    "name": "BOAT",
+    "internalName": "BOAT",
+    "authors": [
+      "wGodfather",
+      "Dr.Octagon"
+    ],
+    "description": "B.O.A.T - Film, dizi ve torrent kaynakları; bilinen düşük kalite elenir, doğrulanamayan kalite belirtilir",
+    "fileSize": 746131,
+    "repositoryUrl": "https://github.com/dr-octagon/Cloudstream-BronzeCloud",
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries",
+      "Movie",
+      "AsianDrama",
+      "Anime",
+      "Torrent"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/dr-octagon/Cloudstream-BronzeCloud/builds/logos/boat_v2.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-f9496e61537de3c78e01dc922a4f7c1e38453c839d037ffd1c371d132248d1b7"
+  },
+  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/ailantus/nane",
@@ -583,33 +608,6 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=simkl.com&sz=128",
     "apiVersion": 1,
     "fileHash": "sha256-38ffa9ee29bd4aff4126240827b545207d8cf62ba51e666d6b93b69e7d6682e6"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/dr-octagon/Cloudstream-BronzeCloud/builds/CineStream_v554.cs3",
-    "status": 1,
-    "version": 554,
-    "name": "CineStream",
-    "internalName": "CineStream",
-    "authors": [
-      "wGodfather",
-      "Dr.Octagon",
-      "SaurabhKaperwan",
-      "megix"
-    ],
-    "description": "Film, Dizi, Asya Dizileri ve Torrentler için hepsi bir arada çözüm",
-    "fileSize": 787762,
-    "repositoryUrl": "https://github.com/dr-octagon/Cloudstream-BronzeCloud",
-    "language": "tr",
-    "tvTypes": [
-      "TvSeries",
-      "Movie",
-      "AsianDrama",
-      "Anime",
-      "Torrent"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/dr-octagon/Cloudstream-BronzeCloud/builds/logos/cinestream.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-cb9876e33e633735e1c3ebb8de0e407731515633397a029fc6415ccf6a718fd7"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/CizgiDiziNet.cs3?v=2efc903e18bc",
@@ -1476,27 +1474,26 @@
     "hash": "6648ae8c77addf4484af41096de9123a144efe5c2c56067a04e570d2d48603b5"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DiziPalOriginal.cs3?v=b0dbe91f05c7",
-    "status": 3,
-    "version": 10,
+    "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPalOriginal.cs3",
+    "status": 1,
+    "version": 111,
     "name": "DiziPalOriginal",
     "internalName": "DiziPalOriginal",
     "authors": [
-      "Wiojelt"
+      "keyiflerolsun",
+      "muratcesmecioglu"
     ],
-    "description": "Dizi Pal Original · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 225771,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
+    "description": "en yeni dizileri güvenli ve hızlı şekilde sunar.",
+    "fileSize": 27831,
+    "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
     "language": "tr",
     "tvTypes": [
-      "Movie",
       "TvSeries",
-      "Anime",
-      "Documentary"
+      "Movie"
     ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziPal.png",
+    "iconUrl": "https://chessplyimages.cfd/uploads/site/favicon-32x32.png",
     "apiVersion": 1,
-    "fileHash": "sha256-b0dbe91f05c766e3327818dc5079c2ca3d8cb38dc30968f9208f6605d9e74a5d"
+    "fileHash": "sha256-02a80813415f006854301117b01a5a2c4ec43339e6b969eda7439bc4410df86e"
   },
   {
     "url": "https://raw.githubusercontent.com/aytzey/cs-kraptor/builds/DiziPalOrijinal.cs3",
@@ -1770,26 +1767,6 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=filmizle.ink&sz=%size%",
     "apiVersion": 1,
     "fileHash": "sha256-33a59c5a2e09ff2ccd6ef2ebf4727826473098e60bb99e525498650d0f6bd149"
-  },
-  {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=filmdozu.com&sz=%size%",
-    "fileHash": "sha256-c43afeaecb1bc92c27ca6d19f148643a1b36e5079f132a1d6917d147387ab210",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Bymesut1/Kartaloglu-cs",
-    "fileSize": 33688,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "Bymesut1"
-    ],
-    "tvTypes": [
-      "Movie"
-    ],
-    "version": 2,
-    "internalName": "FilmDozu",
-    "description": "FilmDozu - Türkçe dublaj ve altyazılı film izle (TMDB Türkçe bilgili)",
-    "url": "https://raw.githubusercontent.com/Bymesut1/Kartaloglu-cs/builds/FilmDozu.cs3",
-    "name": "FilmDozu"
   },
   {
     "url": "https://raw.githubusercontent.com/aytzey/cs-kraptor/builds/FilmEkseni.cs3",
@@ -2720,19 +2697,17 @@
     "fileHash": "sha256-52969d1ffbadc76de67c9abdcde8f6243e48076ca4816830d2c847f9b1ecd449"
   },
   {
-    "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepofull/builds/InatBox.cs3",
-    "status": 2,
-    "version": 54,
+    "url": "https://raw.githubusercontent.com/aytzey/cs-kraptor/builds/InatBox.cs3",
+    "status": 1,
+    "version": 59,
     "name": "InatBox",
     "internalName": "InatBox",
     "authors": [
-      "Eagle",
-      "kraptor",
-      "JustRelaxable"
+      "Dr.Octagon"
     ],
-    "description": "Bu eklenti düzenli güncelleme almayacaktır!",
-    "fileSize": 50829,
-    "repositoryUrl": "https://github.com/hrtestingx/hrcsrepofull",
+    "description": "Güncel sunucu protokolü ve saat eşitleme desteği.",
+    "fileSize": 49715,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
     "language": "tr",
     "tvTypes": [
       "Movie",
@@ -2741,7 +2716,73 @@
     ],
     "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
     "apiVersion": 1,
-    "fileHash": "sha256-643098f164c5465f50c2bd4bb2455a0f1d675fad1e7765d6c34e1f1fff1b4ce8"
+    "fileHash": "sha256-40af752b91c04549bf7785bf5fc523b975b79af1b1f3477803c30c78dd36e664"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/dr-octagon/Cloudstream-BronzeCloud/builds/inatbox-bc_v14.cs3",
+    "status": 1,
+    "version": 14,
+    "name": "inatbox-bc",
+    "internalName": "inatbox-bc",
+    "authors": [
+      "Dr.Octagon"
+    ],
+    "description": "İnatBox BronzeCloud Edition - Canlı kanallar, spor ve diziler burada.",
+    "fileSize": 54491,
+    "repositoryUrl": "https://github.com/dr-octagon/Cloudstream-BronzeCloud",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Live"
+    ],
+    "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-4ec5f4440a0c79fe08bc004c6221976f41f5c1b0abe7587708f5799710ae0385"
+  },
+  {
+    "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
+    "fileHash": "sha256-039a4af45ea157b7415259e09ad509fcfc61b4fb3d5ef5ebada540432200b53c",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 53533,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "MRC"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Live"
+    ],
+    "version": 2,
+    "internalName": "InatBoxBC",
+    "description": "İnatBox BC - Canlı kanallar, spor, film ve diziler.",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/InatBoxBC.cs3",
+    "name": "InatBoxBC"
+  },
+  {
+    "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
+    "fileHash": "sha256-d80238e6d3c82ac8a198ac7a17360c647e1e942cf49d67c315fb44ca141556d3",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Kayracs3/Kayra",
+    "fileSize": 91822,
+    "status": 3,
+    "language": "tr",
+    "authors": [
+      "Kayracs3"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Live"
+    ],
+    "version": 6,
+    "internalName": "InatBoxYedek",
+    "description": "İnatBoxYedek: InatBox ana eklentisinden ayrı, test ve yedek amaçlı sağlayıcı.",
+    "url": "https://raw.githubusercontent.com/Kayracs3/Kayra/builds/InatBoxYedek.cs3",
+    "name": "InatBoxYedek"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/InterSporTV.cs3?v=edb8f888196e",
@@ -4742,26 +4783,6 @@
     "description": "Türkiye'nin büyük yayıncılarından canlı TV kanalları: TV8, ATV, Star TV (STARTV) ve DMAX.",
     "url": "https://raw.githubusercontent.com/karayel90/cloudplug/builds/TrLiveProvider.cs3",
     "name": "TrLiveProvider"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepofull/builds/TrtCocuk.cs3",
-    "status": 1,
-    "version": 7,
-    "name": "TrtCocuk",
-    "internalName": "TrtCocuk",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "description": "TrtCocuk canlı yayın ve dizi/program içerikleri.",
-    "fileSize": 23281,
-    "repositoryUrl": "https://github.com/hrtestingx/hrcsrepofull",
-    "language": "tr",
-    "tvTypes": [
-      "Live"
-    ],
-    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.trtcocuk.com&size=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-d3b90b65c99940f64d27d30187a248da0122a2d9f248b4431fbcdf22e184d5b5"
   },
   {
     "url": "https://raw.githubusercontent.com/aytzey/cs-kraptor/builds/TurkAnime.cs3",
