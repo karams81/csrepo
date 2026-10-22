@@ -1,20 +1,38 @@
 {
-  "generated_at": "2026-10-21T21:42:22Z",
+  "generated_at": "2026-10-22T04:32:46Z",
   "candidate_count": 249,
   "verified_count": 194,
   "turkish_count": 108,
   "app_ready_count": 94,
-  "published_plugin_count": 262,
-  "rejected_plugin_count": 63,
-  "plugin_fallback_count": 27,
+  "published_plugin_count": 224,
+  "rejected_plugin_count": 100,
+  "plugin_fallback_count": 25,
   "catalog_repo_count": 94,
   "global_count": 86,
   "changes": [
     {
       "type": "plugins_updated",
       "repository": "Bymesut1/Kartaloglu-cs",
-      "old": "2026-10-21T12:28:04Z",
-      "new": "2026-10-21T18:21:28Z"
+      "old": "2026-10-21T18:21:28Z",
+      "new": "2026-10-21T22:15:51Z"
+    },
+    {
+      "type": "plugin_count",
+      "repository": "karayel90/cloudplug",
+      "old": 2,
+      "new": 1
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "kodlama155-ctrl/livesrc",
+      "old": "2026-10-20T10:15:58Z",
+      "new": "2026-10-21T22:02:22Z"
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "neoser1984/neowatch",
+      "old": "2026-10-16T18:25:39Z",
+      "new": "2026-10-21T21:43:55Z"
     }
   ]
 }
