@@ -1,27 +1,5 @@
 [
   {
-    "name": "0 WioSinema",
-    "internalName": "WioSinema",
-    "version": 86,
-    "description": "WioSinema - Türkçe film ve dizi sağlayıcıları tek katalogda. Seçili kaynaklar ve alternatif eşleşmeler taranır.",
-    "authors": [
-      "Wiojelt"
-    ],
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/WioSinema.cs3?v=2c5e68b439ff",
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime"
-    ],
-    "language": "tr",
-    "status": 3,
-    "fileSize": 2296996,
-    "fileHash": "sha256-2c5e68b439ffa96bef0fb3807b7a9eaabf2e8253d5be6762f1ea032ef5a3a5b6",
-    "apiVersion": 1
-  },
-  {
     "name": "0 WioSpor",
     "internalName": "WioSpor",
     "version": 56,
@@ -168,7 +146,7 @@
     ],
     "version": 4,
     "internalName": "Anizium",
-    "description": "Anizium - Türkçe altyazılı ve dublajlı anime ile anime film arşivi.",
+    "description": "Anizium - TÃ¼rkÃ§e altyazÄ±lÄ± ve dublajlÄ± anime ile anime film arÅŸivi.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/Anizium.cs3",
     "name": "Anizium"
   },
@@ -658,7 +636,7 @@
     ],
     "version": 2,
     "internalName": "CizgiDizi",
-    "description": "ÇizgiDizi - çizgi filmler, animeler ve diziler; reklamsız ve kesintisiz izleme.",
+    "description": "Ã‡izgiDizi - Ã§izgi filmler, animeler ve diziler; reklamsÄ±z ve kesintisiz izleme.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/CizgiDizi.cs3",
     "name": "CizgiDizi"
   },
@@ -1338,10 +1316,10 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizigom1.co&sz=%size%",
-    "fileHash": "sha256-012417667fc7765d4ed517240ece2e180ce9006b4c061095bd6d6947f4b383e8",
+    "fileHash": "sha256-ae6dadf2973ad0b8fefee410b295642575a127043482009bb42ffe5e3b9e7176",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 43994,
+    "fileSize": 46357,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1351,9 +1329,9 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 17,
+    "version": 18,
     "internalName": "DiziGom",
-    "description": "Türkçe altyazılı yabancı dizi izle, Tüm yabancı, kore, netflix dizilerin yeni ve eski sezonlarını orijinal dilinde dizigom1 alt yazılı film izleyebilir, sadece türkçe altyazılı en iyi yabancı diziler ve filmler hakkında yorum yapabilirsiniz.",
+    "description": "TÃ¼rkÃ§e altyazÄ±lÄ± yabancÄ± dizi izle, TÃ¼m yabancÄ±, kore, netflix dizilerin yeni ve eski sezonlarÄ±nÄ± orijinal dilinde dizigom1 alt yazÄ±lÄ± film izleyebilir, sadece tÃ¼rkÃ§e altyazÄ±lÄ± en iyi yabancÄ± diziler ve filmler hakkÄ±nda yorum yapabilirsiniz.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DiziGom.cs3",
     "name": "DiziGom"
   },
@@ -1520,7 +1498,7 @@
     ],
     "version": 7,
     "internalName": "DiziPal2",
-    "description": "DiziPal2  en yeni dizileri güvenli ve hızlı şekilde sunar.",
+    "description": "DiziPal2  en yeni dizileri gÃ¼venli ve hÄ±zlÄ± ÅŸekilde sunar.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DiziPal2.cs3",
     "name": "DiziPal2"
   },
@@ -2055,10 +2033,10 @@
   },
   {
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.filmizyon.com/&size=64",
-    "fileHash": "sha256-db3ba38cf7f2bc76e631c2dc2bd96186f616ce8dbe28a18b6d96d6c972c939bd",
+    "fileHash": "sha256-5b853a3a2d49bcf3e6bc5b691118257990cd735859bb16c993a194de3836e681",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 30143,
+    "fileSize": 33227,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2067,9 +2045,9 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 7,
+    "version": 8,
     "internalName": "FilmIzyon",
-    "description": "Yerli ve yabancı ödüllü tüm filmleri Türkçe Dublaj veya Orjinal dilde izleyebileceğiniz Türkiye'nin en kaliteli film izleme platformuna hoşgeldiniz.",
+    "description": "Yerli ve yabancÄ± Ã¶dÃ¼llÃ¼ tÃ¼m filmleri TÃ¼rkÃ§e Dublaj veya Orjinal dilde izleyebileceÄŸiniz TÃ¼rkiye'nin en kaliteli film izleme platformuna hoÅŸgeldiniz.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/FilmIzyon.cs3",
     "name": "FilmIzyon"
   },
@@ -2687,27 +2665,6 @@
     "hash": "4a1e74e75c27e803e39f68cb05923381cc34d907f63caa942332c45c545e5247"
   },
   {
-    "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepofull/builds/HintDizi.cs3",
-    "status": 1,
-    "version": 12,
-    "name": "HintDizi",
-    "internalName": "HintDizi",
-    "authors": [
-      "kraptor"
-    ],
-    "description": "HintDizi film ve dizi içerikleri sağlayıcısı.",
-    "fileSize": 18767,
-    "repositoryUrl": "https://github.com/hrtestingx/hrcsrepofull",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.hintdizi.com&size=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-17b05d1520478574f694ab15b284efcab6a66d5a202b568dcf9ff15f1ea2909d"
-  },
-  {
     "url": "https://raw.githubusercontent.com/liberta09/Kekik-cloudstream/builds/HintFilmIzle.cs3",
     "status": 1,
     "version": 16,
@@ -2938,7 +2895,7 @@
     ],
     "version": 4,
     "internalName": "InatBoxBC",
-    "description": "İnatBox BC - Canlı kanallar, spor, film ve diziler.",
+    "description": "Ä°natBox BC - CanlÄ± kanallar, spor, film ve diziler.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/InatBoxBC.cs3",
     "name": "InatBoxBC"
   },
@@ -3421,7 +3378,7 @@
     ],
     "version": 6,
     "internalName": "LoveFilm",
-    "description": "Full HD Film izle - Türkçe Dublaj Altyazılı Film izleme sitesi olarak sizlere yabancı yerli filmleri yüksek kalitede sunmakdayız. Kaliteli film izle sitesi",
+    "description": "Full HD Film izle - TÃ¼rkÃ§e Dublaj AltyazÄ±lÄ± Film izleme sitesi olarak sizlere yabancÄ± yerli filmleri yÃ¼ksek kalitede sunmakdayÄ±z. Kaliteli film izle sitesi",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/LoveFilm.cs3",
     "name": "LoveFilm"
   },
@@ -3634,7 +3591,7 @@
     ],
     "version": 9,
     "internalName": "MRC-Live",
-    "description": "MRC-Live — canlı TV / IPTV kanalları (Türkiye ve dünya).",
+    "description": "MRC-Live â€” canlÄ± TV / IPTV kanallarÄ± (TÃ¼rkiye ve dÃ¼nya).",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/MRC-Live.cs3",
     "name": "MRC-Live"
   },
@@ -3654,7 +3611,7 @@
     ],
     "version": 4,
     "internalName": "MRC-Naughty",
-    "description": "MRC-Naughty — 18+ içerik kataloğu (film/video, VIP canlı akış desteğiyle).",
+    "description": "MRC-Naughty â€” 18+ iÃ§erik kataloÄŸu (film/video, VIP canlÄ± akÄ±ÅŸ desteÄŸiyle).",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/MRC-Naughty.cs3",
     "name": "MRC-Naughty"
   },
@@ -3675,7 +3632,7 @@
     ],
     "version": 6,
     "internalName": "MRC-Plus",
-    "description": "MRC-Plus — çok kaynaklı Türkçe içerik kataloğu (film, dizi).",
+    "description": "MRC-Plus â€” Ã§ok kaynaklÄ± TÃ¼rkÃ§e iÃ§erik kataloÄŸu (film, dizi).",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/MRC-Plus.cs3",
     "name": "MRC-Plus"
   },
@@ -4207,7 +4164,7 @@
     ],
     "version": 5,
     "internalName": "RecTVBC",
-    "description": "RecTV BC - Canlı kanallar, spor yayınları, film ve diziler.",
+    "description": "RecTV BC - CanlÄ± kanallar, spor yayÄ±nlarÄ±, film ve diziler.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/RecTVBC.cs3",
     "name": "RecTVBC"
   },
@@ -4274,7 +4231,7 @@
     ],
     "version": 8,
     "internalName": "SelcukFlix",
-    "description": "Selcukflix'te her türden en yeni ve en popüler dizi ve filmleri izlemenin keyfini çıkarın. Aksiyondan romantiğe, bilim kurgudan dramaya, geniş kütüphanemizde herkes için bir şey var",
+    "description": "Selcukflix'te her tÃ¼rden en yeni ve en popÃ¼ler dizi ve filmleri izlemenin keyfini Ã§Ä±karÄ±n. Aksiyondan romantiÄŸe, bilim kurgudan dramaya, geniÅŸ kÃ¼tÃ¼phanemizde herkes iÃ§in bir ÅŸey var",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/SelcukFlix.cs3",
     "name": "SelcukFlix"
   },
@@ -4421,7 +4378,7 @@
     ],
     "version": 3,
     "internalName": "Showtv",
-    "description": "Show TV dizileri, programları ve canlı yayın.",
+    "description": "Show TV dizileri, programlarÄ± ve canlÄ± yayÄ±n.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/Showtv.cs3",
     "name": "Showtv"
   },
@@ -4442,7 +4399,7 @@
     ],
     "version": 4,
     "internalName": "Sinefy",
-    "description": "Yabancı film izle olarak vizyondaki en yeni yabancı filmleri türkçe dublaj ve altyazılı olarak en hızlı şekilde full hd olarak sizlere sunuyoruz.",
+    "description": "YabancÄ± film izle olarak vizyondaki en yeni yabancÄ± filmleri tÃ¼rkÃ§e dublaj ve altyazÄ±lÄ± olarak en hÄ±zlÄ± ÅŸekilde full hd olarak sizlere sunuyoruz.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/Sinefy.cs3",
     "name": "Sinefy"
   },
@@ -4591,7 +4548,7 @@
     ],
     "version": 5,
     "internalName": "Startv",
-    "description": "Star TV dizileri ve programları.",
+    "description": "Star TV dizileri ve programlarÄ±.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/Startv.cs3",
     "name": "Startv"
   },
@@ -4966,26 +4923,6 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepofull/builds/TrtCocuk.cs3",
-    "status": 1,
-    "version": 7,
-    "name": "TrtCocuk",
-    "internalName": "TrtCocuk",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "description": "TrtCocuk canlı yayın ve dizi/program içerikleri.",
-    "fileSize": 23281,
-    "repositoryUrl": "https://github.com/hrtestingx/hrcsrepofull",
-    "language": "tr",
-    "tvTypes": [
-      "Live"
-    ],
-    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.trtcocuk.com&size=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-d3b90b65c99940f64d27d30187a248da0122a2d9f248b4431fbcdf22e184d5b5"
-  },
-  {
     "url": "https://raw.githubusercontent.com/aytzey/cs-kraptor/builds/TurkAnime.cs3",
     "status": 1,
     "version": 35,
@@ -5107,7 +5044,7 @@
     ],
     "version": 2,
     "internalName": "Tv8",
-    "description": "TV8 programları, yarışmaları, dizileri ve canlı yayın.",
+    "description": "TV8 programlarÄ±, yarÄ±ÅŸmalarÄ±, dizileri ve canlÄ± yayÄ±n.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/Tv8.cs3",
     "name": "Tv8"
   },
@@ -5211,7 +5148,7 @@
     ],
     "version": 14,
     "internalName": "UltraFilmizle",
-    "description": "UltraFilmizle - 1080p ve 4K yerli/yabancı film izleme.",
+    "description": "UltraFilmizle - 1080p ve 4K yerli/yabancÄ± film izleme.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/UltraFilmizle.cs3",
     "name": "UltraFilmizle"
   },
@@ -5339,7 +5276,7 @@
     ],
     "version": 4,
     "internalName": "WebdramaTurkey2",
-    "description": "WebdramaTurkey2 içerikleri",
+    "description": "WebdramaTurkey2 iÃ§erikleri",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/WebdramaTurkey2.cs3",
     "name": "WebdramaTurkey2"
   },
