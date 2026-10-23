@@ -1,13 +1,44 @@
 {
-  "generated_at": "2026-10-23T11:36:34Z",
-  "candidate_count": 249,
+  "generated_at": "2026-10-23T17:10:59Z",
+  "candidate_count": 250,
   "verified_count": 193,
   "turkish_count": 107,
   "app_ready_count": 93,
-  "published_plugin_count": 264,
-  "rejected_plugin_count": 65,
+  "published_plugin_count": 265,
+  "rejected_plugin_count": 64,
   "plugin_fallback_count": 27,
   "catalog_repo_count": 93,
   "global_count": 86,
-  "changes": []
+  "changes": [
+    {
+      "type": "plugin_count",
+      "repository": "Bymesut1/Kartaloglu-cs",
+      "old": 12,
+      "new": 14
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "Bymesut1/Kartaloglu-cs",
+      "old": "2026-10-23T00:36:12Z",
+      "new": "2026-10-23T16:46:07Z"
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "MakotoTokioki/Kekik-cloudstream",
+      "old": "2026-10-20T10:45:20Z",
+      "new": "2026-10-23T14:20:19Z"
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "burak-ayd/cloudstream-repo",
+      "old": "2026-10-20T10:45:20Z",
+      "new": "2026-10-23T14:20:19Z"
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "feroxx/Kekik-cloudstream",
+      "old": "2026-10-20T10:45:20Z",
+      "new": "2026-10-23T14:20:19Z"
+    }
+  ]
 }
