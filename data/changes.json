@@ -1,48 +1,13 @@
 {
-  "generated_at": "2026-10-23T04:36:28Z",
+  "generated_at": "2026-10-23T11:36:34Z",
   "candidate_count": 249,
   "verified_count": 193,
   "turkish_count": 107,
   "app_ready_count": 93,
-  "published_plugin_count": 248,
-  "rejected_plugin_count": 81,
-  "plugin_fallback_count": 32,
+  "published_plugin_count": 264,
+  "rejected_plugin_count": 65,
+  "plugin_fallback_count": 27,
   "catalog_repo_count": 93,
   "global_count": 86,
-  "changes": [
-    {
-      "type": "missing",
-      "repository": "kodlama155-ctrl/livesrc"
-    },
-    {
-      "type": "plugins_updated",
-      "repository": "Bymesut1/Kartaloglu-cs",
-      "old": "2026-10-22T18:35:08Z",
-      "new": "2026-10-23T00:36:12Z"
-    },
-    {
-      "type": "plugin_count",
-      "repository": "Kayracs3/Kayra",
-      "old": 33,
-      "new": 34
-    },
-    {
-      "type": "plugins_updated",
-      "repository": "Kayracs3/Kayra",
-      "old": "2026-10-22T21:21:01Z",
-      "new": "2026-10-23T02:55:45Z"
-    },
-    {
-      "type": "plugins_updated",
-      "repository": "Wiojelt/WioAsya",
-      "old": "2026-10-22T18:07:22Z",
-      "new": "2026-10-23T00:15:01Z"
-    },
-    {
-      "type": "plugins_updated",
-      "repository": "Wiojelt/WioSpor",
-      "old": "2026-10-22T20:03:10Z",
-      "new": "2026-10-22T21:47:28Z"
-    }
-  ]
+  "changes": []
 }
