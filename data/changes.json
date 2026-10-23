@@ -1,44 +1,56 @@
 {
-  "generated_at": "2026-10-23T17:10:59Z",
+  "generated_at": "2026-10-23T21:29:12Z",
   "candidate_count": 250,
   "verified_count": 193,
   "turkish_count": 107,
   "app_ready_count": 93,
-  "published_plugin_count": 265,
-  "rejected_plugin_count": 64,
-  "plugin_fallback_count": 27,
+  "published_plugin_count": 248,
+  "rejected_plugin_count": 82,
+  "plugin_fallback_count": 28,
   "catalog_repo_count": 93,
   "global_count": 86,
   "changes": [
     {
       "type": "plugin_count",
-      "repository": "Bymesut1/Kartaloglu-cs",
-      "old": 12,
+      "repository": "Kayracs3/Kayra",
+      "old": 34,
+      "new": 35
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "Kayracs3/Kayra",
+      "old": "2026-10-23T02:55:45Z",
+      "new": "2026-10-23T21:06:39Z"
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "Wiojelt/WioDrama",
+      "old": "2026-10-20T15:12:32Z",
+      "new": "2026-10-23T19:35:08Z"
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "Wiojelt/WioSinema",
+      "old": "2026-10-22T21:15:47Z",
+      "new": "2026-10-23T20:40:08Z"
+    },
+    {
+      "type": "plugin_count",
+      "repository": "Wiojelt/test",
+      "old": 13,
       "new": 14
     },
     {
       "type": "plugins_updated",
-      "repository": "Bymesut1/Kartaloglu-cs",
-      "old": "2026-10-23T00:36:12Z",
-      "new": "2026-10-23T16:46:07Z"
+      "repository": "Wiojelt/test",
+      "old": "2026-10-21T02:51:18Z",
+      "new": "2026-10-23T20:52:54Z"
     },
     {
       "type": "plugins_updated",
-      "repository": "MakotoTokioki/Kekik-cloudstream",
-      "old": "2026-10-20T10:45:20Z",
-      "new": "2026-10-23T14:20:19Z"
-    },
-    {
-      "type": "plugins_updated",
-      "repository": "burak-ayd/cloudstream-repo",
-      "old": "2026-10-20T10:45:20Z",
-      "new": "2026-10-23T14:20:19Z"
-    },
-    {
-      "type": "plugins_updated",
-      "repository": "feroxx/Kekik-cloudstream",
-      "old": "2026-10-20T10:45:20Z",
-      "new": "2026-10-23T14:20:19Z"
+      "repository": "pisovo-5031/WioSinema",
+      "old": "2026-10-16T23:43:12Z",
+      "new": "2026-10-23T20:40:38Z"
     }
   ]
 }
