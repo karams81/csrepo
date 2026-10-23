@@ -47,7 +47,7 @@
       "registry",
       "seed"
     ],
-    "checked_at": "2026-10-22T21:30:10Z",
+    "checked_at": "2026-10-23T04:25:39Z",
     "turkish": {
       "is_turkish": true,
       "score": 380,
@@ -80,7 +80,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 68,
-        "freshness_days": 0.0,
+        "freshness_days": 0.3,
         "github_stars": 34,
         "github_forks": 3,
         "fork": false,
@@ -116,7 +116,7 @@
     "plugin_count": 45,
     "declared_down_count": 0,
     "declared_status_count": 45,
-    "github_stars": 29,
+    "github_stars": 30,
     "github_forks": 1,
     "status": "active",
     "archived": false,
@@ -134,7 +134,7 @@
       "registry",
       "seed"
     ],
-    "checked_at": "2026-10-22T21:30:12Z",
+    "checked_at": "2026-10-23T04:25:41Z",
     "turkish": {
       "is_turkish": true,
       "score": 363,
@@ -167,8 +167,8 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 45,
-        "freshness_days": 0.1,
-        "github_stars": 29,
+        "freshness_days": 0.4,
+        "github_stars": 30,
         "github_forks": 1,
         "fork": false,
         "self_contained": true
@@ -221,7 +221,7 @@
       "registry",
       "seed"
     ],
-    "checked_at": "2026-10-22T21:33:13Z",
+    "checked_at": "2026-10-23T04:28:27Z",
     "turkish": {
       "is_turkish": true,
       "score": 375,
@@ -252,7 +252,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 37,
-        "freshness_days": 2.4,
+        "freshness_days": 2.7,
         "github_stars": 48,
         "github_forks": 14,
         "fork": true,
@@ -308,7 +308,7 @@
       "repo-search:cloudstream Türkçe in:name,description",
       "seed"
     ],
-    "checked_at": "2026-10-22T21:30:26Z",
+    "checked_at": "2026-10-23T04:25:54Z",
     "turkish": {
       "is_turkish": true,
       "score": 385,
@@ -342,7 +342,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 36,
-        "freshness_days": 0.0,
+        "freshness_days": 0.3,
         "github_stars": 16,
         "github_forks": 0,
         "fork": false,
@@ -361,10 +361,10 @@
     "manifest_version": 1,
     "plugin_lists": [
       {
-        "url": "https://raw.githubusercontent.com/Wiojelt/WioSpor/builds/plugins.json",
+        "url": "https://raw.githubusercontent.com/Wiojelt/WioSpor/builds/plugins.json?t=1792705632",
         "reachable": true,
         "count": 28,
-        "updated_at": "2026-10-22T20:03:10Z",
+        "updated_at": "2026-10-22T21:47:28Z",
         "source_repository": "Wiojelt/WioSpor",
         "languages": {
           "en": 2,
@@ -388,15 +388,15 @@
     "plugin_source_repositories": [
       "Wiojelt/WioSpor"
     ],
-    "last_repo_push": "2026-10-22T20:03:11Z",
-    "last_manifest_update": "2026-10-21T01:27:18Z",
-    "last_plugins_update": "2026-10-22T20:03:10Z",
+    "last_repo_push": "2026-10-22T21:47:29Z",
+    "last_manifest_update": "2026-10-22T21:47:28Z",
+    "last_plugins_update": "2026-10-22T21:47:28Z",
     "discovered_by": [
       "owner-expand:Wiojelt",
       "registry",
       "seed"
     ],
-    "checked_at": "2026-10-22T21:30:28Z",
+    "checked_at": "2026-10-23T04:25:56Z",
     "turkish": {
       "is_turkish": true,
       "score": 306,
@@ -428,7 +428,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 28,
-        "freshness_days": 0.1,
+        "freshness_days": 0.3,
         "github_stars": 26,
         "github_forks": 1,
         "fork": false,
@@ -486,7 +486,7 @@
       "repo-search:cloudstream Türkçe in:name,description",
       "seed"
     ],
-    "checked_at": "2026-10-22T21:33:50Z",
+    "checked_at": "2026-10-23T04:28:58Z",
     "turkish": {
       "is_turkish": true,
       "score": 345,
@@ -520,7 +520,7 @@
       "metrics": {
         "declared_down_count": 8,
         "plugin_count": 73,
-        "freshness_days": 0.0,
+        "freshness_days": 0.3,
         "github_stars": 15,
         "github_forks": 1,
         "fork": false,
@@ -574,7 +574,7 @@
       "owner-expand:aytzey",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:31:38Z",
+    "checked_at": "2026-10-23T04:27:02Z",
     "turkish": {
       "is_turkish": true,
       "score": 145,
@@ -603,7 +603,7 @@
       "metrics": {
         "declared_down_count": 2,
         "plugin_count": 67,
-        "freshness_days": 1.2,
+        "freshness_days": 1.5,
         "github_stars": 3,
         "github_forks": 1,
         "fork": false,
@@ -648,14 +648,14 @@
     "plugin_source_repositories": [
       "safarxe/CloudStream"
     ],
-    "last_repo_push": "2026-10-22T18:31:32Z",
+    "last_repo_push": "2026-10-23T01:01:23Z",
     "last_manifest_update": "2026-08-28T09:08:03Z",
     "last_plugins_update": "2026-08-28T09:21:02Z",
     "discovered_by": [
       "owner-expand:safarxe",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:34:43Z",
+    "checked_at": "2026-10-23T04:29:45Z",
     "turkish": {
       "is_turkish": true,
       "score": 150,
@@ -738,7 +738,7 @@
       "registry",
       "repo-search:cloudstream Türkçe in:name,description"
     ],
-    "checked_at": "2026-10-22T21:34:13Z",
+    "checked_at": "2026-10-23T04:29:18Z",
     "turkish": {
       "is_turkish": true,
       "score": 213,
@@ -767,8 +767,89 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 36,
-        "freshness_days": 0.0,
+        "freshness_days": 0.3,
         "github_stars": 4,
+        "github_forks": 0,
+        "fork": false,
+        "self_contained": true
+      }
+    }
+  },
+  {
+    "name": "Turkish Providers Repository | @KekikAkademi @Kayracs3",
+    "description": "Türkçe içerikli eklenti havuzu",
+    "icon_url": null,
+    "repository": "Kayracs3/Kayra",
+    "repository_url": "https://github.com/Kayracs3/Kayra",
+    "repo_url": "https://raw.githubusercontent.com/Kayracs3/Kayra/master/repo.json",
+    "manifest_branch": "master",
+    "manifest_version": 1,
+    "plugin_lists": [
+      {
+        "url": "https://raw.githubusercontent.com/Kayracs3/Kayra/builds/plugins.json",
+        "reachable": true,
+        "count": 34,
+        "updated_at": "2026-10-23T02:55:45Z",
+        "source_repository": "Kayracs3/Kayra",
+        "languages": {
+          "en": 1,
+          "tr": 33
+        },
+        "turkish_language_count": 33,
+        "declared_down_count": 0,
+        "declared_status_count": 34
+      }
+    ],
+    "plugin_count": 34,
+    "declared_down_count": 0,
+    "declared_status_count": 34,
+    "github_stars": 2,
+    "github_forks": 0,
+    "status": "active",
+    "archived": false,
+    "fork": false,
+    "parent": null,
+    "self_contained": true,
+    "plugin_source_repositories": [
+      "Kayracs3/Kayra"
+    ],
+    "last_repo_push": "2026-10-23T02:55:46Z",
+    "last_manifest_update": "2026-10-09T12:01:40Z",
+    "last_plugins_update": "2026-10-23T02:55:45Z",
+    "discovered_by": [
+      "code-search:filename:repo.json \"pluginLists\" \"Türkçe\"",
+      "registry"
+    ],
+    "checked_at": "2026-10-23T04:25:01Z",
+    "turkish": {
+      "is_turkish": true,
+      "score": 203,
+      "tr_language_count": 33,
+      "language_total": 34,
+      "tr_share": 0.9706,
+      "reasons": [
+        "plugins-language-tr:33/34",
+        "explicit-turkish-repo:kekik,turk,türk,türkçe",
+        "turkish-content-markers:dizi,dizipal,eklenti,filmmakinesi,hdfilmcehennemi,inatbox,izle,kekik"
+      ]
+    },
+    "short_addresses": [],
+    "repo_score": 84.1,
+    "repo_score_details": {
+      "score": 84.1,
+      "components": {
+        "declared_health": 30.0,
+        "freshness": 25.0,
+        "originality": 15.0,
+        "github_popularity": 2.4,
+        "coverage": 6.8,
+        "turkish_focus": 4.9
+      },
+      "metrics": {
+        "declared_down_count": 0,
+        "plugin_count": 34,
+        "freshness_days": 0.1,
+        "github_stars": 2,
         "github_forks": 0,
         "fork": false,
         "self_contained": true
@@ -821,7 +902,7 @@
       "repo-search:cloudstream Türkçe in:name,description",
       "seed"
     ],
-    "checked_at": "2026-10-22T21:34:03Z",
+    "checked_at": "2026-10-23T04:29:09Z",
     "turkish": {
       "is_turkish": true,
       "score": 266,
@@ -853,90 +934,9 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 11,
-        "freshness_days": 1.4,
+        "freshness_days": 1.7,
         "github_stars": 14,
         "github_forks": 1,
-        "fork": false,
-        "self_contained": true
-      }
-    }
-  },
-  {
-    "name": "Turkish Providers Repository | @KekikAkademi @Kayracs3",
-    "description": "Türkçe içerikli eklenti havuzu",
-    "icon_url": null,
-    "repository": "Kayracs3/Kayra",
-    "repository_url": "https://github.com/Kayracs3/Kayra",
-    "repo_url": "https://raw.githubusercontent.com/Kayracs3/Kayra/master/repo.json",
-    "manifest_branch": "master",
-    "manifest_version": 1,
-    "plugin_lists": [
-      {
-        "url": "https://raw.githubusercontent.com/Kayracs3/Kayra/builds/plugins.json",
-        "reachable": true,
-        "count": 33,
-        "updated_at": "2026-10-22T21:21:01Z",
-        "source_repository": "Kayracs3/Kayra",
-        "languages": {
-          "en": 1,
-          "tr": 32
-        },
-        "turkish_language_count": 32,
-        "declared_down_count": 0,
-        "declared_status_count": 33
-      }
-    ],
-    "plugin_count": 33,
-    "declared_down_count": 0,
-    "declared_status_count": 33,
-    "github_stars": 2,
-    "github_forks": 0,
-    "status": "active",
-    "archived": false,
-    "fork": false,
-    "parent": null,
-    "self_contained": true,
-    "plugin_source_repositories": [
-      "Kayracs3/Kayra"
-    ],
-    "last_repo_push": "2026-10-22T21:21:02Z",
-    "last_manifest_update": "2026-10-09T12:01:40Z",
-    "last_plugins_update": "2026-10-22T21:21:01Z",
-    "discovered_by": [
-      "code-search:filename:repo.json \"pluginLists\" \"Türkçe\"",
-      "registry"
-    ],
-    "checked_at": "2026-10-22T21:29:32Z",
-    "turkish": {
-      "is_turkish": true,
-      "score": 202,
-      "tr_language_count": 32,
-      "language_total": 33,
-      "tr_share": 0.9697,
-      "reasons": [
-        "plugins-language-tr:32/33",
-        "explicit-turkish-repo:kekik,turk,türk,türkçe",
-        "turkish-content-markers:dizi,dizipal,eklenti,filmmakinesi,hdfilmcehennemi,inatbox,izle,kekik"
-      ]
-    },
-    "short_addresses": [],
-    "repo_score": 83.8,
-    "repo_score_details": {
-      "score": 83.8,
-      "components": {
-        "declared_health": 30.0,
-        "freshness": 25.0,
-        "originality": 15.0,
-        "github_popularity": 2.4,
-        "coverage": 6.6,
-        "turkish_focus": 4.8
-      },
-      "metrics": {
-        "declared_down_count": 0,
-        "plugin_count": 33,
-        "freshness_days": 0.0,
-        "github_stars": 2,
-        "github_forks": 0,
         "fork": false,
         "self_contained": true
       }
@@ -989,7 +989,7 @@
       "repo-search:cloudstream Turkish in:name,description",
       "seed"
     ],
-    "checked_at": "2026-10-22T21:29:13Z",
+    "checked_at": "2026-10-23T04:24:41Z",
     "turkish": {
       "is_turkish": true,
       "score": 337,
@@ -1020,7 +1020,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 25,
-        "freshness_days": 7.4,
+        "freshness_days": 7.7,
         "github_stars": 9,
         "github_forks": 2,
         "fork": false,
@@ -1065,13 +1065,13 @@
     "plugin_source_repositories": [
       "arcilingir/Dizi_Film_2"
     ],
-    "last_repo_push": "2026-10-22T14:32:37Z",
+    "last_repo_push": "2026-10-22T21:38:50Z",
     "last_manifest_update": "2026-10-01T14:19:11Z",
     "last_plugins_update": "2026-10-01T15:22:21Z",
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-22T21:31:21Z",
+    "checked_at": "2026-10-23T04:26:46Z",
     "turkish": {
       "is_turkish": true,
       "score": 210,
@@ -1144,7 +1144,7 @@
     "plugin_source_repositories": [
       "Wiojelt/WioLand"
     ],
-    "last_repo_push": "2026-10-22T19:56:52Z",
+    "last_repo_push": "2026-10-22T23:12:06Z",
     "last_manifest_update": "2026-10-19T21:15:23Z",
     "last_plugins_update": "2026-10-17T20:27:07Z",
     "discovered_by": [
@@ -1153,7 +1153,7 @@
       "repo-search:cloudstream eklenti in:name,description",
       "seed"
     ],
-    "checked_at": "2026-10-22T21:30:24Z",
+    "checked_at": "2026-10-23T04:25:52Z",
     "turkish": {
       "is_turkish": true,
       "score": 286,
@@ -1186,7 +1186,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 1,
-        "freshness_days": 0.1,
+        "freshness_days": 0.2,
         "github_stars": 15,
         "github_forks": 1,
         "fork": false,
@@ -1238,7 +1238,7 @@
       "code-search:filename:repo.json \"pluginLists\" \"Türkçe\"",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:31:18Z",
+    "checked_at": "2026-10-23T04:26:43Z",
     "turkish": {
       "is_turkish": true,
       "score": 210,
@@ -1266,7 +1266,7 @@
       "metrics": {
         "declared_down_count": 2,
         "plugin_count": 52,
-        "freshness_days": 27.0,
+        "freshness_days": 27.3,
         "github_stars": 0,
         "github_forks": 1,
         "fork": false,
@@ -1319,7 +1319,7 @@
       "registry",
       "seed"
     ],
-    "checked_at": "2026-10-22T21:30:21Z",
+    "checked_at": "2026-10-23T04:25:49Z",
     "turkish": {
       "is_turkish": true,
       "score": 275,
@@ -1349,7 +1349,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 15,
-        "freshness_days": 2.3,
+        "freshness_days": 2.6,
         "github_stars": 4,
         "github_forks": 0,
         "fork": false,
@@ -1407,7 +1407,7 @@
       "repo-search:cloudstream eklenti in:name,description",
       "seed"
     ],
-    "checked_at": "2026-10-22T21:31:42Z",
+    "checked_at": "2026-10-23T04:27:05Z",
     "turkish": {
       "is_turkish": true,
       "score": 355,
@@ -1438,7 +1438,7 @@
       "metrics": {
         "declared_down_count": 15,
         "plugin_count": 64,
-        "freshness_days": 3.5,
+        "freshness_days": 3.8,
         "github_stars": 6,
         "github_forks": 0,
         "fork": false,
@@ -1492,7 +1492,7 @@
       "owner-expand:hrtestingx",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:33:36Z",
+    "checked_at": "2026-10-23T04:28:47Z",
     "turkish": {
       "is_turkish": true,
       "score": 150,
@@ -1519,7 +1519,7 @@
       "metrics": {
         "declared_down_count": 3,
         "plugin_count": 97,
-        "freshness_days": 20.3,
+        "freshness_days": 20.6,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -1538,10 +1538,10 @@
     "manifest_version": 1,
     "plugin_lists": [
       {
-        "url": "https://raw.githubusercontent.com/Wiojelt/WioAsya/builds/plugins.json?t=1792692442",
+        "url": "https://raw.githubusercontent.com/Wiojelt/WioAsya/builds/plugins.json?t=1792714489",
         "reachable": true,
         "count": 7,
-        "updated_at": "2026-10-22T18:07:22Z",
+        "updated_at": "2026-10-23T00:15:01Z",
         "source_repository": "Wiojelt/WioAsya",
         "languages": {
           "tr": 7
@@ -1564,15 +1564,15 @@
     "plugin_source_repositories": [
       "Wiojelt/WioAsya"
     ],
-    "last_repo_push": "2026-10-22T18:07:24Z",
-    "last_manifest_update": "2026-10-22T18:07:22Z",
-    "last_plugins_update": "2026-10-22T18:07:22Z",
+    "last_repo_push": "2026-10-23T00:15:02Z",
+    "last_manifest_update": "2026-10-23T00:15:01Z",
+    "last_plugins_update": "2026-10-23T00:15:01Z",
     "discovered_by": [
       "owner-expand:Wiojelt",
       "registry",
       "seed"
     ],
-    "checked_at": "2026-10-22T21:30:17Z",
+    "checked_at": "2026-10-23T04:25:46Z",
     "turkish": {
       "is_turkish": true,
       "score": 287,
@@ -1602,7 +1602,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 7,
-        "freshness_days": 0.1,
+        "freshness_days": 0.2,
         "github_stars": 5,
         "github_forks": 0,
         "fork": false,
@@ -1654,7 +1654,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-22T21:30:34Z",
+    "checked_at": "2026-10-23T04:26:01Z",
     "turkish": {
       "is_turkish": true,
       "score": 242,
@@ -1684,7 +1684,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 13,
-        "freshness_days": 1.8,
+        "freshness_days": 2.1,
         "github_stars": 2,
         "github_forks": 0,
         "fork": false,
@@ -1737,7 +1737,7 @@
       "registry",
       "seed"
     ],
-    "checked_at": "2026-10-22T21:30:23Z",
+    "checked_at": "2026-10-23T04:25:51Z",
     "turkish": {
       "is_turkish": true,
       "score": 290,
@@ -1767,7 +1767,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 10,
-        "freshness_days": 3.0,
+        "freshness_days": 3.3,
         "github_stars": 2,
         "github_forks": 0,
         "fork": false,
@@ -1820,7 +1820,7 @@
       "owner-expand:blackhope01",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:31:50Z",
+    "checked_at": "2026-10-23T04:27:13Z",
     "turkish": {
       "is_turkish": true,
       "score": 183,
@@ -1850,7 +1850,7 @@
       "metrics": {
         "declared_down_count": 2,
         "plugin_count": 13,
-        "freshness_days": 1.3,
+        "freshness_days": 1.6,
         "github_stars": 18,
         "github_forks": 0,
         "fork": false,
@@ -1903,7 +1903,7 @@
       "registry",
       "repo-search:cloudstream eklenti in:name,description"
     ],
-    "checked_at": "2026-10-22T21:33:34Z",
+    "checked_at": "2026-10-23T04:28:45Z",
     "turkish": {
       "is_turkish": true,
       "score": 112,
@@ -1937,7 +1937,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 7,
-        "freshness_days": 0.7,
+        "freshness_days": 1.0,
         "github_stars": 3,
         "github_forks": 0,
         "fork": false,
@@ -1986,13 +1986,13 @@
     "plugin_source_repositories": [
       "ailantus/nane"
     ],
-    "last_repo_push": "2026-10-22T14:32:21Z",
+    "last_repo_push": "2026-10-22T21:34:39Z",
     "last_manifest_update": "2025-07-27T10:08:37Z",
     "last_plugins_update": "2025-07-27T09:57:27Z",
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-22T21:31:00Z",
+    "checked_at": "2026-10-23T04:26:26Z",
     "turkish": {
       "is_turkish": true,
       "score": 210,
@@ -2073,7 +2073,7 @@
       "registry",
       "seed"
     ],
-    "checked_at": "2026-10-22T21:30:14Z",
+    "checked_at": "2026-10-23T04:25:43Z",
     "turkish": {
       "is_turkish": true,
       "score": 280,
@@ -2103,7 +2103,7 @@
       "metrics": {
         "declared_down_count": 1,
         "plugin_count": 10,
-        "freshness_days": 3.0,
+        "freshness_days": 3.3,
         "github_stars": 5,
         "github_forks": 0,
         "fork": false,
@@ -2157,7 +2157,7 @@
       "repo-search:cloudstream Türkçe in:name,description",
       "repo-search:cloudstream eklenti in:name,description"
     ],
-    "checked_at": "2026-10-22T21:33:26Z",
+    "checked_at": "2026-10-23T04:28:37Z",
     "turkish": {
       "is_turkish": true,
       "score": 177,
@@ -2186,7 +2186,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 2,
-        "freshness_days": 0.0,
+        "freshness_days": 0.3,
         "github_stars": 2,
         "github_forks": 0,
         "fork": false,
@@ -2240,7 +2240,7 @@
       "registry",
       "repo-search:cloudstream eklenti in:name,description"
     ],
-    "checked_at": "2026-10-22T21:32:04Z",
+    "checked_at": "2026-10-23T04:27:27Z",
     "turkish": {
       "is_turkish": true,
       "score": 102,
@@ -2268,7 +2268,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 3,
-        "freshness_days": 4.1,
+        "freshness_days": 4.4,
         "github_stars": 5,
         "github_forks": 0,
         "fork": false,
@@ -2322,7 +2322,7 @@
       "owner-expand:Wiojelt",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:30:19Z",
+    "checked_at": "2026-10-23T04:25:48Z",
     "turkish": {
       "is_turkish": true,
       "score": 170,
@@ -2351,7 +2351,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 14,
-        "freshness_days": 1.7,
+        "freshness_days": 2.0,
         "github_stars": 3,
         "github_forks": 0,
         "fork": false,
@@ -2402,7 +2402,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-22T21:31:44Z",
+    "checked_at": "2026-10-23T04:27:07Z",
     "turkish": {
       "is_turkish": true,
       "score": 156,
@@ -2430,7 +2430,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 1,
-        "freshness_days": 3.5,
+        "freshness_days": 3.8,
         "github_stars": 2,
         "github_forks": 0,
         "fork": false,
@@ -2483,7 +2483,7 @@
       "owner-expand:Saloo1575",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:29:50Z",
+    "checked_at": "2026-10-23T04:25:20Z",
     "turkish": {
       "is_turkish": true,
       "score": 111,
@@ -2510,7 +2510,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 7,
-        "freshness_days": 7.5,
+        "freshness_days": 7.8,
         "github_stars": 8,
         "github_forks": 0,
         "fork": false,
@@ -2532,7 +2532,7 @@
         "url": "https://raw.githubusercontent.com/Bymesut1/Kartaloglu-cs/builds/plugins.json",
         "reachable": true,
         "count": 12,
-        "updated_at": "2026-10-22T18:35:08Z",
+        "updated_at": "2026-10-23T00:36:12Z",
         "source_repository": "Bymesut1/Kartaloglu-cs",
         "languages": {
           "tr": 12
@@ -2555,14 +2555,14 @@
     "plugin_source_repositories": [
       "Bymesut1/Kartaloglu-cs"
     ],
-    "last_repo_push": "2026-10-22T18:35:09Z",
+    "last_repo_push": "2026-10-23T00:36:13Z",
     "last_manifest_update": "2026-10-17T20:33:00Z",
-    "last_plugins_update": "2026-10-22T18:35:08Z",
+    "last_plugins_update": "2026-10-23T00:36:12Z",
     "discovered_by": [
       "code-search:filename:repo.json \"pluginLists\" \"Türkçe\"",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:28:45Z",
+    "checked_at": "2026-10-23T04:24:14Z",
     "turkish": {
       "is_turkish": true,
       "score": 182,
@@ -2590,7 +2590,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 12,
-        "freshness_days": 0.1,
+        "freshness_days": 0.2,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -2657,7 +2657,7 @@
       "registry",
       "repo-search:Kekik cloudstream in:name,description"
     ],
-    "checked_at": "2026-10-22T21:33:55Z",
+    "checked_at": "2026-10-23T04:29:02Z",
     "turkish": {
       "is_turkish": true,
       "score": 255,
@@ -2687,7 +2687,7 @@
       "metrics": {
         "declared_down_count": 2,
         "plugin_count": 61,
-        "freshness_days": 52.8,
+        "freshness_days": 53.1,
         "github_stars": 1,
         "github_forks": 0,
         "fork": false,
@@ -2732,13 +2732,13 @@
     "parent": null,
     "self_contained": false,
     "plugin_source_repositories": [],
-    "last_repo_push": "2026-10-22T16:48:44Z",
+    "last_repo_push": "2026-10-23T03:49:26Z",
     "last_manifest_update": "2026-09-04T13:01:43Z",
     "last_plugins_update": null,
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-22T21:32:43Z",
+    "checked_at": "2026-10-23T04:28:02Z",
     "turkish": {
       "is_turkish": true,
       "score": 210,
@@ -2766,7 +2766,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 63,
-        "freshness_days": 0.2,
+        "freshness_days": 0.0,
         "github_stars": 2,
         "github_forks": 0,
         "fork": false,
@@ -2818,7 +2818,7 @@
       "code-search:filename:repo.json \"pluginLists\" \"Türkçe\"",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:33:11Z",
+    "checked_at": "2026-10-23T04:28:26Z",
     "turkish": {
       "is_turkish": true,
       "score": 172,
@@ -2846,7 +2846,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 7,
-        "freshness_days": 3.0,
+        "freshness_days": 3.3,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -2899,7 +2899,7 @@
       "owner-expand:GitLatte",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:29:16Z",
+    "checked_at": "2026-10-23T04:24:43Z",
     "turkish": {
       "is_turkish": true,
       "score": 176,
@@ -2927,7 +2927,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 12,
-        "freshness_days": 43.3,
+        "freshness_days": 43.6,
         "github_stars": 13,
         "github_forks": 2,
         "fork": false,
@@ -2981,7 +2981,7 @@
       "owner-expand:burak-ayd",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:31:57Z",
+    "checked_at": "2026-10-23T04:27:20Z",
     "turkish": {
       "is_turkish": true,
       "score": 240,
@@ -3010,7 +3010,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 37,
-        "freshness_days": 0.0,
+        "freshness_days": 0.3,
         "github_stars": 5,
         "github_forks": 0,
         "fork": false,
@@ -3055,14 +3055,14 @@
     "plugin_source_repositories": [
       "kodlama155-ctrl/emir"
     ],
-    "last_repo_push": "2026-10-22T20:58:34Z",
+    "last_repo_push": "2026-10-23T02:31:38Z",
     "last_manifest_update": "2026-09-29T18:18:07Z",
     "last_plugins_update": "2026-09-29T20:18:01Z",
     "discovered_by": [
       "registry",
       "seed"
     ],
-    "checked_at": "2026-10-22T21:33:45Z",
+    "checked_at": "2026-10-23T04:28:54Z",
     "turkish": {
       "is_turkish": true,
       "score": 211,
@@ -3091,7 +3091,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 1,
-        "freshness_days": 0.0,
+        "freshness_days": 0.1,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -3144,7 +3144,7 @@
       "registry",
       "repo-search:cloudstream Turkish in:name,description"
     ],
-    "checked_at": "2026-10-22T21:33:41Z",
+    "checked_at": "2026-10-23T04:28:51Z",
     "turkish": {
       "is_turkish": true,
       "score": 161,
@@ -3173,85 +3173,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 1,
-        "freshness_days": 0.8,
-        "github_stars": 0,
-        "github_forks": 0,
-        "fork": false,
-        "self_contained": true
-      }
-    }
-  },
-  {
-    "name": "LiveSrc",
-    "description": "Doğrulanmış canlı TV kaynakları",
-    "icon_url": null,
-    "repository": "kodlama155-ctrl/livesrc",
-    "repository_url": "https://github.com/kodlama155-ctrl/livesrc",
-    "repo_url": "https://raw.githubusercontent.com/kodlama155-ctrl/livesrc/main/repo.json",
-    "manifest_branch": "main",
-    "manifest_version": 1,
-    "plugin_lists": [
-      {
-        "url": "https://raw.githubusercontent.com/kodlama155-ctrl/livesrc/builds/plugins.json",
-        "reachable": true,
-        "count": 1,
-        "updated_at": "2026-10-21T22:02:22Z",
-        "source_repository": "kodlama155-ctrl/livesrc",
-        "languages": {
-          "tr": 1
-        },
-        "turkish_language_count": 1,
-        "declared_down_count": 0,
-        "declared_status_count": 1
-      }
-    ],
-    "plugin_count": 1,
-    "declared_down_count": 0,
-    "declared_status_count": 1,
-    "github_stars": 0,
-    "github_forks": 0,
-    "status": "active",
-    "archived": false,
-    "fork": false,
-    "parent": null,
-    "self_contained": true,
-    "plugin_source_repositories": [
-      "kodlama155-ctrl/livesrc"
-    ],
-    "last_repo_push": "2026-10-22T17:10:05Z",
-    "last_manifest_update": "2026-10-20T09:42:41Z",
-    "last_plugins_update": "2026-10-21T22:02:22Z",
-    "discovered_by": [
-      "registry"
-    ],
-    "checked_at": "2026-10-22T21:33:46Z",
-    "turkish": {
-      "is_turkish": true,
-      "score": 96,
-      "tr_language_count": 1,
-      "language_total": 1,
-      "tr_share": 1.0,
-      "reasons": [
-        "trusted-turkish-owner",
-        "plugins-language-tr:1/1"
-      ]
-    },
-    "short_addresses": [],
-    "repo_score": 75.2,
-    "repo_score_details": {
-      "score": 75.2,
-      "components": {
-        "declared_health": 30.0,
-        "freshness": 25.0,
-        "originality": 15.0,
-        "github_popularity": 0.0,
-        "coverage": 0.2,
-        "turkish_focus": 5.0
-      },
-      "metrics": {
-        "declared_down_count": 0,
-        "plugin_count": 1,
-        "freshness_days": 0.2,
+        "freshness_days": 1.1,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -3305,7 +3227,7 @@
       "owner-expand:pisovo-5031",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:34:20Z",
+    "checked_at": "2026-10-23T04:29:24Z",
     "turkish": {
       "is_turkish": true,
       "score": 245,
@@ -3336,7 +3258,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 68,
-        "freshness_days": 0.0,
+        "freshness_days": 0.3,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -3388,7 +3310,7 @@
       "owner-expand:arcilingir",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:31:33Z",
+    "checked_at": "2026-10-23T04:26:56Z",
     "turkish": {
       "is_turkish": true,
       "score": 210,
@@ -3416,7 +3338,7 @@
       "metrics": {
         "declared_down_count": 1,
         "plugin_count": 41,
-        "freshness_days": 21.3,
+        "freshness_days": 21.6,
         "github_stars": 0,
         "github_forks": 0,
         "fork": true,
@@ -3469,7 +3391,7 @@
       "registry",
       "repo-search:cloudstream eklenti in:name,description"
     ],
-    "checked_at": "2026-10-22T21:31:46Z",
+    "checked_at": "2026-10-23T04:27:09Z",
     "turkish": {
       "is_turkish": true,
       "score": 105,
@@ -3497,7 +3419,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 5,
-        "freshness_days": 9.2,
+        "freshness_days": 9.5,
         "github_stars": 1,
         "github_forks": 0,
         "fork": false,
@@ -3553,7 +3475,7 @@
       "repo-search:cloudstream repo Türkçe in:name,description",
       "seed"
     ],
-    "checked_at": "2026-10-22T21:29:47Z",
+    "checked_at": "2026-10-23T04:25:17Z",
     "turkish": {
       "is_turkish": true,
       "score": 328,
@@ -3584,7 +3506,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 13,
-        "freshness_days": 59.0,
+        "freshness_days": 59.3,
         "github_stars": 6,
         "github_forks": 0,
         "fork": false,
@@ -3637,7 +3559,7 @@
       "owner-expand:pisovo-5031",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:34:21Z",
+    "checked_at": "2026-10-23T04:29:26Z",
     "turkish": {
       "is_turkish": true,
       "score": 228,
@@ -3668,7 +3590,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 45,
-        "freshness_days": 0.1,
+        "freshness_days": 0.4,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -3721,7 +3643,7 @@
       "registry",
       "repo-search:cloudstream Türkçe in:name,description"
     ],
-    "checked_at": "2026-10-22T21:34:25Z",
+    "checked_at": "2026-10-23T04:29:29Z",
     "turkish": {
       "is_turkish": true,
       "score": 252,
@@ -3753,7 +3675,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 37,
-        "freshness_days": 5.9,
+        "freshness_days": 6.2,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -3806,7 +3728,7 @@
       "registry",
       "repo-search:cloudstream eklenti in:name,description"
     ],
-    "checked_at": "2026-10-22T21:29:11Z",
+    "checked_at": "2026-10-23T04:24:39Z",
     "turkish": {
       "is_turkish": true,
       "score": 97,
@@ -3834,7 +3756,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 2,
-        "freshness_days": 24.3,
+        "freshness_days": 24.6,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -3882,14 +3804,14 @@
     "plugin_source_repositories": [
       "maarrem/cs-Kekik"
     ],
-    "last_repo_push": "2026-10-22T14:30:46Z",
+    "last_repo_push": "2026-10-22T21:34:01Z",
     "last_manifest_update": "2025-05-14T18:12:50Z",
     "last_plugins_update": "2025-11-25T12:23:19Z",
     "discovered_by": [
       "code-search:filename:repo.json \"pluginLists\" \"Türkçe\"",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:28:36Z",
+    "checked_at": "2026-10-23T04:24:05Z",
     "turkish": {
       "is_turkish": true,
       "score": 241,
@@ -3974,7 +3896,7 @@
       "registry",
       "repo-search:Kekik cloudstream in:name,description"
     ],
-    "checked_at": "2026-10-22T21:31:30Z",
+    "checked_at": "2026-10-23T04:26:55Z",
     "turkish": {
       "is_turkish": true,
       "score": 255,
@@ -4004,7 +3926,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 65,
-        "freshness_days": 13.2,
+        "freshness_days": 13.5,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -4060,7 +3982,7 @@
       "registry",
       "repo-search:cloudstream Turkish in:name,description"
     ],
-    "checked_at": "2026-10-22T21:31:48Z",
+    "checked_at": "2026-10-23T04:27:11Z",
     "turkish": {
       "is_turkish": true,
       "score": 207,
@@ -4091,7 +4013,7 @@
       "metrics": {
         "declared_down_count": 15,
         "plugin_count": 36,
-        "freshness_days": 0.0,
+        "freshness_days": 0.3,
         "github_stars": 1,
         "github_forks": 0,
         "fork": false,
@@ -4145,7 +4067,7 @@
       "owner-expand:arcilingir",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:31:24Z",
+    "checked_at": "2026-10-23T04:26:50Z",
     "turkish": {
       "is_turkish": true,
       "score": 245,
@@ -4176,7 +4098,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 68,
-        "freshness_days": 0.0,
+        "freshness_days": 0.3,
         "github_stars": 0,
         "github_forks": 0,
         "fork": true,
@@ -4231,7 +4153,7 @@
       "code-search:filename:repo.json \"pluginLists\" \"Türkçe\"",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:33:28Z",
+    "checked_at": "2026-10-23T04:28:40Z",
     "turkish": {
       "is_turkish": true,
       "score": 236,
@@ -4260,7 +4182,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 41,
-        "freshness_days": 14.2,
+        "freshness_days": 14.5,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -4313,7 +4235,7 @@
       "owner-expand:arcilingir",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:31:26Z",
+    "checked_at": "2026-10-23T04:26:51Z",
     "turkish": {
       "is_turkish": true,
       "score": 228,
@@ -4344,7 +4266,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 45,
-        "freshness_days": 0.1,
+        "freshness_days": 0.4,
         "github_stars": 0,
         "github_forks": 0,
         "fork": true,
@@ -4396,7 +4318,7 @@
       "owner-expand:qera18",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:34:32Z",
+    "checked_at": "2026-10-23T04:29:35Z",
     "turkish": {
       "is_turkish": true,
       "score": 81,
@@ -4423,7 +4345,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 1,
-        "freshness_days": 43.6,
+        "freshness_days": 43.9,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -4476,7 +4398,7 @@
       "owner-expand:MakotoTokioki",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:29:39Z",
+    "checked_at": "2026-10-23T04:25:08Z",
     "turkish": {
       "is_turkish": true,
       "score": 240,
@@ -4505,7 +4427,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 37,
-        "freshness_days": 2.4,
+        "freshness_days": 2.7,
         "github_stars": 0,
         "github_forks": 0,
         "fork": true,
@@ -4559,7 +4481,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-22T21:28:43Z",
+    "checked_at": "2026-10-23T04:24:13Z",
     "turkish": {
       "is_turkish": true,
       "score": 150,
@@ -4586,88 +4508,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 73,
-        "freshness_days": 22.7,
-        "github_stars": 0,
-        "github_forks": 0,
-        "fork": true,
-        "self_contained": false
-      }
-    }
-  },
-  {
-    "name": "Sessiz !!!",
-    "description": "Plugins Across All Categories and Languages.",
-    "icon_url": "https://i.ibb.co/8gQnvnTj/aysah.png",
-    "repository": "adilem/MyTV",
-    "repository_url": "https://github.com/adilem/MyTV",
-    "repo_url": "https://raw.githubusercontent.com/adilem/MyTV/master/repo.json",
-    "manifest_branch": "master",
-    "manifest_version": 1,
-    "plugin_lists": [
-      {
-        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/refs/heads/builds/plugins.json",
-        "reachable": true,
-        "count": 73,
-        "updated_at": null,
-        "source_repository": "UmayTrade/MyTV",
-        "languages": {
-          "en": 6,
-          "it": 1,
-          "mx": 2,
-          "tr": 64
-        },
-        "turkish_language_count": 64,
-        "declared_down_count": 0,
-        "declared_status_count": 73
-      }
-    ],
-    "plugin_count": 73,
-    "declared_down_count": 0,
-    "declared_status_count": 73,
-    "github_stars": 0,
-    "github_forks": 0,
-    "status": "active",
-    "archived": false,
-    "fork": true,
-    "parent": "UmayTrade/MyTV",
-    "self_contained": false,
-    "plugin_source_repositories": [
-      "UmayTrade/MyTV"
-    ],
-    "last_repo_push": "2026-09-22T21:39:16Z",
-    "last_manifest_update": "2026-09-18T12:35:56Z",
-    "last_plugins_update": null,
-    "discovered_by": [
-      "registry"
-    ],
-    "checked_at": "2026-10-22T21:30:45Z",
-    "turkish": {
-      "is_turkish": true,
-      "score": 150,
-      "tr_language_count": 64,
-      "language_total": 73,
-      "tr_share": 0.8767,
-      "reasons": [
-        "plugins-language-tr:64/73",
-        "turkish-content-markers:belgesel,cizgi,dizi,dizipal,eklenti,izle,türk,çizgi"
-      ]
-    },
-    "short_addresses": [],
-    "repo_score": 66.4,
-    "repo_score_details": {
-      "score": 66.4,
-      "components": {
-        "declared_health": 30.0,
-        "freshness": 22.0,
-        "originality": 0.0,
-        "github_popularity": 0.0,
-        "coverage": 10.0,
-        "turkish_focus": 4.4
-      },
-      "metrics": {
-        "declared_down_count": 0,
-        "plugin_count": 73,
-        "freshness_days": 30.0,
+        "freshness_days": 22.9,
         "github_stars": 0,
         "github_forks": 0,
         "fork": true,
@@ -4718,7 +4559,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-22T21:28:41Z",
+    "checked_at": "2026-10-23T04:24:10Z",
     "turkish": {
       "is_turkish": true,
       "score": 210,
@@ -4746,7 +4587,7 @@
       "metrics": {
         "declared_down_count": 2,
         "plugin_count": 52,
-        "freshness_days": 27.0,
+        "freshness_days": 27.3,
         "github_stars": 0,
         "github_forks": 0,
         "fork": true,
@@ -4799,7 +4640,7 @@
       "owner-expand:arcilingir",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:31:28Z",
+    "checked_at": "2026-10-23T04:26:53Z",
     "turkish": {
       "is_turkish": true,
       "score": 156,
@@ -4829,7 +4670,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 28,
-        "freshness_days": 0.1,
+        "freshness_days": 0.3,
         "github_stars": 0,
         "github_forks": 0,
         "fork": true,
@@ -4879,7 +4720,7 @@
       "code-search:filename:repo.json \"pluginLists\" \"Türkçe\"",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:29:08Z",
+    "checked_at": "2026-10-23T04:24:36Z",
     "turkish": {
       "is_turkish": true,
       "score": 90,
@@ -4908,7 +4749,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 1,
-        "freshness_days": 46.9,
+        "freshness_days": 47.2,
         "github_stars": 1,
         "github_forks": 0,
         "fork": false,
@@ -4962,7 +4803,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-22T21:29:55Z",
+    "checked_at": "2026-10-23T04:25:25Z",
     "turkish": {
       "is_turkish": true,
       "score": 150,
@@ -4989,7 +4830,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 73,
-        "freshness_days": 38.0,
+        "freshness_days": 38.3,
         "github_stars": 1,
         "github_forks": 0,
         "fork": true,
@@ -5041,7 +4882,7 @@
       "owner-expand:pisovo-5031",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:34:27Z",
+    "checked_at": "2026-10-23T04:29:30Z",
     "turkish": {
       "is_turkish": true,
       "score": 127,
@@ -5071,7 +4912,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 2,
-        "freshness_days": 29.5,
+        "freshness_days": 29.8,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -5122,7 +4963,7 @@
       "registry",
       "repo-search:cloudstream eklenti in:name,description"
     ],
-    "checked_at": "2026-10-22T21:33:30Z",
+    "checked_at": "2026-10-23T04:28:41Z",
     "turkish": {
       "is_turkish": true,
       "score": 96,
@@ -5150,7 +4991,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 1,
-        "freshness_days": 18.2,
+        "freshness_days": 18.5,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -5203,7 +5044,7 @@
       "owner-expand:arcilingir",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:31:13Z",
+    "checked_at": "2026-10-23T04:26:39Z",
     "turkish": {
       "is_turkish": true,
       "score": 192,
@@ -5231,7 +5072,88 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 25,
-        "freshness_days": 7.4,
+        "freshness_days": 7.7,
+        "github_stars": 0,
+        "github_forks": 0,
+        "fork": true,
+        "self_contained": false
+      }
+    }
+  },
+  {
+    "name": "Sessiz !!!",
+    "description": "Plugins Across All Categories and Languages.",
+    "icon_url": "https://i.ibb.co/8gQnvnTj/aysah.png",
+    "repository": "adilem/MyTV",
+    "repository_url": "https://github.com/adilem/MyTV",
+    "repo_url": "https://raw.githubusercontent.com/adilem/MyTV/master/repo.json",
+    "manifest_branch": "master",
+    "manifest_version": 1,
+    "plugin_lists": [
+      {
+        "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/refs/heads/builds/plugins.json",
+        "reachable": true,
+        "count": 73,
+        "updated_at": null,
+        "source_repository": "UmayTrade/MyTV",
+        "languages": {
+          "en": 6,
+          "it": 1,
+          "mx": 2,
+          "tr": 64
+        },
+        "turkish_language_count": 64,
+        "declared_down_count": 0,
+        "declared_status_count": 73
+      }
+    ],
+    "plugin_count": 73,
+    "declared_down_count": 0,
+    "declared_status_count": 73,
+    "github_stars": 0,
+    "github_forks": 0,
+    "status": "active",
+    "archived": false,
+    "fork": true,
+    "parent": "UmayTrade/MyTV",
+    "self_contained": false,
+    "plugin_source_repositories": [
+      "UmayTrade/MyTV"
+    ],
+    "last_repo_push": "2026-09-22T21:39:16Z",
+    "last_manifest_update": "2026-09-18T12:35:56Z",
+    "last_plugins_update": null,
+    "discovered_by": [
+      "registry"
+    ],
+    "checked_at": "2026-10-23T04:26:13Z",
+    "turkish": {
+      "is_turkish": true,
+      "score": 150,
+      "tr_language_count": 64,
+      "language_total": 73,
+      "tr_share": 0.8767,
+      "reasons": [
+        "plugins-language-tr:64/73",
+        "turkish-content-markers:belgesel,cizgi,dizi,dizipal,eklenti,izle,türk,çizgi"
+      ]
+    },
+    "short_addresses": [],
+    "repo_score": 61.4,
+    "repo_score_details": {
+      "score": 61.4,
+      "components": {
+        "declared_health": 30.0,
+        "freshness": 17.0,
+        "originality": 0.0,
+        "github_popularity": 0.0,
+        "coverage": 10.0,
+        "turkish_focus": 4.4
+      },
+      "metrics": {
+        "declared_down_count": 0,
+        "plugin_count": 73,
+        "freshness_days": 30.3,
         "github_stars": 0,
         "github_forks": 0,
         "fork": true,
@@ -5280,7 +5202,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-22T21:34:06Z",
+    "checked_at": "2026-10-23T04:29:12Z",
     "turkish": {
       "is_turkish": true,
       "score": 35,
@@ -5308,7 +5230,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 2,
-        "freshness_days": 129.5,
+        "freshness_days": 129.8,
         "github_stars": 3,
         "github_forks": 0,
         "fork": false,
@@ -5360,7 +5282,7 @@
       "code-search:filename:repo.json \"pluginLists\" \"Türkçe\"",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:29:53Z",
+    "checked_at": "2026-10-23T04:25:24Z",
     "turkish": {
       "is_turkish": true,
       "score": 188,
@@ -5388,7 +5310,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 18,
-        "freshness_days": 431.4,
+        "freshness_days": 431.7,
         "github_stars": 2,
         "github_forks": 4,
         "fork": false,
@@ -5440,7 +5362,7 @@
       "owner-expand:Bymesut1",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:28:50Z",
+    "checked_at": "2026-10-23T04:24:19Z",
     "turkish": {
       "is_turkish": true,
       "score": 121,
@@ -5469,7 +5391,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 11,
-        "freshness_days": 21.3,
+        "freshness_days": 21.6,
         "github_stars": 0,
         "github_forks": 0,
         "fork": true,
@@ -5524,7 +5446,7 @@
       "owner-expand:burak-ayd",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:31:59Z",
+    "checked_at": "2026-10-23T04:27:22Z",
     "turkish": {
       "is_turkish": true,
       "score": 241,
@@ -5553,7 +5475,7 @@
       "metrics": {
         "declared_down_count": 1,
         "plugin_count": 43,
-        "freshness_days": 38.2,
+        "freshness_days": 38.5,
         "github_stars": 0,
         "github_forks": 0,
         "fork": true,
@@ -5607,7 +5529,7 @@
       "owner-expand:adilem",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:30:50Z",
+    "checked_at": "2026-10-23T04:26:17Z",
     "turkish": {
       "is_turkish": true,
       "score": 145,
@@ -5634,7 +5556,7 @@
       "metrics": {
         "declared_down_count": 2,
         "plugin_count": 67,
-        "freshness_days": 109.5,
+        "freshness_days": 109.8,
         "github_stars": 0,
         "github_forks": 3,
         "fork": true,
@@ -5687,7 +5609,7 @@
       "owner-expand:ailantus",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:30:58Z",
+    "checked_at": "2026-10-23T04:26:24Z",
     "turkish": {
       "is_turkish": true,
       "score": 226,
@@ -5716,7 +5638,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 21,
-        "freshness_days": 724.3,
+        "freshness_days": 724.6,
         "github_stars": 1,
         "github_forks": 0,
         "fork": false,
@@ -5769,7 +5691,7 @@
       "owner-expand:eycommas",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:32:51Z",
+    "checked_at": "2026-10-23T04:28:09Z",
     "turkish": {
       "is_turkish": true,
       "score": 231,
@@ -5798,7 +5720,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 26,
-        "freshness_days": 375.1,
+        "freshness_days": 375.4,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -5852,7 +5774,7 @@
       "owner-expand:qera18",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:34:34Z",
+    "checked_at": "2026-10-23T04:29:36Z",
     "turkish": {
       "is_turkish": true,
       "score": 145,
@@ -5879,7 +5801,7 @@
       "metrics": {
         "declared_down_count": 2,
         "plugin_count": 67,
-        "freshness_days": 138.5,
+        "freshness_days": 138.8,
         "github_stars": 0,
         "github_forks": 0,
         "fork": true,
@@ -5931,7 +5853,7 @@
       "owner-expand:yunus60",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:35:29Z",
+    "checked_at": "2026-10-23T04:30:28Z",
     "turkish": {
       "is_turkish": true,
       "score": 81,
@@ -5958,7 +5880,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 1,
-        "freshness_days": 556.0,
+        "freshness_days": 556.3,
         "github_stars": 4,
         "github_forks": 0,
         "fork": false,
@@ -6011,7 +5933,7 @@
       "owner-expand:cugucugu",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:32:37Z",
+    "checked_at": "2026-10-23T04:27:57Z",
     "turkish": {
       "is_turkish": true,
       "score": 110,
@@ -6038,7 +5960,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 7,
-        "freshness_days": 476.4,
+        "freshness_days": 476.7,
         "github_stars": 2,
         "github_forks": 0,
         "fork": false,
@@ -6091,7 +6013,7 @@
       "owner-expand:aliredpr3",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:31:04Z",
+    "checked_at": "2026-10-23T04:26:30Z",
     "turkish": {
       "is_turkish": true,
       "score": 176,
@@ -6119,7 +6041,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 12,
-        "freshness_days": 203.0,
+        "freshness_days": 203.3,
         "github_stars": 3,
         "github_forks": 3,
         "fork": false,
@@ -6172,7 +6094,7 @@
       "owner-expand:asistan-emrah",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:31:37Z",
+    "checked_at": "2026-10-23T04:27:00Z",
     "turkish": {
       "is_turkish": true,
       "score": 186,
@@ -6201,7 +6123,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 1,
-        "freshness_days": 664.2,
+        "freshness_days": 664.5,
         "github_stars": 1,
         "github_forks": 0,
         "fork": false,
@@ -6254,7 +6176,7 @@
       "code-search:filename:repo.json \"pluginLists\" \"Türkçe\"",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:31:11Z",
+    "checked_at": "2026-10-23T04:26:36Z",
     "turkish": {
       "is_turkish": true,
       "score": 177,
@@ -6282,7 +6204,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 10,
-        "freshness_days": 988.2,
+        "freshness_days": 988.5,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -6337,7 +6259,7 @@
       "owner-expand:fsamet",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:33:23Z",
+    "checked_at": "2026-10-23T04:28:35Z",
     "turkish": {
       "is_turkish": true,
       "score": 241,
@@ -6366,7 +6288,7 @@
       "metrics": {
         "declared_down_count": 1,
         "plugin_count": 43,
-        "freshness_days": 331.4,
+        "freshness_days": 331.7,
         "github_stars": 1,
         "github_forks": 0,
         "fork": true,
@@ -6417,7 +6339,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-22T21:29:04Z",
+    "checked_at": "2026-10-23T04:24:32Z",
     "turkish": {
       "is_turkish": true,
       "score": 64,
@@ -6443,7 +6365,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 4,
-        "freshness_days": 506.6,
+        "freshness_days": 506.9,
         "github_stars": 1,
         "github_forks": 0,
         "fork": true,
@@ -6498,7 +6420,7 @@
       "owner-expand:aliredpr3",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:31:01Z",
+    "checked_at": "2026-10-23T04:26:28Z",
     "turkish": {
       "is_turkish": true,
       "score": 241,
@@ -6527,7 +6449,7 @@
       "metrics": {
         "declared_down_count": 1,
         "plugin_count": 43,
-        "freshness_days": 331.4,
+        "freshness_days": 331.7,
         "github_stars": 0,
         "github_forks": 0,
         "fork": true,
@@ -6582,7 +6504,7 @@
       "code-search:filename:repo.json \"pluginLists\" \"Türkçe\"",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:29:20Z",
+    "checked_at": "2026-10-23T04:24:47Z",
     "turkish": {
       "is_turkish": true,
       "score": 236,
@@ -6611,7 +6533,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 41,
-        "freshness_days": 569.4,
+        "freshness_days": 569.7,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -6663,7 +6585,7 @@
       "code-search:filename:repo.json \"pluginLists\" \"Türkçe\"",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:28:57Z",
+    "checked_at": "2026-10-23T04:24:26Z",
     "turkish": {
       "is_turkish": true,
       "score": 222,
@@ -6692,7 +6614,7 @@
       "metrics": {
         "declared_down_count": 1,
         "plugin_count": 17,
-        "freshness_days": 431.6,
+        "freshness_days": 431.9,
         "github_stars": 1,
         "github_forks": 1,
         "fork": false,
@@ -6744,7 +6666,7 @@
       "owner-expand:Wiojelt",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:30:30Z",
+    "checked_at": "2026-10-23T04:25:58Z",
     "turkish": {
       "is_turkish": true,
       "score": 146,
@@ -6773,7 +6695,7 @@
       "metrics": {
         "declared_down_count": 1,
         "plugin_count": 1,
-        "freshness_days": 10.0,
+        "freshness_days": 10.3,
         "github_stars": 4,
         "github_forks": 0,
         "fork": false,
@@ -6828,7 +6750,7 @@
       "owner-expand:apkbir",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:31:09Z",
+    "checked_at": "2026-10-23T04:26:35Z",
     "turkish": {
       "is_turkish": true,
       "score": 236,
@@ -6857,7 +6779,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 41,
-        "freshness_days": 589.2,
+        "freshness_days": 589.5,
         "github_stars": 1,
         "github_forks": 0,
         "fork": true,
@@ -6912,7 +6834,7 @@
       "owner-expand:ahmetsefayuce71-hub",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:30:54Z",
+    "checked_at": "2026-10-23T04:26:21Z",
     "turkish": {
       "is_turkish": true,
       "score": 236,
@@ -6941,7 +6863,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 41,
-        "freshness_days": 588.8,
+        "freshness_days": 589.1,
         "github_stars": 0,
         "github_forks": 0,
         "fork": true,
@@ -6996,7 +6918,7 @@
       "owner-expand:eycommas",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:32:49Z",
+    "checked_at": "2026-10-23T04:28:08Z",
     "turkish": {
       "is_turkish": true,
       "score": 236,
@@ -7025,7 +6947,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 41,
-        "freshness_days": 589.2,
+        "freshness_days": 589.5,
         "github_stars": 0,
         "github_forks": 0,
         "fork": true,
@@ -7078,7 +7000,7 @@
       "owner-expand:CennetCehennem",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:29:03Z",
+    "checked_at": "2026-10-23T04:24:31Z",
     "turkish": {
       "is_turkish": true,
       "score": 176,
@@ -7106,7 +7028,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 12,
-        "freshness_days": 203.0,
+        "freshness_days": 203.3,
         "github_stars": 0,
         "github_forks": 0,
         "fork": true,
@@ -7159,7 +7081,7 @@
       "owner-expand:cugucugu",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:32:15Z",
+    "checked_at": "2026-10-23T04:27:37Z",
     "turkish": {
       "is_turkish": true,
       "score": 176,
@@ -7187,7 +7109,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 12,
-        "freshness_days": 203.0,
+        "freshness_days": 203.3,
         "github_stars": 0,
         "github_forks": 0,
         "fork": true,
@@ -7240,7 +7162,7 @@
       "owner-expand:cugucugu",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:32:17Z",
+    "checked_at": "2026-10-23T04:27:38Z",
     "turkish": {
       "is_turkish": true,
       "score": 176,
@@ -7268,7 +7190,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 12,
-        "freshness_days": 203.0,
+        "freshness_days": 203.3,
         "github_stars": 0,
         "github_forks": 0,
         "fork": true,
@@ -7319,7 +7241,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-22T21:34:18Z",
+    "checked_at": "2026-10-23T04:29:23Z",
     "turkish": {
       "is_turkish": true,
       "score": 188,
@@ -7347,7 +7269,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 18,
-        "freshness_days": 431.4,
+        "freshness_days": 431.7,
         "github_stars": 0,
         "github_forks": 0,
         "fork": true,
@@ -7398,7 +7320,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-22T21:33:19Z",
+    "checked_at": "2026-10-23T04:28:31Z",
     "turkish": {
       "is_turkish": true,
       "score": 222,
@@ -7427,7 +7349,7 @@
       "metrics": {
         "declared_down_count": 1,
         "plugin_count": 17,
-        "freshness_days": 506.2,
+        "freshness_days": 506.5,
         "github_stars": 0,
         "github_forks": 0,
         "fork": true,
@@ -7478,7 +7400,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-22T21:34:29Z",
+    "checked_at": "2026-10-23T04:29:32Z",
     "turkish": {
       "is_turkish": true,
       "score": 181,
@@ -7507,7 +7429,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 1,
-        "freshness_days": 424.8,
+        "freshness_days": 425.1,
         "github_stars": 0,
         "github_forks": 1,
         "fork": true,
@@ -7561,7 +7483,7 @@
       "registry",
       "repo-search:cloudstream eklenti in:name,description"
     ],
-    "checked_at": "2026-10-22T21:29:37Z",
+    "checked_at": "2026-10-23T04:25:06Z",
     "turkish": {
       "is_turkish": true,
       "score": 236,
@@ -7591,7 +7513,7 @@
       "metrics": {
         "declared_down_count": 21,
         "plugin_count": 21,
-        "freshness_days": 512.2,
+        "freshness_days": 512.5,
         "github_stars": 1,
         "github_forks": 1,
         "fork": false,
@@ -7646,7 +7568,7 @@
       "repo-search:cloudstream Türkçe in:name,description",
       "repo-search:cloudstream eklenti in:name,description"
     ],
-    "checked_at": "2026-10-22T21:34:55Z",
+    "checked_at": "2026-10-23T04:29:55Z",
     "turkish": {
       "is_turkish": true,
       "score": 236,
@@ -7676,7 +7598,7 @@
       "metrics": {
         "declared_down_count": 21,
         "plugin_count": 21,
-        "freshness_days": 512.2,
+        "freshness_days": 512.5,
         "github_stars": 2,
         "github_forks": 3,
         "fork": false,
@@ -7728,7 +7650,7 @@
       "owner-expand:fsamet",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:33:21Z",
+    "checked_at": "2026-10-23T04:28:33Z",
     "turkish": {
       "is_turkish": true,
       "score": 226,
@@ -7757,7 +7679,7 @@
       "metrics": {
         "declared_down_count": 21,
         "plugin_count": 21,
-        "freshness_days": 512.2,
+        "freshness_days": 512.5,
         "github_stars": 1,
         "github_forks": 0,
         "fork": true,
@@ -7804,7 +7726,7 @@
       "owner-expand:arcilingir",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:31:22Z",
+    "checked_at": "2026-10-23T04:26:47Z",
     "turkish": {
       "is_turkish": true,
       "score": 90,
@@ -7833,7 +7755,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 0,
-        "freshness_days": 0.0,
+        "freshness_days": 0.3,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -7881,7 +7803,7 @@
       "owner-expand:Torvak31",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:29:59Z",
+    "checked_at": "2026-10-23T04:25:29Z",
     "turkish": {
       "is_turkish": true,
       "score": 85,
@@ -7908,7 +7830,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 0,
-        "freshness_days": 4.6,
+        "freshness_days": 4.9,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -7957,7 +7879,7 @@
       "repo-search:cloudstream Türkçe in:name,description",
       "repo-search:cloudstream eklenti in:name,description"
     ],
-    "checked_at": "2026-10-22T21:30:56Z",
+    "checked_at": "2026-10-23T04:26:22Z",
     "turkish": {
       "is_turkish": true,
       "score": 90,
@@ -7985,7 +7907,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 0,
-        "freshness_days": 61.2,
+        "freshness_days": 61.5,
         "github_stars": 1,
         "github_forks": 1,
         "fork": false,
@@ -8033,7 +7955,7 @@
       "registry",
       "repo-search:cloudstream Türkçe in:name,description"
     ],
-    "checked_at": "2026-10-22T21:34:00Z",
+    "checked_at": "2026-10-23T04:29:07Z",
     "turkish": {
       "is_turkish": true,
       "score": 90,
@@ -8061,7 +7983,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 0,
-        "freshness_days": 45.0,
+        "freshness_days": 45.3,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -8107,7 +8029,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-22T21:28:47Z",
+    "checked_at": "2026-10-23T04:24:16Z",
     "turkish": {
       "is_turkish": true,
       "score": 90,
@@ -8134,7 +8056,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 0,
-        "freshness_days": 68.6,
+        "freshness_days": 68.9,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -8182,7 +8104,7 @@
       "registry",
       "repo-search:cloudstream eklenti in:name,description"
     ],
-    "checked_at": "2026-10-22T21:30:47Z",
+    "checked_at": "2026-10-23T04:26:14Z",
     "turkish": {
       "is_turkish": true,
       "score": 100,
@@ -8210,7 +8132,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 0,
-        "freshness_days": 106.1,
+        "freshness_days": 106.4,
         "github_stars": 1,
         "github_forks": 0,
         "fork": false,
@@ -8257,7 +8179,7 @@
       "owner-expand:safarxe",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:34:45Z",
+    "checked_at": "2026-10-23T04:29:46Z",
     "turkish": {
       "is_turkish": true,
       "score": 80,
@@ -8284,7 +8206,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 0,
-        "freshness_days": 55.5,
+        "freshness_days": 55.8,
         "github_stars": 0,
         "github_forks": 0,
         "fork": true,
@@ -8331,7 +8253,7 @@
       "code-search:filename:repo.json \"pluginLists\" \"Türkçe\"",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:34:50Z",
+    "checked_at": "2026-10-23T04:29:51Z",
     "turkish": {
       "is_turkish": true,
       "score": 90,
@@ -8358,7 +8280,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 0,
-        "freshness_days": 341.5,
+        "freshness_days": 341.8,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -8426,7 +8348,7 @@
       "registry",
       "repo-search:cloudstream Türkçe in:name,description"
     ],
-    "checked_at": "2026-10-22T21:29:28Z",
+    "checked_at": "2026-10-23T04:24:57Z",
     "turkish": {
       "is_turkish": true,
       "score": 90,
@@ -8454,7 +8376,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 0,
-        "freshness_days": 499.3,
+        "freshness_days": 499.6,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -8501,7 +8423,7 @@
       "owner-expand:cugucugu",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:32:32Z",
+    "checked_at": "2026-10-23T04:27:53Z",
     "turkish": {
       "is_turkish": true,
       "score": 90,
@@ -8528,7 +8450,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 0,
-        "freshness_days": 586.3,
+        "freshness_days": 586.6,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -8574,7 +8496,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-22T21:29:00Z",
+    "checked_at": "2026-10-23T04:24:29Z",
     "turkish": {
       "is_turkish": true,
       "score": 80,
@@ -8601,7 +8523,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 0,
-        "freshness_days": 506.3,
+        "freshness_days": 506.6,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -8647,7 +8569,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-22T21:34:23Z",
+    "checked_at": "2026-10-23T04:29:27Z",
     "turkish": {
       "is_turkish": true,
       "score": 80,
@@ -8674,7 +8596,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 0,
-        "freshness_days": 428.0,
+        "freshness_days": 428.3,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -8721,7 +8643,7 @@
       "code-search:filename:repo.json \"pluginLists\" \"Türkçe\"",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:33:24Z",
+    "checked_at": "2026-10-23T04:28:36Z",
     "turkish": {
       "is_turkish": true,
       "score": 75,
@@ -8748,7 +8670,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 0,
-        "freshness_days": 485.3,
+        "freshness_days": 485.5,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -8795,7 +8717,7 @@
       "owner-expand:CennetCehennem",
       "registry"
     ],
-    "checked_at": "2026-10-22T21:28:59Z",
+    "checked_at": "2026-10-23T04:24:27Z",
     "turkish": {
       "is_turkish": true,
       "score": 85,
@@ -8822,7 +8744,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 0,
-        "freshness_days": 506.3,
+        "freshness_days": 506.6,
         "github_stars": 3,
         "github_forks": 1,
         "fork": true,
