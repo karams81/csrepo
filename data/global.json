@@ -42,7 +42,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:50:08Z",
+    "checked_at": "2026-10-24T15:50:25Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -66,7 +66,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 7,
-        "freshness_days": 102.0,
+        "freshness_days": 102.2,
         "github_stars": 7,
         "github_forks": 0,
         "fork": false,
@@ -138,7 +138,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:47:32Z",
+    "checked_at": "2026-10-24T15:48:16Z",
     "turkish": {
       "is_turkish": false,
       "score": 96,
@@ -165,7 +165,7 @@
       "metrics": {
         "declared_down_count": 18,
         "plugin_count": 547,
-        "freshness_days": 0.2,
+        "freshness_days": 0.4,
         "github_stars": 3,
         "github_forks": 3,
         "fork": false,
@@ -216,7 +216,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:49:04Z",
+    "checked_at": "2026-10-24T15:49:31Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -240,7 +240,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 1,
-        "freshness_days": 117.0,
+        "freshness_days": 117.2,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -291,7 +291,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:46:20Z",
+    "checked_at": "2026-10-24T15:47:14Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -315,7 +315,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 17,
-        "freshness_days": 10.2,
+        "freshness_days": 10.4,
         "github_stars": 42,
         "github_forks": 29,
         "fork": false,
@@ -364,7 +364,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:46:08Z",
+    "checked_at": "2026-10-24T15:47:03Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -388,7 +388,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 1,
-        "freshness_days": 222.7,
+        "freshness_days": 222.9,
         "github_stars": 114,
         "github_forks": 9,
         "fork": false,
@@ -423,7 +423,7 @@
     "plugin_count": 25,
     "declared_down_count": 2,
     "declared_status_count": 25,
-    "github_stars": 16,
+    "github_stars": 17,
     "github_forks": 6,
     "status": "active",
     "archived": false,
@@ -439,7 +439,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:50:30Z",
+    "checked_at": "2026-10-24T15:50:44Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -449,22 +449,22 @@
       "reasons": []
     },
     "short_addresses": [],
-    "repo_score": 81.2,
+    "repo_score": 81.3,
     "repo_score_details": {
-      "score": 81.2,
+      "score": 81.3,
       "components": {
         "declared_health": 27.6,
         "freshness": 25.0,
         "originality": 15.0,
-        "github_popularity": 8.6,
+        "github_popularity": 8.7,
         "coverage": 5.0,
         "turkish_focus": 0.0
       },
       "metrics": {
         "declared_down_count": 2,
         "plugin_count": 25,
-        "freshness_days": 2.6,
-        "github_stars": 16,
+        "freshness_days": 2.8,
+        "github_stars": 17,
         "github_forks": 6,
         "fork": false,
         "self_contained": true
@@ -514,7 +514,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:48:25Z",
+    "checked_at": "2026-10-24T15:48:58Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -538,7 +538,7 @@
       "metrics": {
         "declared_down_count": 8,
         "plugin_count": 29,
-        "freshness_days": 277.0,
+        "freshness_days": 277.2,
         "github_stars": 1,
         "github_forks": 0,
         "fork": false,
@@ -588,7 +588,7 @@
       "owner-expand:cugucugu",
       "registry"
     ],
-    "checked_at": "2026-10-24T10:48:36Z",
+    "checked_at": "2026-10-24T15:49:08Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -612,7 +612,7 @@
       "metrics": {
         "declared_down_count": 8,
         "plugin_count": 29,
-        "freshness_days": 718.6,
+        "freshness_days": 718.8,
         "github_stars": 0,
         "github_forks": 0,
         "fork": true,
@@ -661,7 +661,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:50:38Z",
+    "checked_at": "2026-10-24T15:50:51Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -685,7 +685,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 3,
-        "freshness_days": 178.6,
+        "freshness_days": 178.8,
         "github_stars": 2,
         "github_forks": 0,
         "fork": false,
@@ -739,7 +739,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:51:01Z",
+    "checked_at": "2026-10-24T15:51:11Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -763,7 +763,7 @@
       "metrics": {
         "declared_down_count": 1,
         "plugin_count": 13,
-        "freshness_days": 47.9,
+        "freshness_days": 48.1,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -814,7 +814,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:45:59Z",
+    "checked_at": "2026-10-24T15:46:55Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -838,7 +838,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 22,
-        "freshness_days": 4.9,
+        "freshness_days": 5.1,
         "github_stars": 175,
         "github_forks": 30,
         "fork": false,
@@ -889,7 +889,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:50:13Z",
+    "checked_at": "2026-10-24T15:50:30Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -913,7 +913,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 1,
-        "freshness_days": 181.5,
+        "freshness_days": 181.7,
         "github_stars": 1,
         "github_forks": 0,
         "fork": false,
@@ -964,7 +964,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:46:35Z",
+    "checked_at": "2026-10-24T15:47:27Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -988,7 +988,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 4,
-        "freshness_days": 8.0,
+        "freshness_days": 8.2,
         "github_stars": 5,
         "github_forks": 0,
         "fork": false,
@@ -1040,7 +1040,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:50:00Z",
+    "checked_at": "2026-10-24T15:50:19Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -1064,7 +1064,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 23,
-        "freshness_days": 0.6,
+        "freshness_days": 0.8,
         "github_stars": 2,
         "github_forks": 0,
         "fork": false,
@@ -1115,7 +1115,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:49:50Z",
+    "checked_at": "2026-10-24T15:50:09Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -1139,7 +1139,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 2,
-        "freshness_days": 30.3,
+        "freshness_days": 30.5,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -1190,7 +1190,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:45:45Z",
+    "checked_at": "2026-10-24T15:46:44Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -1214,7 +1214,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 2,
-        "freshness_days": 41.5,
+        "freshness_days": 41.7,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -1265,7 +1265,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:45:57Z",
+    "checked_at": "2026-10-24T15:46:54Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -1289,7 +1289,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 1,
-        "freshness_days": 113.7,
+        "freshness_days": 113.9,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -1338,7 +1338,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:50:31Z",
+    "checked_at": "2026-10-24T15:50:45Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -1362,7 +1362,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 5,
-        "freshness_days": 154.5,
+        "freshness_days": 154.7,
         "github_stars": 141,
         "github_forks": 97,
         "fork": false,
@@ -1423,7 +1423,7 @@
       "owner-expand:adilem",
       "registry"
     ],
-    "checked_at": "2026-10-24T10:47:24Z",
+    "checked_at": "2026-10-24T15:48:08Z",
     "turkish": {
       "is_turkish": false,
       "score": 93,
@@ -1451,7 +1451,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 109,
-        "freshness_days": 91.8,
+        "freshness_days": 92.1,
         "github_stars": 0,
         "github_forks": 0,
         "fork": true,
@@ -1511,7 +1511,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:47:54Z",
+    "checked_at": "2026-10-24T15:48:33Z",
     "turkish": {
       "is_turkish": false,
       "score": 93,
@@ -1539,7 +1539,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 109,
-        "freshness_days": 22.9,
+        "freshness_days": 23.1,
         "github_stars": 0,
         "github_forks": 0,
         "fork": true,
@@ -1590,7 +1590,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:46:54Z",
+    "checked_at": "2026-10-24T15:47:44Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -1614,7 +1614,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 1,
-        "freshness_days": 1022.8,
+        "freshness_days": 1023.0,
         "github_stars": 3,
         "github_forks": 0,
         "fork": false,
@@ -1665,7 +1665,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:49:08Z",
+    "checked_at": "2026-10-24T15:49:35Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -1689,7 +1689,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 1,
-        "freshness_days": 160.6,
+        "freshness_days": 160.8,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -1740,7 +1740,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:51:15Z",
+    "checked_at": "2026-10-24T15:51:24Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -1764,7 +1764,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 1,
-        "freshness_days": 46.5,
+        "freshness_days": 46.8,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -1815,7 +1815,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:51:02Z",
+    "checked_at": "2026-10-24T15:51:12Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -1839,7 +1839,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 4,
-        "freshness_days": 0.6,
+        "freshness_days": 0.8,
         "github_stars": 0,
         "github_forks": 1,
         "fork": false,
@@ -1891,7 +1891,7 @@
       "owner-expand:cugucugu",
       "registry"
     ],
-    "checked_at": "2026-10-24T10:48:39Z",
+    "checked_at": "2026-10-24T15:49:10Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -1915,7 +1915,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 24,
-        "freshness_days": 1.0,
+        "freshness_days": 1.2,
         "github_stars": 0,
         "github_forks": 0,
         "fork": true,
@@ -1966,7 +1966,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:50:42Z",
+    "checked_at": "2026-10-24T15:50:55Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -1990,7 +1990,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 24,
-        "freshness_days": 159.7,
+        "freshness_days": 159.9,
         "github_stars": 9,
         "github_forks": 1,
         "fork": false,
@@ -2053,7 +2053,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:46:23Z",
+    "checked_at": "2026-10-24T15:47:17Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -2077,7 +2077,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 86,
-        "freshness_days": 247.5,
+        "freshness_days": 247.7,
         "github_stars": 3,
         "github_forks": 0,
         "fork": false,
@@ -2139,7 +2139,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:46:53Z",
+    "checked_at": "2026-10-24T15:47:43Z",
     "turkish": {
       "is_turkish": false,
       "score": 78,
@@ -2167,7 +2167,7 @@
       "metrics": {
         "declared_down_count": 5,
         "plugin_count": 64,
-        "freshness_days": 308.9,
+        "freshness_days": 309.1,
         "github_stars": 4,
         "github_forks": 1,
         "fork": false,
@@ -2214,7 +2214,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:49:47Z",
+    "checked_at": "2026-10-24T15:50:06Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -2238,7 +2238,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 5,
-        "freshness_days": 166.4,
+        "freshness_days": 166.6,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -2289,7 +2289,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:49:59Z",
+    "checked_at": "2026-10-24T15:50:17Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -2313,7 +2313,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 3,
-        "freshness_days": 19.1,
+        "freshness_days": 19.3,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -2367,7 +2367,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:46:42Z",
+    "checked_at": "2026-10-24T15:47:32Z",
     "turkish": {
       "is_turkish": false,
       "score": 15,
@@ -2393,7 +2393,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 7,
-        "freshness_days": 77.8,
+        "freshness_days": 78.0,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -2442,7 +2442,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:46:29Z",
+    "checked_at": "2026-10-24T15:47:22Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -2466,7 +2466,7 @@
       "metrics": {
         "declared_down_count": 1,
         "plugin_count": 2,
-        "freshness_days": 53.5,
+        "freshness_days": 53.7,
         "github_stars": 15,
         "github_forks": 7,
         "fork": false,
@@ -2515,7 +2515,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:46:49Z",
+    "checked_at": "2026-10-24T15:47:38Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -2539,7 +2539,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 9,
-        "freshness_days": 125.9,
+        "freshness_days": 126.1,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -2588,7 +2588,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:50:59Z",
+    "checked_at": "2026-10-24T15:51:10Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -2612,7 +2612,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 2,
-        "freshness_days": 872.8,
+        "freshness_days": 873.0,
         "github_stars": 1,
         "github_forks": 0,
         "fork": false,
@@ -2661,7 +2661,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:49:07Z",
+    "checked_at": "2026-10-24T15:49:34Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -2685,7 +2685,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 1,
-        "freshness_days": 25.7,
+        "freshness_days": 26.0,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -2738,7 +2738,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:46:37Z",
+    "checked_at": "2026-10-24T15:47:28Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -2762,7 +2762,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 6,
-        "freshness_days": 21.8,
+        "freshness_days": 22.0,
         "github_stars": 14,
         "github_forks": 3,
         "fork": false,
@@ -2814,7 +2814,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:50:53Z",
+    "checked_at": "2026-10-24T15:51:05Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -2838,7 +2838,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 20,
-        "freshness_days": 24.4,
+        "freshness_days": 24.6,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -2888,7 +2888,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:50:34Z",
+    "checked_at": "2026-10-24T15:50:48Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -2912,7 +2912,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 3,
-        "freshness_days": 44.1,
+        "freshness_days": 44.3,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -2963,7 +2963,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:49:53Z",
+    "checked_at": "2026-10-24T15:50:11Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -2987,7 +2987,7 @@
       "metrics": {
         "declared_down_count": 7,
         "plugin_count": 23,
-        "freshness_days": 104.9,
+        "freshness_days": 105.1,
         "github_stars": 6,
         "github_forks": 0,
         "fork": false,
@@ -3040,7 +3040,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:50:32Z",
+    "checked_at": "2026-10-24T15:50:46Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -3064,7 +3064,7 @@
       "metrics": {
         "declared_down_count": 10,
         "plugin_count": 18,
-        "freshness_days": 44.4,
+        "freshness_days": 44.6,
         "github_stars": 57,
         "github_forks": 32,
         "fork": false,
@@ -3113,7 +3113,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:45:56Z",
+    "checked_at": "2026-10-24T15:46:53Z",
     "turkish": {
       "is_turkish": false,
       "score": 15,
@@ -3139,7 +3139,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 1,
-        "freshness_days": 10.9,
+        "freshness_days": 11.1,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -3190,7 +3190,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:48:33Z",
+    "checked_at": "2026-10-24T15:49:04Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -3214,7 +3214,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 1,
-        "freshness_days": 248.0,
+        "freshness_days": 248.2,
         "github_stars": 3,
         "github_forks": 0,
         "fork": false,
@@ -3263,7 +3263,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:50:10Z",
+    "checked_at": "2026-10-24T15:50:27Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -3287,7 +3287,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 3,
-        "freshness_days": 606.7,
+        "freshness_days": 606.9,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -3336,7 +3336,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:50:47Z",
+    "checked_at": "2026-10-24T15:50:59Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -3360,7 +3360,7 @@
       "metrics": {
         "declared_down_count": 1,
         "plugin_count": 20,
-        "freshness_days": 708.3,
+        "freshness_days": 708.5,
         "github_stars": 0,
         "github_forks": 1,
         "fork": false,
@@ -3409,7 +3409,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:50:48Z",
+    "checked_at": "2026-10-24T15:51:00Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -3433,7 +3433,7 @@
       "metrics": {
         "declared_down_count": 1,
         "plugin_count": 21,
-        "freshness_days": 697.8,
+        "freshness_days": 698.0,
         "github_stars": 0,
         "github_forks": 1,
         "fork": false,
@@ -3482,7 +3482,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:50:50Z",
+    "checked_at": "2026-10-24T15:51:01Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -3506,7 +3506,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 6,
-        "freshness_days": 685.7,
+        "freshness_days": 685.9,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -3555,7 +3555,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:50:51Z",
+    "checked_at": "2026-10-24T15:51:04Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -3579,7 +3579,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 6,
-        "freshness_days": 280.1,
+        "freshness_days": 280.3,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -3628,7 +3628,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:49:29Z",
+    "checked_at": "2026-10-24T15:49:51Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -3652,7 +3652,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 3,
-        "freshness_days": 190.0,
+        "freshness_days": 190.2,
         "github_stars": 1,
         "github_forks": 0,
         "fork": false,
@@ -3703,7 +3703,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:50:39Z",
+    "checked_at": "2026-10-24T15:50:52Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -3727,7 +3727,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 1,
-        "freshness_days": 48.8,
+        "freshness_days": 49.0,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -3779,7 +3779,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:50:58Z",
+    "checked_at": "2026-10-24T15:51:09Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -3803,7 +3803,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 28,
-        "freshness_days": 243.8,
+        "freshness_days": 244.0,
         "github_stars": 5,
         "github_forks": 0,
         "fork": false,
@@ -3854,7 +3854,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:47:21Z",
+    "checked_at": "2026-10-24T15:48:06Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -3878,7 +3878,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 32,
-        "freshness_days": 149.0,
+        "freshness_days": 149.2,
         "github_stars": 1,
         "github_forks": 0,
         "fork": false,
@@ -3927,7 +3927,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:48:32Z",
+    "checked_at": "2026-10-24T15:49:03Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -3951,7 +3951,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 9,
-        "freshness_days": 1.2,
+        "freshness_days": 1.4,
         "github_stars": 16,
         "github_forks": 6,
         "fork": false,
@@ -4009,7 +4009,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:46:45Z",
+    "checked_at": "2026-10-24T15:47:35Z",
     "turkish": {
       "is_turkish": false,
       "score": 15,
@@ -4035,7 +4035,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 34,
-        "freshness_days": 239.6,
+        "freshness_days": 239.8,
         "github_stars": 0,
         "github_forks": 0,
         "fork": true,
@@ -4094,7 +4094,7 @@
       "owner-expand:adilem",
       "registry"
     ],
-    "checked_at": "2026-10-24T10:47:25Z",
+    "checked_at": "2026-10-24T15:48:10Z",
     "turkish": {
       "is_turkish": false,
       "score": 15,
@@ -4120,7 +4120,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 34,
-        "freshness_days": 61.8,
+        "freshness_days": 62.0,
         "github_stars": 0,
         "github_forks": 0,
         "fork": true,
@@ -4178,7 +4178,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:50:15Z",
+    "checked_at": "2026-10-24T15:50:31Z",
     "turkish": {
       "is_turkish": false,
       "score": 20,
@@ -4204,7 +4204,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 34,
-        "freshness_days": 429.6,
+        "freshness_days": 429.8,
         "github_stars": 0,
         "github_forks": 0,
         "fork": true,
@@ -4255,7 +4255,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:48:35Z",
+    "checked_at": "2026-10-24T15:49:07Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -4279,7 +4279,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 1,
-        "freshness_days": 2.8,
+        "freshness_days": 3.0,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -4333,7 +4333,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:50:09Z",
+    "checked_at": "2026-10-24T15:50:26Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -4357,7 +4357,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 15,
-        "freshness_days": 32.6,
+        "freshness_days": 32.8,
         "github_stars": 1,
         "github_forks": 0,
         "fork": false,
@@ -4406,7 +4406,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:48:27Z",
+    "checked_at": "2026-10-24T15:48:59Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -4430,7 +4430,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 1,
-        "freshness_days": 122.0,
+        "freshness_days": 122.2,
         "github_stars": 1,
         "github_forks": 0,
         "fork": false,
@@ -4482,7 +4482,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:46:14Z",
+    "checked_at": "2026-10-24T15:47:09Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -4506,7 +4506,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 22,
-        "freshness_days": 0.1,
+        "freshness_days": 0.3,
         "github_stars": 14,
         "github_forks": 5,
         "fork": false,
@@ -4555,7 +4555,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:50:57Z",
+    "checked_at": "2026-10-24T15:51:08Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -4579,7 +4579,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 16,
-        "freshness_days": 13.7,
+        "freshness_days": 13.9,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -4626,7 +4626,7 @@
       "registry",
       "repo-search:cloudstream eklenti in:name,description"
     ],
-    "checked_at": "2026-10-24T10:50:55Z",
+    "checked_at": "2026-10-24T15:51:06Z",
     "turkish": {
       "is_turkish": false,
       "score": 25,
@@ -4653,7 +4653,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 0,
-        "freshness_days": 18.6,
+        "freshness_days": 18.8,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -4700,7 +4700,7 @@
       "registry",
       "repo-search:cloudstream Türkçe in:name,description"
     ],
-    "checked_at": "2026-10-24T10:49:12Z",
+    "checked_at": "2026-10-24T15:49:38Z",
     "turkish": {
       "is_turkish": false,
       "score": 10,
@@ -4726,7 +4726,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 0,
-        "freshness_days": 56.7,
+        "freshness_days": 56.9,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -4772,7 +4772,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:48:08Z",
+    "checked_at": "2026-10-24T15:48:45Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -4796,7 +4796,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 0,
-        "freshness_days": 239.3,
+        "freshness_days": 239.5,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -4846,7 +4846,7 @@
       "registry",
       "repo-search:cloudstream eklenti in:name,description"
     ],
-    "checked_at": "2026-10-24T10:47:20Z",
+    "checked_at": "2026-10-24T15:48:05Z",
     "turkish": {
       "is_turkish": false,
       "score": 25,
@@ -4873,7 +4873,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 0,
-        "freshness_days": 16.9,
+        "freshness_days": 17.1,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -4919,7 +4919,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:46:24Z",
+    "checked_at": "2026-10-24T15:47:18Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -4943,7 +4943,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 0,
-        "freshness_days": 1063.3,
+        "freshness_days": 1063.5,
         "github_stars": 2,
         "github_forks": 0,
         "fork": false,
@@ -4990,7 +4990,7 @@
       "owner-expand:cugucugu",
       "registry"
     ],
-    "checked_at": "2026-10-24T10:48:55Z",
+    "checked_at": "2026-10-24T15:49:23Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -5014,7 +5014,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 0,
-        "freshness_days": 483.9,
+        "freshness_days": 484.1,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -5061,7 +5061,7 @@
       "owner-expand:cugucugu",
       "registry"
     ],
-    "checked_at": "2026-10-24T10:48:37Z",
+    "checked_at": "2026-10-24T15:49:09Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -5085,7 +5085,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 0,
-        "freshness_days": 516.7,
+        "freshness_days": 516.9,
         "github_stars": 0,
         "github_forks": 17,
         "fork": false,
@@ -5131,7 +5131,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:48:12Z",
+    "checked_at": "2026-10-24T15:48:48Z",
     "turkish": {
       "is_turkish": false,
       "score": 20,
@@ -5157,7 +5157,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 0,
-        "freshness_days": 638.9,
+        "freshness_days": 639.1,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -5204,7 +5204,7 @@
       "owner-expand:cugucugu",
       "registry"
     ],
-    "checked_at": "2026-10-24T10:48:40Z",
+    "checked_at": "2026-10-24T15:49:11Z",
     "turkish": {
       "is_turkish": false,
       "score": 20,
@@ -5230,7 +5230,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 0,
-        "freshness_days": 494.2,
+        "freshness_days": 494.4,
         "github_stars": 0,
         "github_forks": 0,
         "fork": true,
@@ -5276,7 +5276,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:46:22Z",
+    "checked_at": "2026-10-24T15:47:16Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -5300,7 +5300,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 0,
-        "freshness_days": 194.3,
+        "freshness_days": 194.5,
         "github_stars": 2,
         "github_forks": 2,
         "fork": false,
@@ -5346,7 +5346,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:47:23Z",
+    "checked_at": "2026-10-24T15:48:07Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -5370,7 +5370,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 0,
-        "freshness_days": 25.5,
+        "freshness_days": 25.7,
         "github_stars": 3,
         "github_forks": 0,
         "fork": false,
@@ -5503,7 +5503,7 @@
       "registry",
       "repo-search:cloudstream eklenti in:name,description"
     ],
-    "checked_at": "2026-10-24T10:51:12Z",
+    "checked_at": "2026-10-24T15:51:21Z",
     "turkish": {
       "is_turkish": false,
       "score": 10,
@@ -5529,7 +5529,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 0,
-        "freshness_days": 254.0,
+        "freshness_days": 254.3,
         "github_stars": 1,
         "github_forks": 0,
         "fork": false,
@@ -5575,7 +5575,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:45:46Z",
+    "checked_at": "2026-10-24T15:46:45Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -5599,7 +5599,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 0,
-        "freshness_days": 59.5,
+        "freshness_days": 59.7,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -5648,7 +5648,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:46:31Z",
+    "checked_at": "2026-10-24T15:47:23Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -5672,7 +5672,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 0,
-        "freshness_days": 571.5,
+        "freshness_days": 571.8,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -5718,7 +5718,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:46:39Z",
+    "checked_at": "2026-10-24T15:47:29Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -5742,7 +5742,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 0,
-        "freshness_days": 370.7,
+        "freshness_days": 370.9,
         "github_stars": 1,
         "github_forks": 0,
         "fork": false,
@@ -5790,7 +5790,7 @@
       "registry",
       "repo-search:cloudstream eklenti in:name,description"
     ],
-    "checked_at": "2026-10-24T10:49:38Z",
+    "checked_at": "2026-10-24T15:49:59Z",
     "turkish": {
       "is_turkish": false,
       "score": 25,
@@ -5817,7 +5817,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 0,
-        "freshness_days": 366.5,
+        "freshness_days": 366.7,
         "github_stars": 1,
         "github_forks": 0,
         "fork": false,
@@ -5864,7 +5864,7 @@
       "owner-expand:tecobaba",
       "registry"
     ],
-    "checked_at": "2026-10-24T10:50:46Z",
+    "checked_at": "2026-10-24T15:50:58Z",
     "turkish": {
       "is_turkish": false,
       "score": 15,
@@ -5890,7 +5890,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 0,
-        "freshness_days": 494.0,
+        "freshness_days": 494.2,
         "github_stars": 0,
         "github_forks": 0,
         "fork": true,
@@ -5936,7 +5936,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:46:21Z",
+    "checked_at": "2026-10-24T15:47:15Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -5960,7 +5960,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 0,
-        "freshness_days": 155.8,
+        "freshness_days": 156.0,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -6009,7 +6009,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:47:46Z",
+    "checked_at": "2026-10-24T15:48:27Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -6033,7 +6033,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 0,
-        "freshness_days": 36.2,
+        "freshness_days": 36.4,
         "github_stars": 1,
         "github_forks": 0,
         "fork": false,
@@ -6079,7 +6079,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:50:43Z",
+    "checked_at": "2026-10-24T15:50:56Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -6103,7 +6103,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 0,
-        "freshness_days": 616.6,
+        "freshness_days": 616.8,
         "github_stars": 2,
         "github_forks": 0,
         "fork": false,
@@ -6149,7 +6149,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:46:50Z",
+    "checked_at": "2026-10-24T15:47:39Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -6173,7 +6173,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 0,
-        "freshness_days": 520.9,
+        "freshness_days": 521.1,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -6219,7 +6219,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:49:42Z",
+    "checked_at": "2026-10-24T15:50:02Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -6243,7 +6243,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 0,
-        "freshness_days": 65.3,
+        "freshness_days": 65.5,
         "github_stars": 1,
         "github_forks": 0,
         "fork": false,
@@ -6289,7 +6289,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:46:26Z",
+    "checked_at": "2026-10-24T15:47:20Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -6313,7 +6313,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 0,
-        "freshness_days": 528.2,
+        "freshness_days": 528.4,
         "github_stars": 0,
         "github_forks": 1,
         "fork": false,
@@ -6359,7 +6359,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:49:02Z",
+    "checked_at": "2026-10-24T15:49:30Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -6383,7 +6383,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 0,
-        "freshness_days": 528.2,
+        "freshness_days": 528.4,
         "github_stars": 0,
         "github_forks": 0,
         "fork": true,
@@ -6429,7 +6429,7 @@
     "discovered_by": [
       "registry"
     ],
-    "checked_at": "2026-10-24T10:48:53Z",
+    "checked_at": "2026-10-24T15:49:22Z",
     "turkish": {
       "is_turkish": false,
       "score": 0,
@@ -6453,7 +6453,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 0,
-        "freshness_days": 505.6,
+        "freshness_days": 505.8,
         "github_stars": 0,
         "github_forks": 0,
         "fork": false,
@@ -6500,7 +6500,7 @@
       "owner-expand:cugucugu",
       "registry"
     ],
-    "checked_at": "2026-10-24T10:48:46Z",
+    "checked_at": "2026-10-24T15:49:15Z",
     "turkish": {
       "is_turkish": false,
       "score": 15,
@@ -6526,7 +6526,7 @@
       "metrics": {
         "declared_down_count": 0,
         "plugin_count": 0,
-        "freshness_days": 534.0,
+        "freshness_days": 534.2,
         "github_stars": 0,
         "github_forks": 0,
         "fork": true,

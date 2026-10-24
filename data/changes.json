@@ -1,44 +1,53 @@
 {
-  "generated_at": "2026-10-24T10:56:32Z",
-  "candidate_count": 252,
-  "verified_count": 194,
-  "turkish_count": 108,
-  "app_ready_count": 94,
-  "published_plugin_count": 270,
-  "rejected_plugin_count": 62,
+  "generated_at": "2026-10-24T15:57:08Z",
+  "candidate_count": 253,
+  "verified_count": 193,
+  "turkish_count": 107,
+  "app_ready_count": 91,
+  "published_plugin_count": 267,
+  "rejected_plugin_count": 69,
   "plugin_fallback_count": 28,
-  "catalog_repo_count": 94,
+  "catalog_repo_count": 91,
   "global_count": 86,
   "changes": [
     {
+      "type": "new",
+      "repository": "MakotoTokioki/MakotoSkystream",
+      "plugin_count": 24
+    },
+    {
+      "type": "missing",
+      "repository": "MakotoTokioki/Cloudstream-Turkce-Eklentiler"
+    },
+    {
+      "type": "missing",
+      "repository": "MakotoTokioki/Kekik-cloudstream"
+    },
+    {
+      "type": "missing",
+      "repository": "fsamet/Cloudstream-Turkce-Eklentiler"
+    },
+    {
+      "type": "missing",
+      "repository": "tecobaba/Cloudstream-Turkce-Eklentiler"
+    },
+    {
+      "type": "plugin_count",
+      "repository": "Bymesut1/Kartaloglu-cs",
+      "old": 14,
+      "new": 15
+    },
+    {
       "type": "plugins_updated",
       "repository": "Bymesut1/Kartaloglu-cs",
-      "old": "2026-10-24T01:07:56Z",
-      "new": "2026-10-24T04:50:50Z"
-    },
-    {
-      "type": "plugin_count",
-      "repository": "Kayracs3/Kayra",
-      "old": 35,
-      "new": 34
+      "old": "2026-10-24T04:50:50Z",
+      "new": "2026-10-24T14:14:03Z"
     },
     {
       "type": "plugins_updated",
       "repository": "Kayracs3/Kayra",
-      "old": "2026-10-24T00:20:21Z",
-      "new": "2026-10-24T10:02:17Z"
-    },
-    {
-      "type": "plugins_updated",
-      "repository": "altigenay/cloudstream-eklentiler",
-      "old": "2026-10-23T23:34:52Z",
-      "new": "2026-10-24T05:39:55Z"
-    },
-    {
-      "type": "plugin_count",
-      "repository": "hrtestingx/hrcsrepo",
-      "old": 7,
-      "new": 8
+      "old": "2026-10-24T10:02:17Z",
+      "new": "2026-10-24T11:19:03Z"
     }
   ]
 }

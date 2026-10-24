@@ -339,26 +339,6 @@
     "name": "AsyaLuna"
   },
   {
-    "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepofull/builds/AsyaWatch.cs3",
-    "status": 1,
-    "version": 38,
-    "name": "AsyaWatch",
-    "internalName": "AsyaWatch",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "description": "Kore, Çin ve Japon dizilerini tek tıkla HD ve Türkçe altyazılı izle. En güncel Asya dizileri, unutulmaz Asya filmleri ve web dramalar seni bekliyor.",
-    "fileSize": 61456,
-    "repositoryUrl": "https://github.com/hrtestingx/hrcsrepofull",
-    "language": "tr",
-    "tvTypes": [
-      "AsianDrama"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=asyawatch.com",
-    "apiVersion": 1,
-    "fileHash": "sha256-75c09c7a2087ab0e1abcf2d2b55da86900b146b2273f1670cc73c6a8a2be8ffe"
-  },
-  {
     "name": "AtomSpor",
     "internalName": "AtomSpor",
     "version": 2,
@@ -397,25 +377,6 @@
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.atv.com&size=128",
     "apiVersion": 1,
     "fileHash": "sha256-a5313ccf55212f685bc962a04c4a6ea878fa9a64572d07c4db3917615c2ea624"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/dr-octagon/Cloudstream-BronzeCloud/builds/BCSports_v47.cs3",
-    "status": 1,
-    "version": 47,
-    "name": "BCSports",
-    "internalName": "BCSports",
-    "authors": [
-      "Dr.Octagon"
-    ],
-    "description": "BC Sports IPTV ve canlı maç yayınları.",
-    "fileSize": 164918,
-    "repositoryUrl": "https://github.com/dr-octagon/Cloudstream-BronzeCloud",
-    "language": "tr",
-    "tvTypes": [
-      "Live"
-    ],
-    "apiVersion": 1,
-    "fileHash": "sha256-b01a2bd2c03b7305d29958e5cc90944b70557405eb0fcb1b34e93718e2f73b6e"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?sz=128&domain=belgeselx.com",
@@ -1460,24 +1421,25 @@
     "fileHash": "sha256-9baca9e27e70d6966712b1e82d56050a00fb905c31c8207a1429b9a72bf9cdf9"
   },
   {
-    "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziMom.cs3",
+    "url": "https://raw.githubusercontent.com/dr-octagon/Cloudstream-BronzeCloud/builds/DiziMom_v64.cs3",
     "status": 1,
     "version": 64,
     "name": "DiziMom",
     "internalName": "DiziMom",
     "authors": [
-      "keyiflerolsun"
+      "keyiflerolsun",
+      "Dr.Octagon"
     ],
     "description": "Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
-    "fileSize": 34839,
-    "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
+    "fileSize": 40539,
+    "repositoryUrl": "https://github.com/dr-octagon/Cloudstream-BronzeCloud",
     "language": "tr",
     "tvTypes": [
       "TvSeries"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.plus&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.diy&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-95ca49def313d96c75ff8f8ff7882a669e74c91e14f1bdcfa347d4e36c42f3f9"
+    "fileHash": "sha256-6837a55226cbcfe9190664a9ede25f5437efbbf88568ae58ab99eac5bbf38e43"
   },
   {
     "url": "https://raw.githubusercontent.com/arcilingir/Dizi_Film_2/builds/DiziPal.cs3",
@@ -1568,26 +1530,27 @@
     "fileHash": "sha256-9edbba7de77174e2ed2828238b05ef16fedfb42e2a5f5561ff8af53c8ec59a34"
   },
   {
-    "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPalOriginal.cs3",
-    "status": 1,
-    "version": 111,
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DiziPalOriginal.cs3?v=b0dbe91f05c7",
+    "status": 3,
+    "version": 10,
     "name": "DiziPalOriginal",
     "internalName": "DiziPalOriginal",
     "authors": [
-      "keyiflerolsun",
-      "muratcesmecioglu"
+      "Wiojelt"
     ],
-    "description": "en yeni dizileri güvenli ve hızlı şekilde sunar.",
-    "fileSize": 27831,
-    "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
+    "description": "Dizi Pal Original · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 225771,
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
+      "Movie",
       "TvSeries",
-      "Movie"
+      "Anime",
+      "Documentary"
     ],
-    "iconUrl": "https://chessplyimages.cfd/uploads/site/favicon-32x32.png",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziPal.png",
     "apiVersion": 1,
-    "fileHash": "sha256-02a80813415f006854301117b01a5a2c4ec43339e6b969eda7439bc4410df86e"
+    "fileHash": "sha256-b0dbe91f05c766e3327818dc5079c2ca3d8cb38dc30968f9208f6605d9e74a5d"
   },
   {
     "url": "https://raw.githubusercontent.com/aytzey/cs-kraptor/builds/DiziPalOrijinal.cs3",
@@ -2136,10 +2099,10 @@
   },
   {
     "iconUrl": "https://filmkutusu.com/favicon.ico",
-    "fileHash": "sha256-7309daf39f47d0615796554ab7cc38952b48848dd3b29e09ecedca6bbea603e5",
+    "fileHash": "sha256-f8af57dc95232b317c4f4902cdfda1c37d1bda6b569a431ced318b14e401641d",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kayracs3/Kayra",
-    "fileSize": 33862,
+    "fileSize": 22257,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2726,27 +2689,6 @@
     "hash": "4a1e74e75c27e803e39f68cb05923381cc34d907f63caa942332c45c545e5247"
   },
   {
-    "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepofull/builds/HintDizi.cs3",
-    "status": 1,
-    "version": 12,
-    "name": "HintDizi",
-    "internalName": "HintDizi",
-    "authors": [
-      "kraptor"
-    ],
-    "description": "HintDizi film ve dizi içerikleri sağlayıcısı.",
-    "fileSize": 18767,
-    "repositoryUrl": "https://github.com/hrtestingx/hrcsrepofull",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.hintdizi.com&size=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-17b05d1520478574f694ab15b284efcab6a66d5a202b568dcf9ff15f1ea2909d"
-  },
-  {
     "url": "https://raw.githubusercontent.com/liberta09/Kekik-cloudstream/builds/HintFilmIzle.cs3",
     "status": 1,
     "version": 16,
@@ -2833,6 +2775,26 @@
     "fileHash": "sha256-0560fd8f23816f0dedace7c477700e2a47c078664d5216535c488cb0eefa725f"
   },
   {
+    "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepo/builds/HRLive.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "HR Live",
+    "internalName": "HRLive",
+    "authors": [
+      "hrtestingx"
+    ],
+    "description": "HR Live - Toplu Canlı TV",
+    "fileSize": 19604,
+    "repositoryUrl": "https://github.com/hrtestingx/hrcsrepo",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/hrtestingx/hrcsrepo/hrcslogo/hrcslive.webp",
+    "apiVersion": 1,
+    "fileHash": "sha256-b357ae17e7b173c27f814c54730bd55da2ccb046c4745676edec6c0716d41787"
+  },
+  {
     "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepo/builds/HRMovies.cs3",
     "status": 1,
     "version": 1,
@@ -2917,17 +2879,19 @@
     "fileHash": "sha256-c2e758a6a3c72751368c787c06f31e4d3ea4904ece22112731a2b390698fa934"
   },
   {
-    "url": "https://raw.githubusercontent.com/aytzey/cs-kraptor/builds/InatBox.cs3",
-    "status": 1,
-    "version": 59,
+    "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepofull/builds/InatBox.cs3",
+    "status": 2,
+    "version": 54,
     "name": "InatBox",
     "internalName": "InatBox",
     "authors": [
-      "Dr.Octagon"
+      "Eagle",
+      "kraptor",
+      "JustRelaxable"
     ],
-    "description": "Güncel sunucu protokolü ve saat eşitleme desteği.",
-    "fileSize": 49715,
-    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "description": "Bu eklenti düzenli güncelleme almayacaktır!",
+    "fileSize": 50829,
+    "repositoryUrl": "https://github.com/hrtestingx/hrcsrepofull",
     "language": "tr",
     "tvTypes": [
       "Movie",
@@ -2936,73 +2900,7 @@
     ],
     "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
     "apiVersion": 1,
-    "fileHash": "sha256-40af752b91c04549bf7785bf5fc523b975b79af1b1f3477803c30c78dd36e664"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/dr-octagon/Cloudstream-BronzeCloud/builds/inatbox-bc_v14.cs3",
-    "status": 1,
-    "version": 14,
-    "name": "inatbox-bc",
-    "internalName": "inatbox-bc",
-    "authors": [
-      "Dr.Octagon"
-    ],
-    "description": "İnatBox BronzeCloud Edition - Canlı kanallar, spor ve diziler burada.",
-    "fileSize": 54491,
-    "repositoryUrl": "https://github.com/dr-octagon/Cloudstream-BronzeCloud",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Live"
-    ],
-    "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-4ec5f4440a0c79fe08bc004c6221976f41f5c1b0abe7587708f5799710ae0385"
-  },
-  {
-    "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
-    "fileHash": "sha256-e530f46bd9cf3c61611d7bea44c7bf4d54a89f3113673b81d3dc702263f0061a",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 54180,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "MRC"
-    ],
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Live"
-    ],
-    "version": 4,
-    "internalName": "InatBoxBC",
-    "description": "ÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â°natBox BC - CanlÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± kanallar, spor, film ve diziler.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/InatBoxBC.cs3",
-    "name": "InatBoxBC"
-  },
-  {
-    "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
-    "fileHash": "sha256-d80238e6d3c82ac8a198ac7a17360c647e1e942cf49d67c315fb44ca141556d3",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Kayracs3/Kayra",
-    "fileSize": 91822,
-    "status": 3,
-    "language": "tr",
-    "authors": [
-      "Kayracs3"
-    ],
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Live"
-    ],
-    "version": 6,
-    "internalName": "InatBoxYedek",
-    "description": "İnatBoxYedek: InatBox ana eklentisinden ayrı, test ve yedek amaçlı sağlayıcı.",
-    "url": "https://raw.githubusercontent.com/Kayracs3/Kayra/builds/InatBoxYedek.cs3",
-    "name": "InatBoxYedek"
+    "fileHash": "sha256-643098f164c5465f50c2bd4bb2455a0f1d675fad1e7765d6c34e1f1fff1b4ce8"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/InterSporTV.cs3?v=edb8f888196e",
@@ -4339,25 +4237,25 @@
     "fileHash": "sha256-f1ebdac5ecf627f57bcf2ff07b331ea04d131f24e5f5dcde070b26c4a8420ad3"
   },
   {
-    "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepofull/builds/SelcukFlix.cs3",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=selcukflix.com&sz=%size%",
+    "fileHash": "sha256-d8c7cb43c93ce2084d58b2e7d405a3e6ed6febcb6fda767d89b87c65d5f43ef2",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 74045,
     "status": 1,
-    "version": 47,
-    "name": "SelcukFlix",
-    "internalName": "SelcukFlix",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "description": "Selcukflix'te her türden en yeni ve en popüler dizi ve filmleri izlemenin keyfini çıkarın. Aksiyondan romantiğe, bilim kurgudan dramaya, geniş kütüphanemizde herkes için bir şey var.",
-    "fileSize": 64411,
-    "repositoryUrl": "https://github.com/hrtestingx/hrcsrepofull",
     "language": "tr",
+    "authors": [
+      "MRC"
+    ],
     "tvTypes": [
       "Movie",
       "TvSeries"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=selcukflix.com",
-    "apiVersion": 1,
-    "fileHash": "sha256-7787b122e534c6f8e89011de6049a8011de492e095195ba363def27b30609e3a"
+    "version": 8,
+    "internalName": "SelcukFlix",
+    "description": "Selcukflix'te her tÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rden en yeni ve en popÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼ler dizi ve filmleri izlemenin keyfini ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§ÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±karÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±n. Aksiyondan romantiÃƒÆ’Ã¢â‚¬ÂÃƒâ€¦Ã‚Â¸e, bilim kurgudan dramaya, geniÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€¦Ã‚Â¸ kÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼tÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼phanemizde herkes iÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§in bir ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€¦Ã‚Â¸ey var",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/SelcukFlix.cs3",
+    "name": "SelcukFlix"
   },
   {
     "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/SelcukSports.cs3?v=75b590aaf195",
@@ -4777,6 +4675,26 @@
     "name": "Tabii",
     "fileHash": "sha256-c6fec9a5c512584b9d0e0898c160ee57578aa94cd1d65a5c3a5e18110879faa4",
     "fileSize": 46325
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=tabii.com&sz=%size%",
+    "fileHash": "sha256-0bdc680af9fbb792d6c543bc438bc4e056bee628e267f3a552af9df34f06dbd0",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/karayel90/cloudplug",
+    "fileSize": 66651,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "karayel90"
+    ],
+    "tvTypes": [
+      "Live"
+    ],
+    "version": 26,
+    "internalName": "TabiiProvider",
+    "description": "Türkiye'nin canlı TV kanalları: tabii kanalları (TRT 1, TRT 2, TRT Spor, TRT Haber, TRT Çocuk, TRT Belgesel, TRT Müzik, TRT Türk, TRT Kürdi, TRT Arapî, TRT Avaz, TRT WORLD, TRT Genç, TRT eba), Ace Stream (P2P) kanalları (beIN SPORTS) ve TR Kanalları (TV8, ATV, Star TV, DMAX ve daha fazlası; topluluk M3U listesinden otomatik güncellenir).",
+    "url": "https://raw.githubusercontent.com/karayel90/cloudplug/builds/TabiiProvider.cs3",
+    "name": "TabiiProvider"
   },
   {
     "url": "https://raw.githubusercontent.com/baristomruk-max/BTVault/builds/Tafdi.cs3",
@@ -5337,6 +5255,26 @@
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/VivoXSpor.png",
     "apiVersion": 1,
     "fileHash": "sha256-f8dd765ea7df9ef1ad28cb2185a877e047c23f9b6903ce45df30683d20914a48"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=vkvideo.ru&sz=%size%",
+    "fileHash": "sha256-d1618bc63782476ad2cd61970f8350e70d79b00f18837b9fe615c7a06b4b9a95",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Bymesut1/Kartaloglu-cs",
+    "fileSize": 28727,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "Bymesut1"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "version": 5,
+    "internalName": "VkVideo",
+    "description": "VK Video - vkvideo.ru'daki Türkçe dublaj ve altyazılı filmler",
+    "url": "https://raw.githubusercontent.com/Bymesut1/Kartaloglu-cs/builds/VkVideo.cs3",
+    "name": "VkVideo"
   },
   {
     "url": "https://raw.githubusercontent.com/aytzey/cs-kraptor/builds/WebDramaTurkey.cs3",
