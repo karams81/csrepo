@@ -1,53 +1,38 @@
 {
-  "generated_at": "2026-10-24T15:57:08Z",
+  "generated_at": "2026-10-24T20:46:09Z",
   "candidate_count": 253,
   "verified_count": 193,
   "turkish_count": 107,
   "app_ready_count": 91,
-  "published_plugin_count": 267,
-  "rejected_plugin_count": 69,
+  "published_plugin_count": 271,
+  "rejected_plugin_count": 65,
   "plugin_fallback_count": 28,
   "catalog_repo_count": 91,
   "global_count": 86,
   "changes": [
     {
-      "type": "new",
-      "repository": "MakotoTokioki/MakotoSkystream",
-      "plugin_count": 24
-    },
-    {
-      "type": "missing",
-      "repository": "MakotoTokioki/Cloudstream-Turkce-Eklentiler"
-    },
-    {
-      "type": "missing",
-      "repository": "MakotoTokioki/Kekik-cloudstream"
-    },
-    {
-      "type": "missing",
-      "repository": "fsamet/Cloudstream-Turkce-Eklentiler"
-    },
-    {
-      "type": "missing",
-      "repository": "tecobaba/Cloudstream-Turkce-Eklentiler"
+      "type": "plugins_updated",
+      "repository": "Bymesut1/Kartaloglu-cs",
+      "old": "2026-10-24T14:14:03Z",
+      "new": "2026-10-24T18:26:40Z"
     },
     {
       "type": "plugin_count",
-      "repository": "Bymesut1/Kartaloglu-cs",
-      "old": 14,
-      "new": 15
-    },
-    {
-      "type": "plugins_updated",
-      "repository": "Bymesut1/Kartaloglu-cs",
-      "old": "2026-10-24T04:50:50Z",
-      "new": "2026-10-24T14:14:03Z"
+      "repository": "Kayracs3/Kayra",
+      "old": 34,
+      "new": 35
     },
     {
       "type": "plugins_updated",
       "repository": "Kayracs3/Kayra",
-      "old": "2026-10-24T10:02:17Z",
-      "new": "2026-10-24T11:19:03Z"
+      "old": "2026-10-24T11:19:03Z",
+      "new": "2026-10-24T20:31:11Z"
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "neoser1984/neowatch",
+      "old": "2026-10-21T21:43:55Z",
+      "new": "2026-10-24T18:03:35Z"
     }
   ]
 }
