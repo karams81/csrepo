@@ -1440,47 +1440,46 @@
     "fileHash": "sha256-9baca9e27e70d6966712b1e82d56050a00fb905c31c8207a1429b9a72bf9cdf9"
   },
   {
-    "url": "https://raw.githubusercontent.com/dr-octagon/Cloudstream-BronzeCloud/builds/DiziMom_v64.cs3",
+    "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziMom.cs3",
     "status": 1,
     "version": 64,
     "name": "DiziMom",
     "internalName": "DiziMom",
     "authors": [
-      "keyiflerolsun",
-      "Dr.Octagon"
+      "keyiflerolsun"
     ],
     "description": "Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
-    "fileSize": 40539,
-    "repositoryUrl": "https://github.com/dr-octagon/Cloudstream-BronzeCloud",
+    "fileSize": 34839,
+    "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
     "language": "tr",
     "tvTypes": [
       "TvSeries"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.diy&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.plus&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-6837a55226cbcfe9190664a9ede25f5437efbbf88568ae58ab99eac5bbf38e43"
+    "fileHash": "sha256-95ca49def313d96c75ff8f8ff7882a669e74c91e14f1bdcfa347d4e36c42f3f9"
   },
   {
-    "url": "https://raw.githubusercontent.com/arcilingir/Dizi_Film_2/builds/DiziPal.cs3",
+    "url": "https://raw.githubusercontent.com/aytzey/cs-kraptor/builds/DiziPal.cs3",
     "status": 1,
-    "version": 47,
+    "version": 90,
     "name": "DiziPal",
     "internalName": "DiziPal",
     "authors": [
-      "keyiflerolsun",
-      "muratcesmecioglu"
+      "kraptor",
+      "ByAyzen"
     ],
-    "description": "en yeni dizileri güvenli ve hızlı şekilde sunar.",
-    "fileSize": 20086,
-    "repositoryUrl": "https://github.com/arcilingir/Dizi_Film_2",
+    "description": "En yeni dizileri güvenli ve hızlı şekilde sunar.",
+    "fileSize": 38257,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
     "language": "tr",
     "tvTypes": [
-      "TvSeries",
-      "Movie"
+      "Movie",
+      "TvSeries"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal683.com&sz=%size%",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal.im/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-cc53f8e7603fae232bcd8934715a7cfd0f6a42e63d7f7c11fa5c9c4cd0666468"
+    "fileHash": "sha256-b114f9a60754769d2b21dd3de9cf63171dbf9c6917794369337f38f0caa384f8"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal2142.com&sz=%size%",
@@ -1549,27 +1548,26 @@
     "fileHash": "sha256-9edbba7de77174e2ed2828238b05ef16fedfb42e2a5f5561ff8af53c8ec59a34"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DiziPalOriginal.cs3?v=b0dbe91f05c7",
-    "status": 3,
-    "version": 10,
+    "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPalOriginal.cs3",
+    "status": 1,
+    "version": 111,
     "name": "DiziPalOriginal",
     "internalName": "DiziPalOriginal",
     "authors": [
-      "Wiojelt"
+      "keyiflerolsun",
+      "muratcesmecioglu"
     ],
-    "description": "Dizi Pal Original · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 225771,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
+    "description": "en yeni dizileri güvenli ve hızlı şekilde sunar.",
+    "fileSize": 27831,
+    "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
     "language": "tr",
     "tvTypes": [
-      "Movie",
       "TvSeries",
-      "Anime",
-      "Documentary"
+      "Movie"
     ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziPal.png",
+    "iconUrl": "https://chessplyimages.cfd/uploads/site/favicon-32x32.png",
     "apiVersion": 1,
-    "fileHash": "sha256-b0dbe91f05c766e3327818dc5079c2ca3d8cb38dc30968f9208f6605d9e74a5d"
+    "fileHash": "sha256-02a80813415f006854301117b01a5a2c4ec43339e6b969eda7439bc4410df86e"
   },
   {
     "url": "https://raw.githubusercontent.com/aytzey/cs-kraptor/builds/DiziPalOrijinal.cs3",
@@ -2516,26 +2514,70 @@
     "fileHash": "sha256-cb652beb4fa6d583de3cbfdcc30b0fffab72fbe9158114bc3f3ff8673df52215"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
-    "fileHash": "sha256-d9a9ce9f20f8cea1c2057b20e846d8ca734c81c54bc2a76eef4ab2e9e0a23d7e",
+    "iconUrl": "https://www.google.com/s2/favicons?sz=128&domain=hdfilmcehennemi.nl",
+    "fileHash": "sha256-fd0c49b54571af9b85c2ae1f1c5b8b96fb4b4f454d342b55456e7ce4610b1d6b",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/bilhan50/BilhanTR",
-    "fileSize": 29053,
+    "repositoryUrl": "https://github.com/Emre-Kahveci/CloudStreamHub",
+    "fileSize": 139050,
     "status": 1,
     "language": "tr",
     "authors": [
-      "hexated",
-      "bilhan50"
+      "CloudStreamTR",
+      "keyiflerolsun"
     ],
     "tvTypes": [
       "Movie",
       "TvSeries"
     ],
-    "version": 21,
+    "version": 108,
     "internalName": "HDFilmCehennemi",
-    "description": "Türkiye'nin en hızlı hd film izleme sitesi",
-    "url": "https://raw.githubusercontent.com/bilhan50/BilhanTR/builds/HDFilmCehennemi.cs3",
+    "description": "HDFilmCehennemi - Yüksek kalitede Türkçe dublaj ve altyazılı film ve dizi izleme platformu",
+    "url": "https://raw.githubusercontent.com/Emre-Kahveci/CloudStreamHub/builds/HDFilmCehennemi.cs3",
     "name": "HDFilmCehennemi"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
+    "fileSize": 25407,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "hexated",
+      "keyiflerolsun"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 22,
+    "internalName": "HDFilmCehennemi 2",
+    "description": "Türkiye'nin en hızlı hd film izleme sitesi",
+    "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/HDFilmCehennemi.cs3",
+    "name": "HDFilmCehennemi 2",
+    "fileHash": "sha256-bff876a7263ee73a44a19006e61008bdec90026e7e4f9b4902c27b1f81a77172"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/HDFilmCehennemi1.cs3",
+    "status": 1,
+    "version": 48,
+    "name": "HDFilmCehennemi1",
+    "internalName": "HDFilmCehennemi1",
+    "authors": [
+      "hexated",
+      "keyiflerolsun"
+    ],
+    "description": "Türkiye'nin en hızlı hd film izleme sitesi",
+    "fileSize": 31696,
+    "repositoryUrl": "https://github.com/UmayTrade/MyTV",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
+    "apiVersion": 1,
+    "fileHash": "sha256-991505e4800e98458519dd563fca01c4bfc03763e6452b8d61d3c5eb9776cbb6"
   },
   {
     "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/HdFilmCehennemi2.cs3",
@@ -2578,6 +2620,27 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.hdfilmcehennemi.land&sz=%size%",
     "apiVersion": 1,
     "fileHash": "sha256-d5ae39b1e76852d37ccf84c3912e73240d1d4fba789cec4ee66b0de7c9e9f682"
+  },
+  {
+    "iconUrl": "https://www.hdfilmcehennemi.nl/favicon.ico",
+    "fileHash": "sha256-52bd321a75f9224cfe5f05c7efe5f48037cb3f79090f5bc288a573042380b4b1",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/EmRe-35/cloudstream-eklentim",
+    "fileSize": 66774,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "EmRe-35"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 1,
+    "internalName": "HdFilmCehennemiProvider",
+    "description": "HDFilmCehennemi film ve dizi eklentisi",
+    "url": "https://raw.githubusercontent.com/EmRe-35/cloudstream-eklentim/builds/HdFilmCehennemiProvider.cs3",
+    "name": "HdFilmCehennemiProvider"
   },
   {
     "url": "https://raw.githubusercontent.com/aytzey/cs-kraptor/builds/HDFilmDelisi.cs3",
@@ -2706,6 +2769,27 @@
     "fileHash": "sha256-4a1e74e75c27e803e39f68cb05923381cc34d907f63caa942332c45c545e5247",
     "apiVersion": 1,
     "hash": "4a1e74e75c27e803e39f68cb05923381cc34d907f63caa942332c45c545e5247"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepofull/builds/HintDizi.cs3",
+    "status": 1,
+    "version": 12,
+    "name": "HintDizi",
+    "internalName": "HintDizi",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "HintDizi film ve dizi içerikleri sağlayıcısı.",
+    "fileSize": 18767,
+    "repositoryUrl": "https://github.com/hrtestingx/hrcsrepofull",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.hintdizi.com&size=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-17b05d1520478574f694ab15b284efcab6a66d5a202b568dcf9ff15f1ea2909d"
   },
   {
     "url": "https://raw.githubusercontent.com/liberta09/Kekik-cloudstream/builds/HintFilmIzle.cs3",
@@ -4014,10 +4098,10 @@
   },
   {
     "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-hdTlaRfTO3bpbNN57otxLOQ1iSvgBNOGkXCnePUFZ5bWcvNQEd4LsTWcckMOTA8WMDUZjgS7cz8Qe1DHnsnMz8KsFjr8jGx7OwGwFmAuhGVhiRbiPrJwHlSj_vT2RGIlKBE7Qw1jXBw0n74mZk5ltikRlLqjH24eBTTbeow_XT9Q3uFfR1lz1esWxQk/s230/logo.png",
-    "fileHash": "sha256-d42890c7358252a20212715c038387b284673ea7fecc65845da1bc012bfa7696",
+    "fileHash": "sha256-8fede83ad4e4d21b40b3a10c2179ff64f522f52d6abaa7e9be557a7d09856c3b",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kayracs3/Kayra",
-    "fileSize": 28482,
+    "fileSize": 29593,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -4760,6 +4844,26 @@
     "fileSize": 46325
   },
   {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=tabii.com&sz=%size%",
+    "fileHash": "sha256-43945ad0a75d59f0aff3931a76998663b4eca6d23dcea208379434f0897dd368",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/karayel90/cloudplug",
+    "fileSize": 68285,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "karayel90"
+    ],
+    "tvTypes": [
+      "Live"
+    ],
+    "version": 31,
+    "internalName": "TabiiProvider",
+    "description": "Türkiye'nin canlı TV kanalları: tabii kanalları (TRT 1, TRT 2, TRT Spor, TRT Haber, TRT Çocuk, TRT Belgesel, TRT Müzik, TRT Türk, TRT Kürdi, TRT Arapî, TRT Avaz, TRT WORLD, TRT Genç, TRT eba), Ace Stream (P2P) kanalları (beIN SPORTS) ve TR Kanalları (TV8, ATV, Star TV, DMAX ve daha fazlası; topluluk M3U listesinden otomatik güncellenir).",
+    "url": "https://raw.githubusercontent.com/karayel90/cloudplug/builds/TabiiProvider.cs3",
+    "name": "TabiiProvider"
+  },
+  {
     "url": "https://raw.githubusercontent.com/baristomruk-max/BTVault/builds/Tafdi.cs3",
     "status": 1,
     "version": 1,
@@ -5341,7 +5445,7 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=vkvideo.ru&sz=%size%",
-    "fileHash": "sha256-ccf0472c7045255055e30cdb323dd5bc14cf5fe689b7186c1ed61f635338c0f3",
+    "fileHash": "sha256-be992e8cfa04a03d0604714e98348ec3e0cbef4692c5c06de443bb6f1724d9ae",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Bymesut1/Kartaloglu-cs",
     "fileSize": 44792,
@@ -5353,7 +5457,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 7,
+    "version": 9,
     "internalName": "VkVideo",
     "description": "VK Video - vkvideo.ru'daki Türkçe dublaj ve altyazılı filmler",
     "url": "https://raw.githubusercontent.com/Bymesut1/Kartaloglu-cs/builds/VkVideo.cs3",
