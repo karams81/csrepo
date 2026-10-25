@@ -1,61 +1,55 @@
 {
-  "generated_at": "2026-10-25T16:12:19Z",
-  "candidate_count": 254,
-  "verified_count": 194,
-  "turkish_count": 108,
-  "app_ready_count": 92,
-  "published_plugin_count": 281,
-  "rejected_plugin_count": 72,
-  "plugin_fallback_count": 25,
-  "catalog_repo_count": 92,
+  "generated_at": "2026-10-25T20:53:04Z",
+  "candidate_count": 255,
+  "verified_count": 195,
+  "turkish_count": 109,
+  "app_ready_count": 93,
+  "published_plugin_count": 288,
+  "rejected_plugin_count": 65,
+  "plugin_fallback_count": 26,
+  "catalog_repo_count": 93,
   "global_count": 86,
   "changes": [
     {
       "type": "new",
-      "repository": "sanjarkola-collab/cloudstream-turkce-dist",
-      "plugin_count": 228
+      "repository": "JustSadY/Cloudstream-Lykia",
+      "plugin_count": 11
+    },
+    {
+      "type": "plugin_count",
+      "repository": "Bymesut1/cs-plugins",
+      "old": 11,
+      "new": 9
     },
     {
       "type": "plugins_updated",
       "repository": "Bymesut1/cs-plugins",
-      "old": "2026-09-26T14:20:02Z",
-      "new": "2026-10-25T15:58:41Z"
-    },
-    {
-      "type": "plugin_count",
-      "repository": "MakotoTokioki/MakotoSkystream",
-      "old": 24,
-      "new": 23
+      "old": "2026-10-25T15:58:41Z",
+      "new": "2026-10-25T17:58:27Z"
     },
     {
       "type": "plugins_updated",
-      "repository": "MakotoTokioki/MakotoSkystream",
-      "old": "2026-10-25T07:39:44Z",
-      "new": "2026-10-25T14:11:11Z"
-    },
-    {
-      "type": "plugin_count",
-      "repository": "altigenay/cloudstream-eklentiler",
-      "old": 3,
-      "new": 4
+      "repository": "Kayracs3/Kayra",
+      "old": "2026-10-24T21:49:22Z",
+      "new": "2026-10-25T20:36:54Z"
     },
     {
       "type": "plugins_updated",
       "repository": "altigenay/cloudstream-eklentiler",
-      "old": "2026-10-25T09:00:06Z",
-      "new": "2026-10-25T15:57:02Z"
+      "old": "2026-10-25T15:57:02Z",
+      "new": "2026-10-25T16:13:56Z"
     },
     {
-      "type": "plugins_updated",
-      "repository": "berr49300/cloudstream-film-repo",
-      "old": "2026-10-25T11:01:48Z",
-      "new": "2026-10-25T14:24:09Z"
+      "type": "plugin_count",
+      "repository": "manitux-app/cs-plugins",
+      "old": 11,
+      "new": 9
     },
     {
       "type": "plugins_updated",
       "repository": "manitux-app/cs-plugins",
-      "old": "2026-09-26T14:20:02Z",
-      "new": "2026-10-25T15:58:41Z"
+      "old": "2026-10-25T15:58:41Z",
+      "new": "2026-10-25T17:58:27Z"
     }
   ]
 }
