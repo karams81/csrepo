@@ -1,44 +1,50 @@
 {
-  "generated_at": "2026-10-25T04:29:47Z",
+  "generated_at": "2026-10-25T11:21:44Z",
   "candidate_count": 253,
   "verified_count": 193,
   "turkish_count": 107,
   "app_ready_count": 91,
-  "published_plugin_count": 276,
-  "rejected_plugin_count": 60,
-  "plugin_fallback_count": 25,
+  "published_plugin_count": 249,
+  "rejected_plugin_count": 87,
+  "plugin_fallback_count": 27,
   "catalog_repo_count": 91,
   "global_count": 86,
   "changes": [
     {
       "type": "plugins_updated",
       "repository": "Bymesut1/Kartaloglu-cs",
-      "old": "2026-10-24T18:26:40Z",
-      "new": "2026-10-24T22:00:28Z"
-    },
-    {
-      "type": "plugins_updated",
-      "repository": "Kayracs3/Kayra",
-      "old": "2026-10-24T20:31:11Z",
-      "new": "2026-10-24T21:49:22Z"
+      "old": "2026-10-24T22:00:28Z",
+      "new": "2026-10-25T08:52:14Z"
     },
     {
       "type": "plugins_updated",
       "repository": "MakotoTokioki/MakotoSkystream",
-      "old": "2026-10-24T15:35:48Z",
-      "new": "2026-10-24T23:03:02Z"
+      "old": "2026-10-24T23:03:02Z",
+      "new": "2026-10-25T07:39:44Z"
+    },
+    {
+      "type": "plugin_count",
+      "repository": "altigenay/cloudstream-eklentiler",
+      "old": 1,
+      "new": 3
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "altigenay/cloudstream-eklentiler",
+      "old": "2026-10-24T05:39:55Z",
+      "new": "2026-10-25T09:00:06Z"
     },
     {
       "type": "plugin_count",
       "repository": "berr49300/cloudstream-film-repo",
-      "old": 5,
-      "new": 6
+      "old": 6,
+      "new": 7
     },
     {
       "type": "plugins_updated",
       "repository": "berr49300/cloudstream-film-repo",
-      "old": "2026-10-13T16:53:59Z",
-      "new": "2026-10-24T22:06:29Z"
+      "old": "2026-10-24T22:06:29Z",
+      "new": "2026-10-25T11:01:48Z"
     }
   ]
 }
