@@ -1,61 +1,50 @@
 {
-  "generated_at": "2026-10-26T04:35:05Z",
+  "generated_at": "2026-10-26T12:56:48Z",
   "candidate_count": 256,
   "verified_count": 196,
   "turkish_count": 110,
   "app_ready_count": 94,
-  "published_plugin_count": 281,
-  "rejected_plugin_count": 74,
+  "published_plugin_count": 289,
+  "rejected_plugin_count": 68,
   "plugin_fallback_count": 25,
   "catalog_repo_count": 94,
   "global_count": 86,
   "changes": [
     {
-      "type": "new",
-      "repository": "miskin1702/aslan-dist",
-      "plugin_count": 14
-    },
-    {
-      "type": "plugins_updated",
-      "repository": "Bymesut1/Kartaloglu-cs",
-      "old": "2026-10-25T08:52:14Z",
-      "new": "2026-10-25T22:03:07Z"
-    },
-    {
       "type": "plugins_updated",
       "repository": "Emre-Kahveci/CloudStreamHub",
-      "old": "2026-10-15T12:07:49Z",
-      "new": "2026-10-26T00:32:04Z"
+      "old": "2026-10-26T00:32:04Z",
+      "new": "2026-10-26T11:26:24Z"
     },
     {
       "type": "plugin_count",
       "repository": "JustSadY/Cloudstream-Lykia",
-      "old": 11,
-      "new": 26
+      "old": 26,
+      "new": 47
     },
     {
       "type": "plugins_updated",
       "repository": "JustSadY/Cloudstream-Lykia",
-      "old": "2026-10-25T20:07:29Z",
-      "new": "2026-10-25T21:34:47Z"
-    },
-    {
-      "type": "plugins_updated",
-      "repository": "Kayracs3/Kayra",
-      "old": "2026-10-25T20:36:54Z",
-      "new": "2026-10-25T21:29:51Z"
-    },
-    {
-      "type": "plugins_updated",
-      "repository": "MakotoTokioki/MakotoSkystream",
-      "old": "2026-10-25T14:11:11Z",
-      "new": "2026-10-25T21:51:14Z"
+      "old": "2026-10-25T21:34:47Z",
+      "new": "2026-10-26T08:24:32Z"
     },
     {
       "type": "plugins_updated",
       "repository": "arcilingir/CloudStreamHub",
-      "old": "2026-10-15T12:07:49Z",
-      "new": "2026-10-26T00:32:04Z"
+      "old": "2026-10-26T00:32:04Z",
+      "new": "2026-10-26T11:26:24Z"
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "berkdemir18/BerkStream-Hub",
+      "old": "2026-10-19T09:57:34Z",
+      "new": "2026-10-26T10:10:25Z"
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "berr49300/cloudstream-film-repo",
+      "old": "2026-10-25T14:24:09Z",
+      "new": "2026-10-26T11:07:18Z"
     }
   ]
 }
