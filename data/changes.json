@@ -1,55 +1,61 @@
 {
-  "generated_at": "2026-10-25T20:53:04Z",
-  "candidate_count": 255,
-  "verified_count": 195,
-  "turkish_count": 109,
-  "app_ready_count": 93,
-  "published_plugin_count": 288,
-  "rejected_plugin_count": 65,
-  "plugin_fallback_count": 26,
-  "catalog_repo_count": 93,
+  "generated_at": "2026-10-26T04:35:05Z",
+  "candidate_count": 256,
+  "verified_count": 196,
+  "turkish_count": 110,
+  "app_ready_count": 94,
+  "published_plugin_count": 281,
+  "rejected_plugin_count": 74,
+  "plugin_fallback_count": 25,
+  "catalog_repo_count": 94,
   "global_count": 86,
   "changes": [
     {
       "type": "new",
-      "repository": "JustSadY/Cloudstream-Lykia",
-      "plugin_count": 11
-    },
-    {
-      "type": "plugin_count",
-      "repository": "Bymesut1/cs-plugins",
-      "old": 11,
-      "new": 9
+      "repository": "miskin1702/aslan-dist",
+      "plugin_count": 14
     },
     {
       "type": "plugins_updated",
-      "repository": "Bymesut1/cs-plugins",
-      "old": "2026-10-25T15:58:41Z",
-      "new": "2026-10-25T17:58:27Z"
+      "repository": "Bymesut1/Kartaloglu-cs",
+      "old": "2026-10-25T08:52:14Z",
+      "new": "2026-10-25T22:03:07Z"
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "Emre-Kahveci/CloudStreamHub",
+      "old": "2026-10-15T12:07:49Z",
+      "new": "2026-10-26T00:32:04Z"
+    },
+    {
+      "type": "plugin_count",
+      "repository": "JustSadY/Cloudstream-Lykia",
+      "old": 11,
+      "new": 26
+    },
+    {
+      "type": "plugins_updated",
+      "repository": "JustSadY/Cloudstream-Lykia",
+      "old": "2026-10-25T20:07:29Z",
+      "new": "2026-10-25T21:34:47Z"
     },
     {
       "type": "plugins_updated",
       "repository": "Kayracs3/Kayra",
-      "old": "2026-10-24T21:49:22Z",
-      "new": "2026-10-25T20:36:54Z"
+      "old": "2026-10-25T20:36:54Z",
+      "new": "2026-10-25T21:29:51Z"
     },
     {
       "type": "plugins_updated",
-      "repository": "altigenay/cloudstream-eklentiler",
-      "old": "2026-10-25T15:57:02Z",
-      "new": "2026-10-25T16:13:56Z"
-    },
-    {
-      "type": "plugin_count",
-      "repository": "manitux-app/cs-plugins",
-      "old": 11,
-      "new": 9
+      "repository": "MakotoTokioki/MakotoSkystream",
+      "old": "2026-10-25T14:11:11Z",
+      "new": "2026-10-25T21:51:14Z"
     },
     {
       "type": "plugins_updated",
-      "repository": "manitux-app/cs-plugins",
-      "old": "2026-10-25T15:58:41Z",
-      "new": "2026-10-25T17:58:27Z"
+      "repository": "arcilingir/CloudStreamHub",
+      "old": "2026-10-15T12:07:49Z",
+      "new": "2026-10-26T00:32:04Z"
     }
   ]
 }
