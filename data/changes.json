@@ -1,44 +1,20 @@
 {
-  "generated_at": "2026-10-27T04:53:07Z",
+  "generated_at": "2026-10-27T12:13:17Z",
   "candidate_count": 257,
   "verified_count": 196,
   "turkish_count": 110,
   "app_ready_count": 94,
-  "published_plugin_count": 280,
-  "rejected_plugin_count": 65,
-  "plugin_fallback_count": 26,
+  "published_plugin_count": 269,
+  "rejected_plugin_count": 76,
+  "plugin_fallback_count": 28,
   "catalog_repo_count": 94,
   "global_count": 86,
   "changes": [
     {
       "type": "plugins_updated",
       "repository": "Bymesut1/Kartaloglu-cs",
-      "old": "2026-10-25T22:03:07Z",
-      "new": "2026-10-27T01:10:14Z"
-    },
-    {
-      "type": "plugins_updated",
-      "repository": "Emre-Kahveci/CloudStreamHub",
-      "old": "2026-10-26T11:26:24Z",
-      "new": "2026-10-26T22:56:22Z"
-    },
-    {
-      "type": "plugins_updated",
-      "repository": "Wiojelt/WioSpor",
-      "old": "2026-10-26T21:28:36Z",
-      "new": "2026-10-26T23:19:54Z"
-    },
-    {
-      "type": "plugins_updated",
-      "repository": "arcilingir/CloudStreamHub",
-      "old": "2026-10-26T11:26:24Z",
-      "new": "2026-10-26T22:56:22Z"
-    },
-    {
-      "type": "plugins_updated",
-      "repository": "arcilingir/WioSpor",
-      "old": "2026-10-26T19:38:24Z",
-      "new": "2026-10-26T23:19:54Z"
+      "old": "2026-10-27T01:10:14Z",
+      "new": "2026-10-27T08:02:58Z"
     }
   ]
 }
