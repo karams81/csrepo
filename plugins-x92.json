@@ -1420,24 +1420,24 @@
     "fileHash": "sha256-9baca9e27e70d6966712b1e82d56050a00fb905c31c8207a1429b9a72bf9cdf9"
   },
   {
-    "url": "https://raw.githubusercontent.com/aytzey/cs-kraptor/builds/DiziMom.cs3",
+    "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziMom.cs3",
     "status": 1,
-    "version": 62,
+    "version": 64,
     "name": "DiziMom",
     "internalName": "DiziMom",
     "authors": [
-      "kraptor"
+      "keyiflerolsun"
     ],
     "description": "Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
-    "fileSize": 55298,
-    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "fileSize": 34839,
+    "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
     "language": "tr",
     "tvTypes": [
       "TvSeries"
     ],
-    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.dizimom.mom&size=32",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.plus&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-7779eb99afe8c96fffa5e161e8752d4ad1f6bea01d8f797bbf803d68acabe362"
+    "fileHash": "sha256-95ca49def313d96c75ff8f8ff7882a669e74c91e14f1bdcfa347d4e36c42f3f9"
   },
   {
     "url": "https://raw.githubusercontent.com/aytzey/cs-kraptor/builds/DiziPal.cs3",
@@ -1505,17 +1505,17 @@
     "name": "DizipalExtended"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/sinema/DiziPalHub.cs3?v=9edbba7de771",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DiziPalHub.cs3?v=70f18ab8350b",
     "status": 3,
-    "version": 25,
+    "version": 23,
     "name": "DiziPalHub",
     "internalName": "DiziPalHub",
     "authors": [
       "Wiojelt"
     ],
-    "description": "DiziPal Hub · Son Bölümler, 1592, 2225, DDiziPal ve Orjinal 15 kaynakları tek merkezde",
-    "fileSize": 232194,
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "description": "DiziPal Hub · Son Bölümler, 1590, 2225, DDiziPal ve Orjinal 14 kaynakları tek merkezde",
+    "fileSize": 223245,
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
       "Movie",
@@ -1523,9 +1523,10 @@
       "Anime",
       "Documentary"
     ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/DiziPalHub.png",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziPalHub.png",
     "apiVersion": 1,
-    "fileHash": "sha256-9edbba7de77174e2ed2828238b05ef16fedfb42e2a5f5561ff8af53c8ec59a34"
+    "fileHash": "sha256-70f18ab8350b1b474f31bc99671a43ab9fc772ffb01d3eba4b33491049672c76",
+    "hash": "70f18ab8350b1b474f31bc99671a43ab9fc772ffb01d3eba4b33491049672c76"
   },
   {
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPalOriginal.cs3",
@@ -2050,29 +2051,6 @@
     "description": "Yerli ve yabancÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶dÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼llÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼ tÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼m filmleri TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rkÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§e Dublaj veya Orjinal dilde izleyebileceÃƒÆ’Ã¢â‚¬ÂÃƒâ€¦Ã‚Â¸iniz TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rkiye'nin en kaliteli film izleme platformuna hoÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€¦Ã‚Â¸geldiniz.",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/FilmIzyon.cs3",
     "name": "FilmIzyon"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/FilmIzzle.cs3?v=1678f9e17bea",
-    "status": 3,
-    "version": 7,
-    "name": "FilmIzzle",
-    "internalName": "FilmIzzle",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "FilmIzzle · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 137131,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=filmizzle.com&sz=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-1678f9e17beae0478abd51517544d62db37040279c9a6122378d668837ac31bc"
   },
   {
     "url": "https://raw.githubusercontent.com/liberta09/Kekik-cloudstream/builds/FilmKovasi.cs3",
@@ -2963,6 +2941,28 @@
     "description": "İnatBoxYedek: InatBox ana eklentisinden ayrı, test ve yedek amaçlı sağlayıcı.",
     "url": "https://raw.githubusercontent.com/Kayracs3/Kayra/builds/InatBoxYedek.cs3",
     "name": "InatBoxYedek"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizilabmedia.click&sz=%size%",
+    "fileHash": "sha256-a961aac51fd4ecc0534e70ff18f71bb35292933494168f76a61defa38fe578f3",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/miskin1702/aslan-pub",
+    "fileSize": 44975,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "Aslan"
+    ],
+    "tvTypes": [
+      "Live",
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 7,
+    "internalName": "InatTVBox",
+    "description": "İnat TV Box — Canlı Spor, Exxen, BluTV, Disney+, Netflix, GAİN, Tabii ve Sinema",
+    "url": "https://raw.githubusercontent.com/miskin1702/aslan-pub/main/InatTVBox.cs3",
+    "name": "InatTVBox"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/InterSporTV.cs3?v=edb8f888196e",
@@ -4823,6 +4823,26 @@
     "name": "Tabii"
   },
   {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=tabii.com&sz=%size%",
+    "fileHash": "sha256-fbfb2fd9783f9d7185ffeaa2ecd5a4cbabc1f4795b654e4b948bac10960af811",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/karayel90/cloudplug",
+    "fileSize": 71480,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "karayel90"
+    ],
+    "tvTypes": [
+      "Live"
+    ],
+    "version": 37,
+    "internalName": "TabiiProvider",
+    "description": "Türkiye'nin canlı TV kanalları: tabii kanalları (TRT 1, TRT 2, TRT Spor, TRT Haber, TRT Çocuk, TRT Belgesel, TRT Müzik, TRT Türk, TRT Kürdi, TRT Arapî, TRT Avaz, TRT WORLD, TRT Genç, TRT eba), doğrudan HLS spor kanalları (beIN SPORTS, S Sport, Tivibu Spor) ve TR Kanalları (TV8, ATV, Star TV, DMAX ve daha fazlası; topluluk M3U listesinden otomatik güncellenir).",
+    "url": "https://raw.githubusercontent.com/karayel90/cloudplug/builds/TabiiProvider.cs3",
+    "name": "TabiiProvider"
+  },
+  {
     "url": "https://raw.githubusercontent.com/baristomruk-max/BTVault/builds/Tafdi.cs3",
     "status": 1,
     "version": 1,
@@ -5255,27 +5275,6 @@
     "description": "TV2'nin dizi, film ve program arşivini Türkçe olarak izleyin",
     "url": "https://raw.githubusercontent.com/JustSadY/Cloudstream-Lykia/builds/TV2.cs3",
     "name": "TV2"
-  },
-  {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.tv8.com.tr&sz=%size%",
-    "fileHash": "sha256-093676f7cdf2c6899aaff128c4512a23d3ea64e42cd27b1d4904b388b4eb980c",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 19859,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "MRC"
-    ],
-    "tvTypes": [
-      "TvSeries",
-      "Live"
-    ],
-    "version": 2,
-    "internalName": "Tv8",
-    "description": "TV8 programlarÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±, yarÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€¦Ã‚Â¸malarÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±, dizileri ve canlÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± yayÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±n.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/Tv8.cs3",
-    "name": "Tv8"
   },
   {
     "url": "https://raw.githubusercontent.com/aytzey/cs-kraptor/builds/TvDiziler.cs3",

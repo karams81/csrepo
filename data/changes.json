@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-10-27T18:10:55Z",
+  "generated_at": "2026-10-27T22:21:18Z",
   "candidate_count": 257,
   "verified_count": 196,
   "turkish_count": 110,
   "app_ready_count": 94,
   "published_plugin_count": 277,
-  "rejected_plugin_count": 67,
-  "plugin_fallback_count": 27,
+  "rejected_plugin_count": 68,
+  "plugin_fallback_count": 26,
   "catalog_repo_count": 94,
   "global_count": 86,
   "changes": [
     {
       "type": "plugin_count",
       "repository": "Bymesut1/Kartaloglu-cs",
-      "old": 15,
-      "new": 14
+      "old": 14,
+      "new": 16
     },
     {
       "type": "plugins_updated",
       "repository": "Bymesut1/Kartaloglu-cs",
-      "old": "2026-10-27T08:02:58Z",
-      "new": "2026-10-27T12:26:35Z"
+      "old": "2026-10-27T12:26:35Z",
+      "new": "2026-10-27T20:58:58Z"
     }
   ]
 }
