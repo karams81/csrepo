@@ -1,6 +1,9 @@
 {
-  "name": "Kapatıldı",
-  "description": "Bu depo adresi taşınmıştır.",
+  "iconUrl": "https://raw.githubusercontent.com/Kraptor123/Cs-GizliKeyif/refs/heads/master/.github/logo/gizlikeyif.png",
+  "name": "yalc_karams81",
+  "description": "Gönlün gibi",
   "manifestVersion": 1,
-  "pluginLists": []
+  "pluginLists": [
+    "https://raw.githubusercontent.com/karams81/csrepo/refs/heads/main/plugins-x92.json"
+  ]
 }
